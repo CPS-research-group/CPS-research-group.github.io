@@ -16,7 +16,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="website graphics.svg">
   <defs
      id="defs2">
@@ -84,17 +84,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-225.84457"
-     inkscape:cy="736.07169"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="-783.41594"
+     inkscape:cy="881.20115"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1916"
+     inkscape:window-height="1035"
+     inkscape:window-x="4"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -163,7 +163,7 @@
        inkscape:export-ydpi="156.87521" />
     <g
        id="g6259"
-       transform="matrix(0.06883664,0,0,0.06883664,18.479222,38.587991)"
+       transform="matrix(0.05566138,0,0,0.0537792,20.350109,31.104444)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <path
@@ -177,7 +177,7 @@
     </g>
     <g
        id="g6336"
-       transform="matrix(0.16555386,0,0,0.16555386,48.219692,26.496548)"
+       transform="matrix(0.16555386,0,0,0.16555386,52.228735,29.436513)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -227,7 +227,7 @@
     </g>
     <g
        id="g6405"
-       transform="matrix(0.03747176,0,0,0.03747176,21.218935,68.435362)"
+       transform="matrix(0.03747176,0,0,0.03747176,22.288013,60.684546)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -351,7 +351,7 @@
     </g>
     <g
        id="g6545"
-       transform="matrix(0.07012376,0,0,0.07012376,55.297423,49.935085)"
+       transform="matrix(0.07012376,0,0,0.07012376,54.495614,53.676858)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -394,7 +394,7 @@
     </g>
     <g
        id="g6736"
-       transform="matrix(0.06408442,0,0,0.06408442,115.05545,54.364696)"
+       transform="matrix(0.06656814,0,0,0.07364739,115.58999,46.74079)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -437,7 +437,7 @@
     </g>
     <g
        id="g6796"
-       transform="matrix(0.07372694,0,0,0.07372694,135.55427,20.031299)"
+       transform="matrix(0.0776531,0,0,0.06546224,138.80983,18.83081)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -479,55 +479,8 @@
          id="g6770" />
     </g>
     <g
-       id="g6859"
-       transform="matrix(0.03642642,0,0,0.03642642,174.386,49.634682)"
-       inkscape:export-xdpi="156.87521"
-       inkscape:export-ydpi="156.87521">
-      <g
-         id="g6802">
-        <g
-           id="g6800">
-          <path
-             id="path6798"
-             d="m 492,164 c 0,-2.667 -1,-5 -3,-7 -2,-2 -4.333,-3 -7,-3 H 348 c -2.667,0 -5,-1 -7,-3 -2,-2 -3,-4.333 -3,-7 V 10 c 0,-2.667 -1,-5 -3,-7 -2,-2 -4.333,-3 -7,-3 H 164 c -2.667,0 -5,1 -7,3 -2,2 -3,4.333 -3,7 v 134 c 0,2.667 -1,5 -3,7 -2,2 -4.333,3 -7,3 H 10 c -2.667,0 -5,1 -7,3 -2,2 -3,4.333 -3,7 v 164 c 0,2.667 1,5 3,7 2,2 4.333,3 7,3 h 134 c 2.667,0 5,1 7,3 2,2 3,4.333 3,7 v 134 c 0,2.667 1,5 3,7 2,2 4.333,3 7,3 h 164 c 2.667,0 5,-1 7,-3 2,-2 3,-4.333 3,-7 V 348 c 0,-2.667 1,-5 3,-7 2,-2 4.333,-3 7,-3 h 134 c 2.667,0 5,-1 7,-3 2,-2 3,-4.333 3,-7 z"
-             style="fill:#010002"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         id="g6804" />
-      <g
-         id="g6806" />
-      <g
-         id="g6808" />
-      <g
-         id="g6810" />
-      <g
-         id="g6812" />
-      <g
-         id="g6814" />
-      <g
-         id="g6816" />
-      <g
-         id="g6818" />
-      <g
-         id="g6820" />
-      <g
-         id="g6822" />
-      <g
-         id="g6824" />
-      <g
-         id="g6826" />
-      <g
-         id="g6828" />
-      <g
-         id="g6830" />
-      <g
-         id="g6832" />
-    </g>
-    <g
        id="g6916"
-       transform="matrix(0.07439101,0,0,0.07439101,156.72457,74.324118)"
+       transform="matrix(0.06113924,0,0,0.06716792,145.95778,82.806906)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <path
@@ -568,19 +521,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="8.5526247"
+       x="-3.0890419"
        y="138.77644"
        id="text6920"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521"><tspan
          sodipodi:role="line"
          id="tspan6918"
-         x="8.5526247"
+         x="-3.0890419"
          y="138.77644"
-         style="stroke-width:0.26458332">Computer Systems Research Group</tspan></text>
+         style="stroke-width:0.26458332">Cyber-Physical Systems Research Group</tspan></text>
     <g
        id="g6977"
-       transform="matrix(0.32312808,0,0,0.32312808,7.5399569,136.82705)"
+       transform="matrix(0.3683982,0,0,0.32312808,-4.1017103,136.82705)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <path
@@ -622,16 +575,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="20.13324"
+       x="8.4915762"
        y="156.16489"
        id="text6920-7"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521"><tspan
          sodipodi:role="line"
          id="tspan6918-3"
-         x="20.13324"
+         x="8.4915762"
          y="156.16489"
-         style="font-size:9.87777805px;stroke-width:0.26458332">Nanyang Technological University</tspan></text>
+         style="font-size:9.87777805px;stroke-width:0.26458332">Computer Science &amp; Engineering, NTU</tspan></text>
     <g
        id="g7014"
        transform="matrix(1.0435177,0,0,1.0435177,103.52769,231.84217)"
@@ -983,8 +936,10 @@
        id="rect4806"
        width="338.66666"
        height="113.32228"
-       x="-343.95834"
-       y="0.99014938" />
+       x="-341.12354"
+       y="0.42318508"
+       inkscape:export-xdpi="156.87521"
+       inkscape:export-ydpi="156.87521" />
     <path
        inkscape:connector-curvature="0"
        id="text1322-7-5"
@@ -1268,7 +1223,7 @@
     </g>
     <g
        id="g6796-5"
-       transform="matrix(0.04917651,0,0,0.04917651,-156.06568,17.294401)"
+       transform="matrix(0.04917651,0,0,0.04917651,-155.00734,14.648566)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <g
@@ -1310,55 +1265,8 @@
          id="g6770-0" />
     </g>
     <g
-       id="g6859-5"
-       transform="matrix(0.02429674,0,0,0.02429674,-130.16459,37.040117)"
-       inkscape:export-xdpi="156.87521"
-       inkscape:export-ydpi="156.87521">
-      <g
-         id="g6802-3">
-        <g
-           id="g6800-4">
-          <path
-             id="path6798-3"
-             d="m 492,164 c 0,-2.667 -1,-5 -3,-7 -2,-2 -4.333,-3 -7,-3 H 348 c -2.667,0 -5,-1 -7,-3 -2,-2 -3,-4.333 -3,-7 V 10 c 0,-2.667 -1,-5 -3,-7 -2,-2 -4.333,-3 -7,-3 H 164 c -2.667,0 -5,1 -7,3 -2,2 -3,4.333 -3,7 v 134 c 0,2.667 -1,5 -3,7 -2,2 -4.333,3 -7,3 H 10 c -2.667,0 -5,1 -7,3 -2,2 -3,4.333 -3,7 v 164 c 0,2.667 1,5 3,7 2,2 4.333,3 7,3 h 134 c 2.667,0 5,1 7,3 2,2 3,4.333 3,7 v 134 c 0,2.667 1,5 3,7 2,2 4.333,3 7,3 h 164 c 2.667,0 5,-1 7,-3 2,-2 3,-4.333 3,-7 V 348 c 0,-2.667 1,-5 3,-7 2,-2 4.333,-3 7,-3 h 134 c 2.667,0 5,-1 7,-3 2,-2 3,-4.333 3,-7 z"
-             style="fill:#010002"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-      <g
-         id="g6804-7" />
-      <g
-         id="g6806-5" />
-      <g
-         id="g6808-4" />
-      <g
-         id="g6810-6" />
-      <g
-         id="g6812-0" />
-      <g
-         id="g6814-6" />
-      <g
-         id="g6816-5" />
-      <g
-         id="g6818-7" />
-      <g
-         id="g6820-4" />
-      <g
-         id="g6822-7" />
-      <g
-         id="g6824-7" />
-      <g
-         id="g6826-4" />
-      <g
-         id="g6828-7" />
-      <g
-         id="g6830-8" />
-      <g
-         id="g6832-1" />
-    </g>
-    <g
        id="g6916-6"
-       transform="matrix(0.04961945,0,0,0.04961945,-141.94492,53.508187)"
+       transform="matrix(0.04961945,0,0,0.04961945,-150.76481,58.853578)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <path
@@ -1408,10 +1316,10 @@
          id="tspan6918-2"
          x="-240.77686"
          y="96.498451"
-         style="stroke-width:0.17647938">Computer Systems Research Group</tspan></text>
+         style="stroke-width:0.17647938">Cyber-Physical Systems Research Group</tspan></text>
     <g
        id="g6977-0"
-       transform="matrix(0.21552925,0,0,0.21552925,-241.45236,95.198189)"
+       transform="matrix(0.24721833,0,0,0.21552925,-241.45236,95.732729)"
        inkscape:export-xdpi="156.87521"
        inkscape:export-ydpi="156.87521">
       <path
@@ -1462,6 +1370,94 @@
          id="tspan6918-3-7"
          x="-233.05249"
          y="108.09669"
-         style="font-size:6.5885644px;stroke-width:0.17647938">Nanyang Technological University</tspan></text>
+         style="font-size:6.5885644px;stroke-width:0.17647938">Computer Science &amp; Engineering, NTU</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4855"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4857"><rect
+           id="rect4859"
+           width="1387.9496"
+           height="177.78685"
+           x="-1488.9648"
+           y="294.19461" /></flowRegion><flowPara
+         id="flowPara4861"></flowPara></flowRoot>    <g
+       id="g5174"
+       transform="matrix(0.1040435,0,0,-0.09818365,170.09951,76.926479)">
+      <path
+         id="path5119"
+         d="M 220.581,71.027 H 157.054 V 7.501 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 H 78.526 c -4.142,0 -7.5,3.358 -7.5,7.5 V 71.027 H 7.5 c -4.142,0 -7.5,3.358 -7.5,7.5 v 71.032 c 0,4.142 3.358,7.5 7.5,7.5 h 63.526 v 63.521 c 0,4.142 3.358,7.5 7.5,7.5 h 71.027 c 4.142,0 7.5,-3.358 7.5,-7.5 v -63.521 h 63.527 c 4.142,0 7.5,-3.358 7.5,-7.5 V 78.527 c 10e-4,-4.142 -3.357,-7.5 -7.499,-7.5 z m -7.5,71.032 h -63.527 c -4.142,0 -7.5,3.358 -7.5,7.5 V 213.08 H 86.026 v -63.521 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 H 15 V 86.027 h 63.526 c 4.142,0 7.5,-3.358 7.5,-7.5 V 15.001 h 56.027 v 63.526 c 0,4.142 3.358,7.5 7.5,7.5 h 63.527 v 56.032 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g5121" />
+      <g
+         id="g5123" />
+      <g
+         id="g5125" />
+      <g
+         id="g5127" />
+      <g
+         id="g5129" />
+      <g
+         id="g5131" />
+      <g
+         id="g5133" />
+      <g
+         id="g5135" />
+      <g
+         id="g5137" />
+      <g
+         id="g5139" />
+      <g
+         id="g5141" />
+      <g
+         id="g5143" />
+      <g
+         id="g5145" />
+      <g
+         id="g5147" />
+      <g
+         id="g5149" />
+    </g>
+    <g
+       id="g5174-8"
+       transform="matrix(0.08295068,0,0,-0.07240342,-133.87645,58.366345)"
+       inkscape:export-xdpi="156.87521"
+       inkscape:export-ydpi="156.87521">
+      <path
+         id="path5119-5"
+         d="M 220.581,71.027 H 157.054 V 7.501 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 H 78.526 c -4.142,0 -7.5,3.358 -7.5,7.5 V 71.027 H 7.5 c -4.142,0 -7.5,3.358 -7.5,7.5 v 71.032 c 0,4.142 3.358,7.5 7.5,7.5 h 63.526 v 63.521 c 0,4.142 3.358,7.5 7.5,7.5 h 71.027 c 4.142,0 7.5,-3.358 7.5,-7.5 v -63.521 h 63.527 c 4.142,0 7.5,-3.358 7.5,-7.5 V 78.527 c 10e-4,-4.142 -3.357,-7.5 -7.499,-7.5 z m -7.5,71.032 h -63.527 c -4.142,0 -7.5,3.358 -7.5,7.5 V 213.08 H 86.026 v -63.521 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 H 15 V 86.027 h 63.526 c 4.142,0 7.5,-3.358 7.5,-7.5 V 15.001 h 56.027 v 63.526 c 0,4.142 3.358,7.5 7.5,7.5 h 63.527 v 56.032 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g5121-9" />
+      <g
+         id="g5123-5" />
+      <g
+         id="g5125-7" />
+      <g
+         id="g5127-1" />
+      <g
+         id="g5129-4" />
+      <g
+         id="g5131-6" />
+      <g
+         id="g5133-5" />
+      <g
+         id="g5135-4" />
+      <g
+         id="g5137-7" />
+      <g
+         id="g5139-3" />
+      <g
+         id="g5141-0" />
+      <g
+         id="g5143-2" />
+      <g
+         id="g5145-0" />
+      <g
+         id="g5147-1" />
+      <g
+         id="g5149-0" />
+    </g>
   </g>
 </svg>
