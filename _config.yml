@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cyber-Physical Systems Research Group"
+  name             : "Arvind Easwaran"
   avatar           : "/assets/graphics/arvinde.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
   location         : # "Somewhere"
-  email            :
+  email            : "arvinde@ntu.edu.sg"
   uri              : "http://www.ntu.edu.sg/home/arvinde/"
   bitbucket        :
   codepen          :

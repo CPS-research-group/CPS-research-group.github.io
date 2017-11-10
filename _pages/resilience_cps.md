@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 author_profile: false
 title: "Resilient Cyber-Infrastructure for Manufacturing"
 header:
@@ -9,6 +9,13 @@ header:
     provider: youtube
 sitemap: false
 permalink: /resilience_cps/
+
+sidebar:
+  - title: "CPS@SCSE"
+  - title: "Research Staff"
+    text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
+  - title: "Research Students"
+    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
 
 component_observers:
   - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
@@ -30,7 +37,6 @@ component_observers:
     excerpt: "Due to the heterogeneous nature of the CPS infrastructure a multi-dimensional metric is required to quantitatively assess the resiliency of the system. The challenge is to develop a sensible abstraction across layers, while respecting the richness of the cyber-infrastructure. We discuss the abstractions that enable us to reason about the performance and resiliency of a system. The abstract metric involves (1) Availability, (2) Demand, (3) Utilisation, (4) Performance, and (5) Resilience."
 ---
 
-# Resilient Cyber-Infrastructure for Manufacturing
 ******
 
 # Problem statement

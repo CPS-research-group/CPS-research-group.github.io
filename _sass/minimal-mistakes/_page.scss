@@ -4,9 +4,9 @@
 
 #main {
   @include clearfix;
-  margin-left: auto;
+  margin-left: 2em;
   margin-top: 2em;
-  margin-right: auto;
+  margin-right: 2em;
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
@@ -16,7 +16,8 @@
           animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+/*    max-width: $x-large; */
+    max-width: 100%;
   }
 }
 
@@ -75,7 +76,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.75em;
   }
 
   /* paragraph indents */
