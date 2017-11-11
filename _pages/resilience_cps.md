@@ -11,7 +11,6 @@ sitemap: false
 permalink: /resilience_cps/
 
 sidebar:
-  - title: "CPS@SCSE"
   - title: "Research Staff"
     text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
   - title: "Research Students"

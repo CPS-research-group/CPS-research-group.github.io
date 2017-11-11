@@ -54,31 +54,35 @@ energymanagement:
 	**Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)**"
 ---
 
-<hr>
-<center><font size="8" color="grey">Overview</font> </center>
-<hr>
-<p>Cyber-Physical Systems (CPS) encompass systems in which the cyber world of computation and communication closely interacts with the physical world of sensors and actuators. These are highly networked and deeply embedded systems such as those found in modern day aircrafts, automotives, factories, medical devices, smart phones, electric grids, etc. From driver-less cars and air traffic management using sense and avoid, to plug-and-play operating rooms and smart electric grids that integrate traditional and renewable energy sources, intelligent automation of an enormous scale is finding its way into many of these systems.</p>
+******
 
-<p>Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber-infrastructures for CPS, especially for systems with time-critical functionalities (i.e., real-time systems). The research themes can be broadly classified as follows:</p>
+# Overview
+Cyber-Physical Systems (CPS) encompass systems in which the cyber world of computation and communication closely interacts with the physical world of sensors and actuators. These are highly networked and deeply embedded systems such as those found in modern day aircrafts, automotives, factories, medical devices, smart phones, electric grids, etc. From driver-less cars and air traffic management using sense and avoid, to plug-and-play operating rooms and smart electric grids that integrate traditional and renewable energy sources, intelligent automation of an enormous scale is finding its way into many of these systems.
 
-<ul>
-<li>Scheduling algorithms and hardware designs for real-time systems.</li>
-<li>Model-based design methodologies for resilience and operational efficiency.</li>
-<li>Scheduling algorithms for energy management.</li>
-</ul>
+Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber-infrastructures for CPS, especially for systems with time-critical functionalities (i.e., real-time systems). The research themes can be broadly classified as follows:
 
-<hr>
-<center><font size="8" color="grey">Real-Time Systems</font> </center>
-<hr>
+<ol>
+<li>Real-Time Systems (scheduling algorithms and hardware designs)</li>
+<li>Model-based Design Methodologies (for resilience and operational efficiency)</li>
+<li>Energy Management (scheduling algorithms)</li>
+</ol>
+
+******
+
+# Real-Time Systems
+
+******
 
 {% include feature_row id="realtime" type="left" %}
 
-<center><font size="8" color="grey">Model-based Design Methodologies</font> </center>
-<hr>
+# Model-based Design Methodologies
 
-{% include feature_row id="designmethodologies" type="right" %}
+******
 
-<center><font size="8" color="grey">Energy Management</font> </center>
-<hr>
+{% include feature_row id="designmethodologies" %}
+
+# Energy Management
+
+******
 
 {% include feature_row id="energymanagement" type="left" %}
