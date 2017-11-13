@@ -1,15 +1,34 @@
 # main links
 #main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#  - title: "Quick-Start Guide"
+#    url: /docs/quick-start-guide/
+#  - title: "About"
+#    url: /about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Terms &amp; Privacy Policy"
+#    url: /terms/
+
 return:
-  - title: "@return"
+  - title: return
     url: /
+
+# resilience_cps_ppl
+resilience_cps_ppl:
+  - title: CPS@SCSE
+    url: /
+  - title: Research Staff
+    children:
+      - title: "Sidharta Andalam (RF)"
+        url: /404.html
+      - title: "Mohammad Shihabul Haque (RF)"
+        url: /404.html
+      - title: "Daniel Ng Jun Xian (RA)"
+        url: /404.html
+  - title: Research Students
+    children:
+      - title: "Ankita Sammadar (PhD)"
+        url: /404.html
+      - title: "Daniel Ng Jun Xian (MEngg)"
