@@ -92,6 +92,8 @@ With increasing functionality and automation in real-time systems, the computati
 
 [//]: # [Read More](/cache_designs){: .btn .btn--inverse}
 
+<br><br>
+
 ******
 
 # Model-based Design Methodologies
@@ -130,6 +132,8 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
 
 [//]: # [Read More](/district_cooling){: .btn .btn--inverse}
+
+<br><br>
 
 ******
 
