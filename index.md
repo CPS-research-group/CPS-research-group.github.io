@@ -75,8 +75,9 @@ Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber
 
 ### Mixed-Criticality Scheduling Algorithms
 
-[//]: # ![image-right](){:height="50%" width="50%"}
-{: .align-right}
+******
+
+![image-right](/assets/graphics/time2task.png){:height="50%" width="50%"}{: .align-right}
 With increasing functionality and automation in real-time systems, the computational demand is steadily increasing, while resources available for servicing this demand are limited due to size, weight and power restrictions. As a result a module integration trend has emerged, so that many different applications are being cohosted on the same processing unit. Some of these applications are extremely critical for the correct behavior of the system (e.g., collision avoidance in automotive), while some others are relatively less critical (e.g., hill assist in automotive), thus giving rise to mixed-criticality real-time systems. In this project, we focus on the design of single-core as well as multi-core scheduling algorithms for such systems. We also develop practical workload models to characterize such systems, and evalute the same using an automotive testbed.
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
@@ -123,7 +124,7 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 
 ### Optimization Framework for District Cooling Systems
 
-[//]: # ![image-right](){:height="50%" width="50%"}{: .align-right}
+![image-right](/assets/graphics/controlHeating.png){:height="50%" width="50%"}{: .align-right}
 In Singapore, the operation of buildings consumes about 37% of total electricity, making them one of the largest consumers of primary energy. Around 70% of the energy used in buildings is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy for cooling in buildings will provide a large leverage for climate change mitigation. District cooling systems that supply such cooling energy from centralized chillers via distribution networks within a geographical area have emerged as an efficient alternative to personalized air-conditioning systems. Although such cooling systems are in commercial use globally, significant operational inefficiencies and losses are often reported. Towards mitigating these inefficiencies, in this project, we develop a design methodology for formal modelling and operational optimization of district cooling systems.
 
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
