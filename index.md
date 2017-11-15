@@ -106,6 +106,8 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 
 [Read More](/resilience_cps){: .btn .btn--inverse}
 
+******
+
 ### Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="50%" width="50%"}{: .align-left}
@@ -127,6 +129,8 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
 
 [//]: # [Read More](/district_cooling){: .btn .btn--inverse}
+
+******
 
 ### Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
