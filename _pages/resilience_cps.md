@@ -11,13 +11,13 @@ sitemap: false
 permalink: /resilience_cps/
 
 sidebar:
-  - title: ""
+  - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
     text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
   - title: "Research Students"
-    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"    
-
+    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+    
 component_observers:
   - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
     alt: "placeholder image 1"
@@ -49,55 +49,31 @@ Industry 4.0 has the potential to radically improve the productivity of manufact
 
 To enable a resilient cyber-infrastructure for Industry 4.0, we have presented a new contract-based methodology called CLAIR. Applications are described as a set of modular components that are distributed over a network. Contracts are used for describing the component’s interaction with other components (within and across layers). Finally, the contract are monitored using runtime observers. We detect failures (contract violation) and react (change of contracts) to the disturbances, providing resiliency. Finally, using an industrial case study we have validated the proposed architecture.
 
-******
-## 1. Proposed cyber-infrastructure
+### 1. Proposed cyber-infrastructure
 
-![image-left](/_pages/assets/resilience_cps/images/CILayers.jpg){:height="35%" width="35%"}{: .align-left}
-We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.  
+![image-left](/_pages/assets/resilience_cps/images/CILayers.jpg){:height="50%" width="50%"}{: .align-right}
+We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.
+{: .align-left}
 
-<br><br>
+### 2. Overview of components & contracts
 
-<br><br>
-
-<br><br>
-
-******
-
-## 2. Overview of components & contracts
-![image-left](/_pages/assets/resilience_cps/images/ComponentOverview.jpg){:height="25%" width="25%"}{: .align-left}
+![image-left](/_pages/assets/resilience_cps/images/ComponentOverview.jpg){:height="40%" width="40%"}{: .align-right}
 Interface: defines the I/O data channels of a component. Data is consumed through input interface, processed by the component, and output data is produced. Each component has only one interface. Behaviors: It is possible to describe multiple behaviors of the component. Each behavior is associated with a QoS. At runtime, the resilience manager select the behavior of the component. Contracts: A contract specifies assumptions on the behavior of the environment & guarantees about the behavior of the component. At runtime, the resilience manager can switch between contracts to react to the disturbances in the system. Resilience manager: Detect faults (using Observers) and decides (control logic) how best to react (response strategy).  
+{: .align-left}
 
-<br><br>
-
-<br><br>
-
-<br><br>
-
-******
-
-## 3. Observers for monitoring contracts
-![image-left](/_pages/assets/resilience_cps/images/ObserversOverview.jpg){:height="35%" width="35%"}{: .align-left}
+### 3. Observers for monitoring contracts
+![image-left](/_pages/assets/resilience_cps/images/ObserversOverview.jpg){:height="40%" width="40%"}{: .align-right}
 Static verification techniques are not generally adequate to validate whether or not the system meets the requirements (satisfies the contracts). This may be because some of the requirements can only be decided with the data available at runtime (e.g., a sensor producing invalid data). As an alternative, system requirements can be monitored at runtime using observers. In our approach, observers are expressed using computational models such as finite state machine, timed automaton or hybrid automata.  
+{: .align-left}
 
-<br><br>
-
-<br><br>
-
-******
-
-## 4. New metric for quantifying resiliency
-![image-left](/_pages/assets/resilience_cps/images/PerUtiVSTime.jpg){:height="25%" width="25%"}{: .align-left}
+### 4. New metric for quantifying resiliency
+![image-left](/_pages/assets/resilience_cps/images/PerUtiVSTime.jpg){:height="35%" width="35%"}{: .align-right}
 Due to the heterogeneous nature of the CPS infrastructure a multi-dimensional metric is required to quantitatively assess the resiliency of the system. The challenge is to develop a sensible abstraction across layers, while respecting the richness of the cyber-infrastructure. We discuss the abstractions that enable us to reason about the performance and resiliency of a system. The abstract metric involves (1) Availability, (2) Demand, (3) Utilisation, (4) Performance, and (5) Resilience.  
-
-<br><br>
-
-<br><br>
-
-<br><br>
+{: .align-left}
 
 ******
-
 # Evaluation testbed & demonstration
+
 {% include video id="78mwXSsyYlw" provider="youtube" %}
 
 > Video Caption: Assembly line setup for color-based sorting for work pieces. When the deadline for processing the Color Sensor data is not met, the following actions are expected. (1) Component communicates the occurrence of the fault with other components. (2) If the fault can be handled internally, the expected recovery time is informed to others. (3) At component-level, it can switch to a different contract (a behavior with less computation time). E.g., different signal processing algorithm. (4) At system-level, it is possible to reduce the speed of the motor, allowing more time for processing sensor data. All the decisions are guided by a new resilience metric
