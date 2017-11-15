@@ -11,11 +11,12 @@ sitemap: false
 permalink: /resilience_cps/
 
 sidebar:
-  nav: resilience_cps_ppl
-#  - title: "Research Staff"
-#    text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
-#  - title: "Research Students"
-#    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+  - title: ""
+    text: "[Return@CPSGroup](/){: .btn .btn--primary}"
+  - title: "Research Staff"
+    text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
+  - title: "Research Students"
+    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"    
 
 component_observers:
   - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
