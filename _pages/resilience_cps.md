@@ -12,7 +12,7 @@ permalink: /resilience_cps/
 
 sidebar:
   - title: ""
-    text: "[Return@CPSGroup](/){: .btn .btn--primary}"
+    text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
     text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
   - title: "Research Students"
