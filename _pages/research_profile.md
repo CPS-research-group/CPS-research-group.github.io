@@ -12,7 +12,7 @@ permalink: /research_profile/
 
 sidebar:
   - title: ""
-    text: "[Return@CPSGroup](/){: .btn .btn--primary}"
+    text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title:
     text: "[Google Scholar](https://scholar.google.com/citations?user=B_ouhTgAAAAJ){: .btn .btn--primary}"
   - title:
