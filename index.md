@@ -78,10 +78,12 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 
 ### Model-in-the-Loop Framework for Manufacturing
 
-![image-left](/assets/graphics/cpsModellingLogo.png){:height="50%" width="50%"}{: .align-left}
-With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that many of the desired objectives of Industry 4.0 such as predictive maintenance, agile manufacturing and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical plant in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation to characterize the cyber twin, and automatic model-to-code transformation for controller and cyber twin synthesis.
+![image-left](/assets/graphics/cpsModellingLogo.png){:height="60%" width="50%"}{: .align-left}
+With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation, and automatic model-to-code transformation for controller and cyber twin synthesis.
 
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+
+[Open Positions](/model_in_loop){: .btn .btn--primary}
 
 ******
 
