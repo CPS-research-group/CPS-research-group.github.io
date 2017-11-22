@@ -5,11 +5,27 @@ header:
   image: /assets/graphics/mainBanner.png
   
 sidebar:
+
   - title: "Research Staff"
-    text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
+    text: "
+Sidharta Andalam (RF)\n\n
+Mohammad Shihabul Haque (RF)\n\n
+Daniel Ng Jun Xian (RA)"
+
   - title: "Research Students"
-    text: "Xiaozhe Gu (PhD) \n \n Saravanan Ramanathan (PhD) \n \n Sriram Vasudevan (PhD) \n \n 
-Sundar Vijayakumar (PhD) \n \n Chiam Zhong Lim (PhD) \n \n Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+    text: "
+Xiaozhe Gu (PhD)\n\n
+Saravanan Ramanathan (PhD)\n\n
+Sriram Vasudevan (PhD)\n\n
+Sundar Vijayakumar (PhD)\n\n
+Chiam Zhong Lim (PhD)\n\n
+Ankita Sammadar (PhD)\n\n
+Daniel Ng Jun Xian (MEngg)"
+
+  - title: "Former Staff/Students"
+    text: "
+Bai Xue (Chinese Academy of Sciences, China)\n\n
+Arpita Battacharjee (Axiscades Engineering Technologies, India)"
 
 realtime:
   - image_path:
@@ -57,8 +73,6 @@ With increasing functionality and automation in real-time systems, the computati
 
 [//]: # [Read More](/cache_designs){: .btn .btn--inverse}
 
-<br><br>
-
 ******
 
 # Model-based Design Methodologies
@@ -74,14 +88,12 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 
 [Read More](/resilience_cps){: .btn .btn--primary}
 
-******
-
 ### Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="60%" width="50%"}{: .align-left}
 With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation, and automatic model-to-code transformation for controller and cyber twin synthesis.
 
-*Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+[//]: # *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
 [Open Positions](/model_in_loop){: .btn .btn--primary}
 
@@ -99,10 +111,6 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
 
 [//]: # [Read More](/district_cooling){: .btn .btn--inverse}
-
-<br><br>
-
-******
 
 ### Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
