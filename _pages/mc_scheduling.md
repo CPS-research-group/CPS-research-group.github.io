@@ -8,15 +8,13 @@ header:
     id: 78mwXSsyYlw
     provider: youtube -->
 sitemap: false
-permalink: /resilience_cps/
+permalink: /mc_scheduling/
 
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Staff"
-    <!-- text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)" -->
   - title: "Research Students"
-    text: "Saravanan Ramanathan (PhD) \n \n Xiaozhe  Gu (PHD) \n \n Sundar Vijayakumar"
+    text: "Xiaozhe  Gu (PHD) \n \n Saravanan Ramanathan (PhD) \n \n Sundar Vijayakumar (PhD)"
     
 component_observers:
   - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
