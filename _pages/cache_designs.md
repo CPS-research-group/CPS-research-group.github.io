@@ -41,8 +41,7 @@ component_observers:
 ******
 
 # Problem statement
-To ensure timely completion of tasks, real-time systems perform schedulability analysis. This analysis takes the Worst-Case-Execution-Time (WCET) of each task as input. To estimate a task's WCET bound offline, predicted behaviour of each level in the processor cache hierarchy (i.e. a safe upper bound for the number of cache misses encountered by the task) is required. However, when muticore processors are use, behaviour prediction becomes extremely challenging firstly because of the interdependency of tasks running concurrently on different processing cores, and secondly, because of share levels in the cache hierarchy. To overcome this challenge, a wide body of research tried to design prediction mechanisms; however, failed to come up with a pragmatic and efficient solution. 
-
+To ensure timely completion of tasks, real-time systems perform schedulability analysis. This analysis takes the Worst-Case-Execution-Time (WCET) of each task as input. To estimate a task's WCET bound offline, predicted behaviour of each level in the processor cache memory hierarchy (i.e. a safe upper bound for the number of cache misses encountered by the task) is required. However, when muticore processors are used, behaviour of each level in the cache hierarchy becomes extremely challenging firstly because of the interdependency of concurrently running tasks, and secondly, because of sharing by multiple processing cores. To overcome this challenge, a wide body of research tried to design suitable prediction mechanism and cache architecture; however, failed to come up with a pragmatic and efficient solution.
 ******
 
 # Our approach
