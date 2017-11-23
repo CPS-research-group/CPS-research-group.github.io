@@ -59,12 +59,13 @@ To address these unrealistic assumptions, we first proposed a component based mi
 ![image-left](/_pages/assets/mc_scheduling/images/IMS.png){:height="50%" width="50%"}{: .align-right}
 
 Our proposed component-based model for mixed-criticality systems  comprises a component-level design parameter called tolerance limit, which represents the expected number of high-criticality tasks within the component that will require additional resources at the same time. An execution strategy based on this parameter is also proposed, such that as long as WCET exceedance events are within the tolerance limit, low-criticality tasks in other components remain unaffected between internal mode-switch (IMS) and external mode-switch (EMS). Thus, the component boundaries of the proposed model are designed to provide the isolation necessary to support the execution of low-criticality tasks, and at the same time guarantee the correctness of the high-criticality ones.
+{: .align-left}
 
 ### 2. Dynamic Budget Management Scheme
 
-![image-left](/_pages/assets/mc_scheduling/images/flow1.pdf){:height="40%" width="40%"}{: .align-right}
+![image-left](/_pages/assets/mc_scheduling/images/flow1.png){:height="40%" width="40%"}{: .align-right}
 We propose a dynamic mixed-criticality task and scheduling model in which high-criticality task budgets are determined at run-time depending on the execution scenario. To ensure a safe execution for all the high-criticality tasks, resources are always guaranteed to them upto their WCETs, a single value provided by the application designer. Off-line, we use schedulability analysis to determine a total budget allocation (single value) for all the high-criticality tasks combined. Execution mode-switch occurs in this model only when the resource utilization of all the high-criticality asks collectively exceed this total budget. At run-time, we use a strategy to allocate budgets to individual high-criticality tasks, with the objective of postponing the execution mode-switch as much as possible.
-
+{: .align-left}
 
 ******
 
@@ -72,14 +73,15 @@ We propose a dynamic mixed-criticality task and scheduling model in which high-c
 
 ![image-left](/_pages/assets/mc_scheduling/images/multicore_mc.tiff){:height="50%" width="50%"}{: .align-right}
 To meet the growing processing demands of mixed-criticality systems, multi-core processors are increasingly being deployed due to their SWaP characteristics. We design several algorithms for scheduling dual-criticality systems on a homogeneous multiprocessor platform. In a dual-criticality system, there are tasks of two criticality levels, namely low and high. The high-criticality tasks have two utilization values, low-criticality utilization for low mode and high-criticality utilization for high mode. Our algorithms are broadly classified as follows.
+{: .align-left}
 
 ### 1. Global Scheduling
 We propose the multi-rate fluid scheduling model for dual-criticality systems wherein each high-criticality task uses different execution rate in the high-criticality mode. The main intuition behind this model is that, immediately upon entering the high-criticality mode several, several high-criticality tasks may simultaneously require additional processing capacity. To efficiently manage this overload, the multi-rate model distributes the execution across several windows of fixed duration. By managing the execution rates in these windows, the multi-rate model is able to provide a higher average execution rate to each high-criticality task.
 
-### 1. Partitioned Scheduling
+### 2. Partitioned Scheduling
 We focus on the problem of designing efficient partitioning strategies for dual-criticality systems. We develop a partitioning strategy based on the principle of evenly distributing the difference between total high-criticality utilization and total low-criticality utilization for the critical tasks among all processors. A smaller utilization difference implies the additional demand of high-criticality tasks when the system switches from low to high mode is small. Thus, we distribute this utilization difference evenly across all processors. By balancing this difference, we are able to reduce the pessimism in uniprocessor mixed-criticality schedulability tests that are applied on each processor, thus improving overall schedulability.
 
-### 1. Semi-Partitioned Scheduling
+### 3. Semi-Partitioned Scheduling
 In the conventional mixed-criticality workload model, upon criticality change, the lower criticality tasks are penalized to guarantee resources for the higher criticality ones. However, in practice, penalizing lower criticality tasks have adverse effects and hence, the system is often under-utilized. In this work, we consider the problem of guaranteeing some service to the lower criticality tasks after the criticality change. We explore the semi-partitioned scheduling model in which the low criticality tasks executing on a processor are migrated to an another processor upon mode switch to improve the service offered to them in the high criticality mode. We consider a restricted migration model wherein only the low criticality tasks are allowed to migrate between processors. To keep the predictability of the high criticality tasks intact we do not allow them to migrate.
  
 ******
@@ -89,6 +91,7 @@ In the conventional mixed-criticality workload model, upon criticality change, t
 # Evaluation testbed & demonstration
 
 ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="50%" width="50%"}{: .align-right}
+{: .align-left}
 
 ******
 
