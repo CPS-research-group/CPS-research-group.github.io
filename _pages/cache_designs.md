@@ -49,13 +49,13 @@ We investigate and design cache management-based opportunities to overcome the c
 
 ### 1. Proposed Replacement Policies
 
-![image-left](/_pages/assets/resilience_cps/images/CILayers.jpg){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.jpg){:height="50%" width="50%"}{: .align-right}
 We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.
 {: .align-left}
 
 ### 2. Overview of components & contracts
 
-![image-left](/_pages/assets/resilience_cps/images/ComponentOverview.jpg){:height="40%" width="40%"}{: .align-right}
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.jpg){:height="40%" width="40%"}{: .align-right}
 Interface: defines the I/O data channels of a component. Data is consumed through input interface, processed by the component, and output data is produced. Each component has only one interface. Behaviors: It is possible to describe multiple behaviors of the component. Each behavior is associated with a QoS. At runtime, the resilience manager select the behavior of the component. Contracts: A contract specifies assumptions on the behavior of the environment & guarantees about the behavior of the component. At runtime, the resilience manager can switch between contracts to react to the disturbances in the system. Resilience manager: Detect faults (using Observers) and decides (control logic) how best to react (response strategy).  
 {: .align-left}
 
