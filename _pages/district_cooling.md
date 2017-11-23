@@ -21,6 +21,6 @@ component_observers:
   - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
     alt: "placeholder image 1"
     title: "1. Problem statement"
-    excerpt: "hihi
+    excerpt: "hihiw
     
 
