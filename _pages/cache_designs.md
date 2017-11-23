@@ -47,15 +47,15 @@ To ensure timely completion of tasks, real-time systems perform schedulability a
 # Our approach
 We investigate and design cache management-based opportunities to overcome the cache predictability challenge for multicores. One direction of our curent approach is designing such cache replacement policies that (i) are easy-to-implement in conventional set-associative cache memories, (ii) enable private and/or shared cache behavior prediction using intuitive and simple mechanisms, (iii) make efficient utilization of cache space, and (iv) maintain minimal performance during fierce cache contention as well as during uneven cache utilization by the processing cores. Another direction is designing prefetching techniques and alterantive to prefetching thechniques that are suitable, efficient and pragmatic for multicore real-time systems.
 
-### 1. Replacement Policy for Shared Cache
+### 1. Replacement Policy for Private Cache
 We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.
 
 ![image-left](/_pages/assets/cache_designs/images/Shared_Cache.jpg)
 
-### 2. Proposed Replacement Policy for Private Cache
-Interface: defines the I/O data channels of a component. Data is consumed through input interface, processed by the component, and output data is produced. Each component has only one interface. Behaviors: It is possible to describe multiple behaviors of the component. Each behavior is associated with a QoS. At runtime, the resilience manager select the behavior of the component. Contracts: A contract specifies assumptions on the behavior of the environment & guarantees about the behavior of the component. At runtime, the resilience manager can switch between contracts to react to the disturbances in the system. Resilience manager: Detect faults (using Observers) and decides (control logic) how best to react (response strategy).  
+### 2. Replacement Policy for Shared Caches
+We successfully designed the first version of a prediction and performance aware replacement policy for cache memories shared among multiple processing cores. We believe that the replacement policy is the first of its kind to allow the predictable partitioning introduced by prior research works for shared caches. Moreover, this policy solves the performance limitations and practicality issues reported for the original proposal of predictable partitioning. Experimental results presented in Figure 1 shows the superiority of our replacement policy in terms of observed and predicted performance during execution of a task. 
 
-![image-left](/_pages/assets/cache_designs/images/Reconfigurable.jpg)
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.png)
 
 # References
 <ol>
