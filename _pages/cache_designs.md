@@ -8,7 +8,7 @@ header:
     id: 78mwXSsyYlw
     provider: youtube
 sitemap: false
-permalink: /resilience_cps/
+permalink: /cache_designs/
 
 sidebar:
   - title:
