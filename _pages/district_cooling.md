@@ -23,7 +23,7 @@ The proposed methodology builds on previous work on District Heating Systems (DH
 2. Linearizing / relaxing the model
 3. Defining variables which make the models non-linear as variables at the Master level. 
 
-![image-left](_pages/assets/district_cooling/methodology.png){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/district_cooling/methodology.png){:height="50%" width="50%"}{: .align-right}
 
 # References
 <ol>
