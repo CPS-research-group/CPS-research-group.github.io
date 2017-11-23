@@ -43,7 +43,7 @@ component_observers:
 # Motivation for Predictable Cache Design
 To ensure timely completion of tasks, real-time systems perform schedulability analysis. This analysis takes the Worst-Case-Execution-Time (WCET) of each task as input. To estimate a task's WCET bound offline, predicted behaviour of each level in the processor cache memory hierarchy (i.e. a safe upper bound for the number of cache misses encountered by the task) is required. However, when muticore processors are used, behaviour of each level in the cache hierarchy becomes extremely challenging to predict; firstly, because of the interdependency of concurrently running tasks, and secondly, because of sharing by the processing cores. To overcome this challenge, a wide body of research tried to design suitable prediction mechanism and cache architecture; however, failed to come up with a pragmatic and efficient solution.
 
-![image-left](/_pages/assets/cache_designs/images/Shared_Cache.png)
+![image-left](/_pages/assets/cache_designs/images/Drawing1.png)
 
 ******
 
@@ -53,7 +53,7 @@ We investigate and design cache management-based opportunities to overcome the c
 ### 1. Our Achievement in Replacement Policy for Shared Caches
 We successfully designed the first version of a prediction and performance aware replacement policy for cache memories shared among multiple processing cores. We believe that the replacement policy is the first of its kind to allow the predictable partitioning introduced by prior research works for shared caches. Moreover, this policy solves the performance limitations and practicality issues reported for the original proposal of predictable partitioning. Experimental results presented in Figure 1 shows the superiority of our replacement policy in terms of observed and predicted performance during execution of a task. 
 
-![image-left](/_pages/assets/cache_designs/images/Drawing1.png)
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.png)
 
 ### 2. Replacement Policy for Private Caches
 We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.
