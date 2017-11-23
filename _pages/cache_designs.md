@@ -54,7 +54,7 @@ We believe that the proposed 3-layered cyber infrastructure with cross-layer com
 
 ### 2. Overview of components & contracts
 Interface: defines the I/O data channels of a component. Data is consumed through input interface, processed by the component, and output data is produced. Each component has only one interface. Behaviors: It is possible to describe multiple behaviors of the component. Each behavior is associated with a QoS. At runtime, the resilience manager select the behavior of the component. Contracts: A contract specifies assumptions on the behavior of the environment & guarantees about the behavior of the component. At runtime, the resilience manager can switch between contracts to react to the disturbances in the system. Resilience manager: Detect faults (using Observers) and decides (control logic) how best to react (response strategy).  
-![image-left](/_pages/assets/cache_designs/images/Shared_Cache.eps)
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.pdf)
 
 ### 3. Observers for monitoring contracts
 ![image-left](/_pages/assets/resilience_cps/images/ObserversOverview.jpg){:height="40%" width="40%"}{: .align-right}
