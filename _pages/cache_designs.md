@@ -45,8 +45,7 @@ To ensure timely completion of tasks, real-time systems perform schedulability a
 ******
 
 # Our approach
-
-To enable a resilient cyber-infrastructure for Industry 4.0, we have presented a new contract-based methodology called CLAIR. Applications are described as a set of modular components that are distributed over a network. Contracts are used for describing the component’s interaction with other components (within and across layers). Finally, the contract are monitored using runtime observers. We detect failures (contract violation) and react (change of contracts) to the disturbances, providing resiliency. Finally, using an industrial case study we have validated the proposed architecture.
+We investigate cache replacement decision-based opportunities to overcome the cache predictability challenge for multicores. We are interested to design such cache replacement policies that (i) are easy-to-implement in conventional set-associative cache memories, (ii) enable private or shared cache behavior prediction using intuitive and simple mechanisms, (iii) make efficient utilization of cache space, and (iv) maintain minimal performance during fierce cache contention as well as during uneven cache utilization by the processing cores.
 
 ### 1. Proposed cyber-infrastructure
 
