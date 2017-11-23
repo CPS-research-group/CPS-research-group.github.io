@@ -8,7 +8,7 @@ title: "optimization of District Cooling Systems"
 # District Cooling Systems (DCS)
 
 DCS systems satisfy the cooling demand in an area through the production and distribution of chilled water from a central location. The centralization of chilled water production can take advantage of economies of scale, increasing system efficiently. It also alleviates maintenance responsibilities of air-conditioning maintenance from customers connected to the system. With the growing demand for cooling in cities, DCS are becoming an increasingly attractive option.   
-
+![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="45%" width="45%"}{: .align-right}
 ******
 # Problem statement
 
@@ -22,6 +22,8 @@ The proposed methodology builds on previous work on District Heating Systems (DH
 1. Identification of mathematical models for DCS components 
 2. Linearizing / relaxing the model
 3. Defining variables which make the models non-linear as variables at the Master level. 
+
+![image-left](_pages/assets/district_cooling/methodology.png){:height="50%" width="50%"}{: .align-right}
 
 # References
 <ol>
