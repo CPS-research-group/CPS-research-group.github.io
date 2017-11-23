@@ -1,17 +1,28 @@
 ---
 layout: single
 author_profile: false
-title: "Scheduling Algorithms for Mixed-Criticality Systems"
+title: "optimization of District Cooling Systems"
 ---
 
 ******
 # District Cooling Systems (DCS)
 
-
+DCS systems satisfy the cooling demand in an area through the production and distribution of chilled water from a central location. The centralization of chilled water production can take advantage of economies of scale, increasing system efficiently. It also alleviates maintenance responsibilities of air-conditioning maintenance from customers connected to the system. With the growing demand for cooling in cities, DCS are becoming an increasingly attractive option.   
 
 ******
-# Problem statement 
+# Problem statement
+
+Identification of the optimal design and operation of DCS systems is not a trival task. The system's efficiency is affected by equipment sizing, operation practices, demand profiles, weather conditions and resource availability etc. Interconnectedness of the system components further complicate the optimization task. Current optimization work concerning DCS systems tend to only consider the mono-optimization of simplified models of chillers (they usually account for upwards of 60% of DCS energy consumption) operating at fixed efficiencies. There is hence a need, for a more comprehensive framework which not only considers more variables but also explore the corresponding impact of optimizating conflicting objectives (e.g. cost and efficiency). 
 
 ******
 # Proposed methodology
 
+The proposed methodology builds on previous work on District Heating Systems (DHS) optimization by Fazlollahi S. et al (1). The decomposition optimization methodology was adopted and applied DCS. The approach decomposes the problem into 2 levels - Master (Genetic Algorithm, GA) and slave (Mixed Integer Linear Program, MILP). Such an approach reduces the variables and hence the search space handled by the GA, giving better convergence values. The following summarizes the main steps in the optimization procedure.
+
+1. Identification of mathematical models for DCS components 
+2. Linearizing / relaxing the model
+3. Defining variables which make the models non-linear as variables at the Master level. 
+
+# References
+<ol>
+<li> Samira Fazlollahi, Pierre Mandel, Gwenaelle Becker, Francois Maréchal,  “Methods for multi-objective investment and operating optimization of complex energy systems, Energy, 2012. </li> 
