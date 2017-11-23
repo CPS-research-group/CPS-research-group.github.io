@@ -50,13 +50,13 @@ To ensure timely completion of tasks, real-time systems perform schedulability a
 # Our approach
 We investigate and design cache management-based opportunities to overcome the cache predictability challenge for multicores. One direction of our curent approach is designing such cache replacement policies that (i) are easy-to-implement in conventional set-associative cache memories, (ii) enable private and/or shared cache behavior prediction using intuitive and simple mechanisms, (iii) make efficient utilization of cache space, and (iv) maintain minimal performance during fierce cache contention as well as during uneven cache utilization by the processing cores. Another direction is designing prefetching techniques and alterantive to prefetching thechniques that are suitable, efficient and pragmatic for multicore real-time systems.
 
-### 1. Our Achievement in Replacement Policy for Shared Caches
+### 1. Our Achievement for Shared Caches
 We successfully designed the first version of a prediction and performance aware replacement policy for cache memories shared among multiple processing cores. We believe that the replacement policy is the first of its kind to allow the predictable partitioning introduced by prior research works for shared caches. Moreover, this policy solves the performance limitations and practicality issues reported for the original proposal of predictable partitioning. Experimental results presented in Figure 2 shows the superiority of our replacement policy in terms of observed and predicted performance during execution of a task. 
 
 ![image-left](/_pages/assets/cache_designs/images/Shared_Cache.png)
 
-### 2. Replacement Policy for Private Caches
-We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line.
+### 2. Our Achievement for Private Caches
+We designed a prediction and performance aware replacement policy, ``VRAMCache’’, for non-unified private cache memories in inclusive cache hierarchy with write invalidate coherency protocol. The policy deploys a first of its kind low overhead conflict miss detection technique. Moreover, it utilizes a novel, pragmatic and easy-to-implement mechanism to reduce conflict misses when appropriate. Despite its dynamic replacement decisions to deal with conflict misses, LRU single-core based cache behaviour prediction mechanisms can be used to predict its behaviour. Figure 3 shows the superiority of VRAMCache replacement policy in conflict miss reduction for a SPEC CPU 2006 Benchmark application. 
 
 ![image-left](/_pages/assets/cache_designs/images/Reconfigurable.jpg)
  
