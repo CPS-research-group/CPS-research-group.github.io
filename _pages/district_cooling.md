@@ -1,16 +1,26 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
+layout: single
+author_profile: false
+title: "Optimization of District Cooling Systems"
+header:
+  image: /assets/graphics/mainBanner.png
+  <!-- video:
+    id: 78mwXSsyYlw
+    provider: youtube -->
 sitemap: false
-permalink: /district_cooling
----
+permalink: /resilience_cps/
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
+sidebar:
+  - title:
+    text: "[Return @CPSGroup](/){: .btn .btn--primary}"
+  - title: "Research Staff"
+  - title: "Research Students"
+    text: "ZhongLin Chiam (PhD) 
+    
+component_observers:
+  - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
+    alt: "placeholder image 1"
+    title: "1. Problem statement"
+    excerpt: "hihi
+    
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
