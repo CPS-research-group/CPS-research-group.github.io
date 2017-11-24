@@ -2,6 +2,13 @@
 layout: single
 author_profile: false
 title: "optimization of District Cooling Systems"
+permalink: /district_cooling/
+
+sidebar:
+  - title:
+    text: "[Return @CPSGroup](/){: .btn .btn--primary}"
+  - title: "Research Students"
+    text: "Chiam Zhong Lin (PHD)"
 ---
 
 ******
