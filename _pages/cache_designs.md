@@ -43,7 +43,7 @@ component_observers:
 # Motivation for Predictable Cache Design
 To ensure timely completion of tasks, real-time systems perform schedulability analysis. This analysis takes the Worst-Case-Execution-Time (WCET) of each task as input. To estimate a task's WCET bound offline, predicted behaviour of each level in the processor cache memory hierarchy (i.e. a safe upper bound for the number of cache misses encountered by the task) is required. However, when muticore processors are used, behaviour of each level in the cache hierarchy becomes extremely challenging to predict; firstly, because of the interdependency of concurrently running tasks, and secondly, because of sharing by the processing cores. To overcome this challenge, a wide body of research tried to design suitable prediction mechanism and cache architecture; however, failed to come up with a pragmatic and efficient solution.
 
-![image-left](/_pages/assets/cache_designs/images/Drawing1.png){:height="35%" width="35%"}
+![image-left](/_pages/assets/cache_designs/images/Drawing1.png){:height="75%" width="75%"}
 
 ******
 
@@ -53,7 +53,7 @@ We investigate and design cache management-based opportunities to overcome the c
 ### 1. Our Achievement for Shared Caches
 We successfully designed the first version of a prediction and performance aware replacement policy for cache memories shared among multiple processing cores. We believe that the replacement policy is the first of its kind to allow the predictable partitioning introduced by prior research works for shared caches. Moreover, this policy solves the performance limitations and practicality issues reported for the original proposal of predictable partitioning. We are looking forward to improve its predictability and introduce low-overhead conflict miss detection and elimination techniques. 
 
-![image-left](/_pages/assets/cache_designs/images/Shared_Cache.jpg)
+![image-left](/_pages/assets/cache_designs/images/Shared_Cache.jpg){:height="75%" width="75%"}
 
 ### 2. Our Achievement for Private Caches
 We designed a prediction and performance aware replacement policy, ``VRAMCache’’, for non-unified private cache memories in inclusive cache hierarchy with write invalidate coherency protocol. The policy deploys a first of its kind low overhead conflict miss detection technique. Moreover, it utilizes a novel, pragmatic and easy-to-implement mechanism to reduce conflict misses when appropriate. Despite its dynamic replacement decisions to deal with conflict misses, LRU single-core based cache behaviour prediction mechanisms can be used to predict its behaviour. Figure 3 shows the superiority of VRAMCache replacement policy, over other replacement policies, in conflict miss reduction for a SPEC CPU 2006 Benchmark application. 
