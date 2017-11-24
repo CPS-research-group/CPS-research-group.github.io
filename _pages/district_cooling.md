@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "optimization of District Cooling Systems"
+title: "Optimization of District Cooling Systems"
 permalink: /district_cooling/
 
 sidebar:
@@ -15,7 +15,7 @@ sidebar:
 # District Cooling Systems (DCS)
 
 DCS systems satisfy the cooling demand in an area through the production and distribution of chilled water from a central location. The centralization of chilled water production can take advantage of economies of scale, increasing system efficiently. It also alleviates maintenance responsibilities of air-conditioning maintenance from customers connected to the system. With the growing demand for cooling in cities, DCS are becoming an increasingly attractive option.   
-![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="45%" width="45%"}{: .align-right}
+![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="100%" width="100%"}{: .align-right}
 ******
 # Problem statement
 
@@ -24,14 +24,13 @@ Identification of the optimal design and operation of DCS systems is not a triva
 ******
 # Proposed methodology
 
-The proposed methodology builds on previous work on District Heating Systems (DHS) optimization by Fazlollahi S. et al (1). The decomposition optimization methodology was adopted and applied DCS. The approach decomposes the problem into 2 levels - Master (Genetic Algorithm, GA) and slave (Mixed Integer Linear Program, MILP). Such an approach reduces the variables and hence the search space handled by the GA, giving better convergence values. The following summarizes the main steps in the optimization procedure.
+The proposed methodology builds on previous work on District Heating Systems (DHS) design optimization. The decomposition optimization methodology was adopted and applied DCS. The approach decomposes the problem into 2 levels - Master (Genetic Algorithm, GA) and slave (Mixed Integer Linear Program, MILP). Such an approach reduces the variables and hence the search space handled by the GA, giving better convergence values. The following summarizes the main steps in the optimization procedure.
 
 1. Identification of mathematical models for DCS components 
 2. Linearizing / relaxing the model
 3. Defining variables which make the models non-linear as variables at the Master level. 
 
-![image-left](/_pages/assets/district_cooling/methodology.png){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/district_cooling/methodology.png){:height="100%" width="100%"}{: .align-right}
 
 # References
-<ol>
-<li> Samira Fazlollahi, Pierre Mandel, Gwenaelle Becker, Francois Maréchal,  “Methods for multi-objective investment and operating optimization of complex energy systems, Energy, 2012. </li> 
+
