@@ -29,6 +29,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
+    <li class="a">Arpita Bhattacharjeea, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", to appear in Elsevier Journal of Biomedical Signal Processing and Control.</li>
     <li class="a">Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-Rate Fluid Scheduling of Mixed-Criticality Systems on Multiprocessors", to appear in Springer Real-Time Systems.</li>
 			<li class="a">Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", to appear in IEEE Transactions on Computers.</li>
 			<li class="a">Xiaozhe Gu and Arvind Easwaran, "Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Systems", to appear in ACM Transactions on Embedded Computing Systems.</li>
