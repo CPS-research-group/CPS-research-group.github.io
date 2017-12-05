@@ -33,7 +33,7 @@ The proposed methodology builds on previous work on District Heating Systems (DH
 
 ![image-left](/_pages/assets/district_cooling/methodology.png){:height="100%" width="100%"}{: .align-right}
 
-### Identification of mathematical models for DCS components
+### Modeling DCS components
 
 The main components for DCS broadly comprise of chillers, pumps, networks, cooling towers and heat exchangers. Hybrid models (empirical-analytical) are preferred as they can be calibrated using raw data and extrapolated beyond the data range.
 
@@ -45,7 +45,7 @@ Most mathematical models tend to involve complex mathematical equations making d
 2. Bilinear variable linearization 
 3. Big M relaxation
 
-### Defining variables which make the models non-linear as variables at the Master level
+### Defining Master level variables
 
 The residual variables which cannot be handled at the slave level are left to the meta-heuristic algorithm (GA). 
 
