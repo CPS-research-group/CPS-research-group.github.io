@@ -63,15 +63,13 @@ With increasing functionality and automation in real-time systems, the computati
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
 
-[//]: # [Read More](/mc_scheduling){: .btn .btn--inverse}
+[//]: # [Read More](/mc_scheduling){: .btn .btn--primary}
 
 [//]: # ### Cache Designs for Timing-Predictability
 
-[//]: # ![image-right](){:height="50%" width="50%"}{: .align-right}
-
 [//]: # *Tier-1 Grant (Ministry of Education, Singapore)*
 
-[//]: # [Read More](/cache_designs){: .btn .btn--inverse}
+[//]: # [Read More](/cache_designs){: .btn .btn--primary}
 
 ******
 
@@ -110,7 +108,7 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
 
-[//]: # [Read More](/district_cooling){: .btn .btn--inverse}
+[//]: # [Read More](/district_cooling){: .btn .btn--primary}
 
 ### Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
