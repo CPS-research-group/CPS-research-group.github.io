@@ -17,7 +17,7 @@ DCS systems satisfy the cooling demand in an area through the production and dis
 
 ****
 
-![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="80%" width="80%"}{: .align-right}
+![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="50%" width="50%"}{: .align-right}
 
 # Problem statement
 
