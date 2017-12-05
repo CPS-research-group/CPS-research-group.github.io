@@ -41,54 +41,26 @@ component_observers:
 # Motivation of Mixed Criticality Scheduling Theory
 A mixed criticality system (MCS) is one that has two or more distinct criticality levels (for example safety critical, mission critical and low-critical). There are two conflicting trends in the development of these systems. One is that the safety assurance requirements are increasingly emphasized. The other is that more functionalities are implemented on integrated platforms due to size, weight and power (SWaP) constraints. The existing techniques reserve unreasonably large amounts of computational resources to ensure that every real-time task including those that are non-critical performs correctly under harsh circumstances. As a result, the computational resources are highly under-utilized. To overcome this limitation, mixed-criticality workload model was proposed, wherein all tasks are required to perform correctly under normal circumstances but only the critical tasks are required to perform correctly under harsh circumstances.
 
-******  
+****** 
 
-# Low-Criticality Execution Support for Mixed-Criticality System 
+# Proposed methodology
 
-The existing mixed-criticality workload model has abstracted some key properties of mixed-criticality systems. However, it has received several criticisms that it makes unrealistic assumptions  as presented below.
-
-1. Low-criticality tasks cannot be completely abandoned after an execution mode-switch,and should instead execute with degraded service as long as they do not affect the correctness of more critical tasks.
-2. It is not reasonable to trigger an execution mode-switch and immediately suspend or degrade service to all the low-criticality tasks once a high-criticality task exceeds its low-confidence WCET estimation.
-3. The WCET estimations in this model are primarily used as "budgets" for tasks. However, it is an undue burden on the application designer to derive these multiple WCET estimations for each task for this purpose.
-
-To address these unrealistic assumptions, we first proposed a component based mixed-criticality model and a dynamic budget allocation scheme.
-
-
-### 1. Component-based Technique for MC System 
-
+### 1. Low-Criticality Execution Support
 ![image-left](/_pages/assets/mc_scheduling/images/IMS.png){:height="50%" width="50%"}{: .align-right}
+In the conventional mixed-criticality workload model, upon criticality change, the lower criticality tasks are penalized to guarantee resources for the higher criticality ones. However, in practice, penalizing lower criticality tasks have adverse effects and hence, the system is often under-utilized. In this work, we consider the problem of guaranteeing some service to the lower criticality tasks after the criticality change.
 
-Our proposed component-based model for mixed-criticality systems  comprises a component-level design parameter called tolerance limit, which represents the expected number of high-criticality tasks within the component that will require additional resources at the same time. An execution strategy based on this parameter is also proposed, such that as long as WCET exceedance events are within the tolerance limit, low-criticality tasks in other components remain unaffected between internal mode-switch (IMS) and external mode-switch (EMS). Thus, the component boundaries of the proposed model are designed to provide the isolation necessary to support the execution of low-criticality tasks, and at the same time guarantee the correctness of the high-criticality ones.
+We propose a component-based model for dual-criticality (namely low and high) systems which comprises a component-level design parameter called tolerance limit, which represents the expected number of high-criticality tasks within the component that will require additional resources at the same time. We propose an execution strategy based on this parameter such that as long as the high-criticality switch instances are with in this limit, the low-criticality tasks in other components remain unaffected. Thus, the component boundaries of the proposed model are designed to provide the isolation necessary to support the execution of low-criticality tasks.
+
+We also propose a dynamic mixed-criticality task and scheduling model in which high-criticality task budgets are determined at run-time depending on the execution scenario. To ensure a safe execution for all the high-criticality tasks, resources are always guaranteed to them after the criticality change. Offline, we determine a total budget allocation for all the high-criticality tasks combined. The criticality change occurs only when the resource utilization of all the high-criticality asks collectively exceed this total budget. At run-time, we use a strategy to allocate budgets to individual high-criticality tasks, with the objective of postponing the execution mode-switch as much as possible.
 {: .align-left}
 
-### 2. Dynamic Budget Management Scheme
-
-![image-left](/_pages/assets/mc_scheduling/images/flow1.png){:height="40%" width="40%"}{: .align-right}
-We propose a dynamic mixed-criticality task and scheduling model in which high-criticality task budgets are determined at run-time depending on the execution scenario. To ensure a safe execution for all the high-criticality tasks, resources are always guaranteed to them upto their WCETs, a single value provided by the application designer. Off-line, we use schedulability analysis to determine a total budget allocation (single value) for all the high-criticality tasks combined. Execution mode-switch occurs in this model only when the resource utilization of all the high-criticality asks collectively exceed this total budget. At run-time, we use a strategy to allocate budgets to individual high-criticality tasks, with the objective of postponing the execution mode-switch as much as possible.
-{: .align-left}
-
-******
-
-# Multiprocessor Mixed Criticality Scheduling Algorithms
+### 2. Multi-core Mixed Criticality Scheduling
 
 ![image-left](/_pages/assets/mc_scheduling/images/multicore_mc.tiff){:height="50%" width="50%"}{: .align-right}
-To meet the growing processing demands of mixed-criticality systems, multi-core processors are increasingly being deployed due to their SWaP characteristics. We design several algorithms for scheduling dual-criticality systems on a homogeneous multiprocessor platform. In a dual-criticality system, there are tasks of two criticality levels, namely low and high. The high-criticality tasks have two utilization values, low-criticality utilization for low mode and high-criticality utilization for high mode. Our algorithms are broadly classified as follows.
+To meet the growing processing demands of mixed-criticality systems, multi-core processors are increasingly being deployed due to their SWaP characteristics. In this work, we design algorithms for scheduling dual-criticality systems on a homogeneous multi-core processor platform.  In a typical dual-criticality system, upon criticality change several high-criticality tasks demand for additional processing resource. To efficiently manage this overload, we propose the multi-rate model that distributes the high-criticality execution across several windows of fixed duration. By managing the execution rates in these windows, the multi-rate model is able to provide a higher average execution rate to each high-criticality task. We also propose an efficient task-to-core mapping strategy for dual-criticality systems based on the principle of evenly distributing this addtional demand among all processors. By balancing this difference, we are able to reduce the pessimism in uniprocessor dual-criticality schedulability tests that are applied on each processor, thus improving overall schedulability.
 {: .align-left}
 
-### 1. Global Scheduling
-We propose the multi-rate fluid scheduling model for dual-criticality systems wherein each high-criticality task uses different execution rate in the high-criticality mode. The main intuition behind this model is that, immediately upon entering the high-criticality mode several, several high-criticality tasks may simultaneously require additional processing capacity. To efficiently manage this overload, the multi-rate model distributes the execution across several windows of fixed duration. By managing the execution rates in these windows, the multi-rate model is able to provide a higher average execution rate to each high-criticality task.
-
-### 2. Partitioned Scheduling
-We focus on the problem of designing efficient partitioning strategies for dual-criticality systems. We develop a partitioning strategy based on the principle of evenly distributing the difference between total high-criticality utilization and total low-criticality utilization for the critical tasks among all processors. A smaller utilization difference implies the additional demand of high-criticality tasks when the system switches from low to high mode is small. Thus, we distribute this utilization difference evenly across all processors. By balancing this difference, we are able to reduce the pessimism in uniprocessor mixed-criticality schedulability tests that are applied on each processor, thus improving overall schedulability.
-
-### 3. Semi-Partitioned Scheduling
-In the conventional mixed-criticality workload model, upon criticality change, the lower criticality tasks are penalized to guarantee resources for the higher criticality ones. However, in practice, penalizing lower criticality tasks have adverse effects and hence, the system is often under-utilized. In this work, we consider the problem of guaranteeing some service to the lower criticality tasks after the criticality change. We explore the semi-partitioned scheduling model in which the low criticality tasks executing on a processor are migrated to an another processor upon mode switch to improve the service offered to them in the high criticality mode. We consider a restricted migration model wherein only the low criticality tasks are allowed to migrate between processors. To keep the predictability of the high criticality tasks intact we do not allow them to migrate.
- 
-******
-
-
-******
-# Evaluation testbed & demonstration
+### 3. Evaluation testbed & demonstration
 
 ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="50%" width="50%"}{: .align-right}
 {: .align-left}
@@ -97,12 +69,12 @@ In the conventional mixed-criticality workload model, upon criticality change, t
 
 # References
 <ol>
-<li> Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin and Insup Lee, “Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors", IEEE Real-Time Systems Symposium (RTSS) 2014. </li>
-<li>X Gu, A Easwaran, KM Phan, I Shin, "Resource efficient isolation mechanisms in mixed-criticality scheduling,"  27th  Euromicro Conference on Real-Time Systems (ECRTS), 2015, 13-24.</li>
-<li> Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems", IEEE Real-Time Systems Symposium (RTSS), 2016.
-<li> Xiaozhe Gu and Arvind Easwaran, “Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Real-Time Systems", ACM Transactions on Embedded Computing Systems (accepted) </li>
-<li>  Xiaozhe Gu and Arvind Easwaran, “Dynamic Budget Management and Budget Reclamation for Mixed-Criticality Systems", Real-Time Systems (Under review)</li>
-<li> Jaewoo Lee, Saravanan Ramanathan, Kiew-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", IEEE Transactions on Computers, 2017. </li>
-<li> Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-rate fluid scheduling of mixed-criticality systems on multiprocessors", Real-Time Systems, 2017 </li>
+<li>  Xiaozhe Gu and Arvind Easwaran, “Dynamic Budget Management and Budget Reclamation for Mixed-Criticality Systems", Real-Time Systems (Under review).</li>
+<li> Xiaozhe Gu and Arvind Easwaran, “Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Real-Time Systems", ACM Transactions on Embedded Computing Systems (accepted).</li>
+<li> Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-rate fluid scheduling of mixed-criticality systems on multiprocessors", Real-Time Systems, 2017.</li>
+<li> Jaewoo Lee, Saravanan Ramanathan, Kiew-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", IEEE Transactions on Computers, 2017.</li>
 <li> Saravanan Ramanathan and Arvind Easwaran, "Utilization difference based partitioned scheduling of mixed-criticality systems", IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE) 2017.</li>
+<li> Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems", IEEE Real-Time Systems Symposium (RTSS), 2016.</li>
+<li>X Gu, A Easwaran, KM Phan, I Shin, "Resource efficient isolation mechanisms in mixed-criticality scheduling,"  27th  Euromicro Conference on Real-Time Systems (ECRTS), 2015, 13-24.</li>
+<li> Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin and Insup Lee, “Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors", IEEE Real-Time Systems Symposium (RTSS) 2014.</li>
 </ol>
