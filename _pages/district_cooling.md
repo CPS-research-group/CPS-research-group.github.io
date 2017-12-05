@@ -32,5 +32,7 @@ The proposed methodology builds on previous work on District Heating Systems (DH
 
 ![image-left](/_pages/assets/district_cooling/methodology.png){:height="100%" width="100%"}{: .align-right}
 
+## Optimization procedure
+
 # References
 
