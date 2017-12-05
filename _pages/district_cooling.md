@@ -15,6 +15,8 @@ sidebar:
 
 DCS systems satisfy the cooling demand in an area through the production and distribution of chilled water from a central location. The centralization of chilled water production can take advantage of economies of scale, increasing system efficiently. It also alleviates maintenance responsibilities of air-conditioning maintenance from customers connected to the system. With the growing demand for cooling in cities, DCS are becoming an increasingly attractive option.   
 
+****
+
 ![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="80%" width="80%"}{: .align-right}
 
 # Problem statement
