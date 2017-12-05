@@ -46,7 +46,7 @@ Most mathematical models tend to involve complex mathematical equations making d
 
 ### Defining variables which make the models non-linear as variables at the Master level
 
-The residual variables which cannot be handled at the slave level are left to meta-heuristic algorithm. 
+The residual variables which cannot be handled at the slave level are left to the meta-heuristic algorithm (GA). 
 
 # References
 
