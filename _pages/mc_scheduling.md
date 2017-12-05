@@ -55,7 +55,6 @@ We also propose a dynamic mixed-criticality task and scheduling model in which h
 {: .align-left}
 
 ### 2. Multi-core Mixed Criticality Scheduling
-
 ![image-left](/_pages/assets/mc_scheduling/images/multicore_mc.jpg){:height="50%" width="50%"}{: .align-right}
 To meet the growing processing demands of mixed-criticality systems, multi-core processors are increasingly being deployed due to their SWaP characteristics. In this work, we design algorithms for scheduling dual-criticality systems on a homogeneous multi-core processor platform.  In a typical dual-criticality system, upon criticality change several high-criticality tasks demand for additional processing resource. To efficiently manage this overload, we propose the multi-rate model that distributes the high-criticality execution across several windows of fixed duration. By managing the execution rates in these windows, the multi-rate model is able to provide a higher average execution rate to each high-criticality task. We also propose an efficient task-to-core mapping strategy for dual-criticality systems based on the principle of evenly distributing this addtional demand among all processors. By balancing this demand, we are able to reduce the pessimism in uniprocessor dual-criticality schedulability tests that are applied on each processor, thus improving overall schedulability.
 {: .align-left}
