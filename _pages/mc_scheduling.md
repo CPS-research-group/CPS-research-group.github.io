@@ -59,11 +59,13 @@ We also propose a dynamic mixed-criticality task and scheduling model in which h
 To meet the growing processing demands of mixed-criticality systems, multi-core processors are increasingly being deployed due to their SWaP characteristics. In this work, we design algorithms for scheduling dual-criticality systems on a homogeneous multi-core processor platform.  In a typical dual-criticality system, upon criticality change several high-criticality tasks demand for additional processing resource. To efficiently manage this overload, we propose the multi-rate model that distributes the high-criticality execution across several windows of fixed duration. By managing the execution rates in these windows, the multi-rate model is able to provide a higher average execution rate to each high-criticality task. We also propose an efficient task-to-core mapping strategy for dual-criticality systems based on the principle of evenly distributing this addtional demand among all processors. By balancing this demand, we are able to reduce the pessimism in uniprocessor dual-criticality schedulability tests that are applied on each processor, thus improving overall schedulability.
 {: .align-left}
 
-### 3. Evaluation testbed & demonstration
+### 3. Automotive Mixed Criticality - Evaluation testbed & demonstration
 
 ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="50%" width="50%"}{: .align-right}
 {: .align-left}
+Automotive companies are moving towards ECU consolidation where safety and non safety-critical functionalities are integrated into fewer but more powerful hardware. This has made automotive to evolve into a Mixed Criticality System (MCS). Functional safety standards for automotive such as ISO 26262 have clearly specified Automotive Safety Integrity Levels (ASIL) as the guidelines to achieve design requirements of hardware and software elements implementing safety and non-safety critical functionalities. A vast body of existing literature on MCS focusses on new system models to achieve these design requirements and corresponding analysis to verify the real-time requirements.
 
+A major challenge is to come up with sensible MCS model for automotive with a support to achieve graceful degradation of software elements corresponding to lower critical functionalities under the occurrence of timing fault. A test bed was built in order to benchmark the performance of proposed system model with the existing ones. It is an hardware in the loop platform with TORCS as the vehicle simulator and Texas Instruments Hercules Development Board as the ECU. Applications such as Collision Avoidance, Adaptive Cruise Control, Steering Control etc., are implemented as tasks in FreeRTOS.
 ******
 
 # References
