@@ -11,12 +11,12 @@ sidebar:
     text: "Chiam Zhong Lin (PHD)"
 ---
 
-******
 # District Cooling Systems (DCS)
 
 DCS systems satisfy the cooling demand in an area through the production and distribution of chilled water from a central location. The centralization of chilled water production can take advantage of economies of scale, increasing system efficiently. It also alleviates maintenance responsibilities of air-conditioning maintenance from customers connected to the system. With the growing demand for cooling in cities, DCS are becoming an increasingly attractive option.   
+
 ![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="80%" width="80%"}{: .align-right}
-******
+
 # Problem statement
 
 Identification of the optimal design and operation of DCS systems is not a trival task. The system's efficiency is affected by equipment sizing, operation practices, demand profiles, weather conditions and resource availability etc. Interconnectedness of the system components further complicate the optimization task. Current optimization work concerning DCS systems tend to only consider the mono-optimization of simplified models of chillers (they usually account for upwards of 60% of DCS energy consumption) operating at fixed efficiencies. There is hence a need, for a more comprehensive framework which not only considers more variables but also explore the corresponding impact of optimizating conflicting objectives (e.g. cost and efficiency). 
