@@ -63,13 +63,16 @@ With increasing functionality and automation in real-time systems, the computati
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
 
-[//]: # [Read More](/mc_scheduling){: .btn .btn--primary}
+[Read More](/mc_scheduling){: .btn .btn--primary}
 
-[//]: # ### Cache Designs for Timing-Predictability
+### Cache Designs for Timing-Predictability
 
-[//]: # *Tier-1 Grant (Ministry of Education, Singapore)*
+![image-right](/assets/graphics/Cache2Predict.png){:height="50%" width="50%"}{: .align-right}
+Cache memory plays a key role for performance improvement and energy efficiency in modern computer systems. However, when used as a shared resource in a multicore system, cache memory becomes the key source for timing unpredictability. As predictability is a major concern in real-time systems, this project designs cache memories to address this issue.
 
-[//]: # [Read More](/cache_designs){: .btn .btn--primary}
+*Tier-1 Grant (Ministry of Education, Singapore)*
+
+[Read More](/cache_designs){: .btn .btn--primary}
 
 ******
 
@@ -91,7 +94,7 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="60%" width="50%"}{: .align-left}
 With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation, and automatic model-to-code transformation for controller and cyber twin synthesis.
 
-[//]: # *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+*Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
 [Open Positions](/model_in_loop){: .btn .btn--primary}
 
@@ -108,7 +111,7 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
 
-[//]: # [Read More](/district_cooling){: .btn .btn--primary}
+[Read More](/district_cooling){: .btn .btn--primary}
 
 ### Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
