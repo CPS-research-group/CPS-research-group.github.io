@@ -21,7 +21,8 @@ sidebar:
 
 ******
 
-# Problem statement
+# Research Motivation
+
 Industry 4.0 has the potential to radically improve the productivity of manufacturing systems. The next generation of smart factories can perform more efficiently, collectively and resiliently. Existing resiliency techniques for the cyber-infrastructure of smart factories are inefficient due to two key limitations: 
 1. They do not consider cross-layer (link, network and application) interactions. 
 2. The techniques are centralised where all the decision making is mostly done at the highest-level.

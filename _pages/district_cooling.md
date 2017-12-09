@@ -19,7 +19,7 @@ DCS satisfy the cooling demand in an area through the production and distributio
 
 ![image-left](/_pages/assets/district_cooling/District_cooling_system.png){:height="50%" width="50%"}{: .align-right}
 
-# Problem statement
+# Research Motivation
 
 Optimal design and operation of DCS is a non-trival design-space exploration problem. The system's efficiency is affected by chiller sizing, operation practices, demand profiles, weather conditions, resource availability, thermal storage, etc. Interconnectedness of these system properties further complicate the problem. Current techniques for DCS design tend to only consider mono-optimization of simplified models of chillers operating at fixed efficiencies, although they usually account for more than 60% of energy consumption in a DCS. There is therefore a need for a more comprehensive framework which not only considers more design factors, but also explores the impact of optimizing conflicting objectives (e.g. cost and efficiency). Further, there is also a need to improve the operational efficiency of DCS based on weather and demand profile predictions.
 

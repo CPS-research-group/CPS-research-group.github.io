@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Scheduling Algorithms for Mixed-Criticality Systems"
+title: "Mixed-Criticality Real-Time Scheduling"
 header:
   image: /assets/graphics/mainBanner.png
   <!-- video:
@@ -15,31 +15,13 @@ sidebar:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Students"
     text: "Xiaozhe  Gu (PHD) \n \n Saravanan Ramanathan (PhD) \n \n Sundar Vijayakumar (PhD)"
-    
-component_observers:
-  - image_path: /_pages/assets/resilience_cps/images/CILayers.jpg
-    alt: "placeholder image 1"
-    title: "1. Proposed cyber-infrastructure"
-    excerpt: "We believe that the proposed 3-layered cyber infrastructure with cross-layer communication is the first approach that tightly couples resiliency with the self-awareness attribute of Industry 4.0. The physical layer comprises physical components such as sensors, actuators, controllers and communication hardware. The platform layer embodies computational and communicational platforms such as operating systems and network managers. The application layer accommodates the software components which describe the behavior of an application. E.g., product sorting on an assembly line."
-    
-  - image_path: /_pages/assets/resilience_cps/images/ComponentOverview.jpg
-    alt: "placeholder image 2"
-    title: "2. Overview of components & contracts"
-    excerpt: "Interface: defines the I/O data channels of a component. Data is consumed through input interface, processed by the component, and output data is produced. Each component has only one interface. Behaviors: It is possible to describe multiple behaviors of the component. Each behavior is associated with a QoS. At runtime, the resilience manager select the behavior of the component. Contracts: A contract specifies assumptions on the behavior of the environment & guarantees about the behavior of the component. At runtime, the resilience manager can switch between contracts to react to the disturbances in the system. Resilience manager: Detect faults (using Observers) and decides (control logic) how best to react (response strategy)."
-  - image_path: /_pages/assets/resilience_cps/images/ObserversOverview.jpg
-    alt: "placeholder image 2"
-    title: "3. Observers for monitoring contracts"
-    excerpt: "Static verification techniques are not generally adequate to validate whether or not the system meets the requirements (satisfies the contracts). This may be because some of the requirements can only be decided with the data available at runtime (e.g., a sensor producing invalid data). As an alternative, system requirements can be monitored at runtime using observers. In our approach, observers are expressed using computational models such as finite state machine, timed automaton or hybrid automata."
-  - image_path: /_pages/assets/resilience_cps/images/PerUtiVSTime.jpg
-    alt: "placeholder image 2"
-    title: "4. New metric for quantifying resiliency"
-    excerpt: "Due to the heterogeneous nature of the CPS infrastructure a multi-dimensional metric is required to quantitatively assess the resiliency of the system. The challenge is to develop a sensible abstraction across layers, while respecting the richness of the cyber-infrastructure. We discuss the abstractions that enable us to reason about the performance and resiliency of a system. The abstract metric involves (1) Availability, (2) Demand, (3) Utilisation, (4) Performance, and (5) Resilience."
 ---
 
 ******
 
-# Motivation of Mixed Criticality Scheduling Theory
-A mixed criticality system (MCS) is one that has two or more distinct criticality levels (for example safety critical, mission critical and low-critical). There are two conflicting trends in the development of these systems. One is that the safety assurance requirements are increasingly emphasized. The other is that more functionalities are implemented on integrated platforms due to size, weight and power (SWaP) constraints. The existing techniques reserve unreasonably large amounts of computational resources to ensure that every real-time task including those that are non-critical performs correctly under harsh circumstances. As a result, the computational resources are highly under-utilized. To overcome this limitation, mixed-criticality workload model was proposed, wherein all tasks are required to perform correctly under normal circumstances but only the critical tasks are required to perform correctly under harsh circumstances.
+# Research Motivation
+
+A Mixed-Criticality System (MCS) is one that has two or more distinct criticality levels (for example safety critical, mission critical and low-critical). There are two conflicting trends in the development of these systems. One is that the safety assurance requirements are increasingly emphasized. The other is that more functionalities are implemented on integrated platforms due to size, weight and power (SWaP) constraints. The existing techniques reserve unreasonably large amounts of computational resources to ensure that every real-time task including those that are non-critical performs correctly under harsh circumstances. As a result, the computational resources are highly under-utilized. To overcome this limitation, mixed-criticality workload model was proposed, wherein all tasks are required to perform correctly under normal circumstances but only the critical tasks are required to perform correctly under harsh circumstances.
 
 ****** 
 
