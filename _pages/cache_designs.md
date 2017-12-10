@@ -42,6 +42,6 @@ We successfully designed the first version of a prediction and performance aware
 
 ### Private Caches
 
-![image-left](/_pages/assets/cache_designs/images/Reconfigurable.jpg){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/cache_designs/images/Reconfigurable.jpg){:height="60%" width="60%"}{: .align-right}
 We designed a prediction and performance aware replacement policy, called VRAMCache, for non-unified private cache memories in inclusive cache hierarchy with write invalidate coherency protocol. The policy deploys a first of its kind low overhead conflict miss detection technique. Moreover, it utilizes a novel, pragmatic and easy-to-implement mechanism to reduce conflict misses when appropriate. Despite its dynamic replacement decisions to deal with conflict misses, Least Recently Used (LRU) single-core based cache behaviour prediction mechanisms can be used to predict its behaviour.
 
