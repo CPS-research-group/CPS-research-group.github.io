@@ -39,7 +39,7 @@ We have also developed a dynamic budget-based mixed-criticality task and schedul
 
 ### 2. Mixed-Criticality Scheduling for Multicores
 
-![image-left](/_pages/assets/mc_scheduling/images/multicore_mc.jpg){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/mc_scheduling/images/multicore_mc.png){:height="50%" width="50%"}{: .align-right}
 To meet the growing processing demands of mixed-criticality systems, multicore processors are increasingly being deployed due to their SWaP characteristics. In this work, we consider the problem of scheduling mixed-criticality systems on a homogeneous multicore processor platform.
 
 We have developed a fluid execution rate based scheduling model to address the above problem. In this model, the less critical tasks execute using a single fractional execution rate and the critical tasks executes using two fractional execution rates. The execution rate of the critical tasks vary depending on whether they are under normal or extreme worst-case conditions. During extreme worst-case conditions the critical tasks execute at a higher execution rate than it would do normally and the less critical tasks are no longer required to execute. The execution rates are determined offline and at runtime the tasks are executed based on these rates. Further to improve the performance, we also extend this model to allow the critical tasks to execute using multiple execution rates during extreme worst-case conditions. As multiple critical tasks simultaneously required additional resources, by effciently managing the execution rates of these tasks we were able to achieve an higher average execution rate.
