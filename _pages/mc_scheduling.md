@@ -29,7 +29,7 @@ A Mixed-Criticality System (MCS) is a real-time system that comprises tasks havi
 
 ### 1. Execution Support for Less Critical Tasks
 
-![image-left](/_pages/assets/mc_scheduling/images/IMS.png){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/mc_scheduling/images/dy.png){:height="50%" width="50%"}{: .align-right}
 In the conventional mixed-criticality task and scheduling model, the less critical tasks are heavily penalized under theoretical worst-case conditions in order to guarantee resources for the high critical tasks. However, in practice, penalizing the less critical tasks has adverse effects on performance. In this work, we consider the problem of guaranteeing some (potentially degraded) service from the less critical tasks even under theoretical worst-case conditions.
 
 We have developed a component-based mixed-criticality task and scheduling model to address the above problem. The model comprises a component-level design parameter called _tolerance limit_, which represents the expected number of critical tasks within the component that will simultaneously require additional computational resources during extreme worst-case conditions. We have developed a scheduling strategy based on this parameter such that as long as the critical task requirements are within this limit, the less critical tasks in other components will continue to provide full service. Thus, the component boundaries of the proposed model are designed to provide the isolation necessary to support the execution of less critical tasks.
@@ -59,7 +59,11 @@ We have also developed an efficient partitioning (task-to-core mapping) strategy
 <li> Jaewoo Lee, Saravanan Ramanathan, Kiew-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", IEEE Transactions on Computers, 2017.</li>
 <li> Saravanan Ramanathan and Arvind Easwaran, "Utilization difference based partitioned scheduling of mixed-criticality systems", IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE) 2017.</li>
 <li> Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems", IEEE Real-Time Systems Symposium (RTSS), 2016.</li>
+<li>Saravanan Ramanathan, Xiaozhe Gu and Arvind Easwaran, “The Feasibility Analysis of Mixed-Criticality Systems", International Real-Time Scheduling Open Problems Seminar (RTSOPS) 2016
+</li>
 <li> Sanjoy Baruah, Arvind Eswaran and Zhishan Guo, "MC-Fluid: simplified and optimally quantified", IEEE Real-Time Systems Symposium (RTSS), 2015.</li>
-<li>X Gu, A Easwaran, KM Phan, I Shin, "Resource efficient isolation mechanisms in mixed-criticality scheduling," Euromicro Conference on Real-Time Systems (ECRTS), 2015.</li>
+<li>Xiaozhe Gu, A Easwaran, KM Phan, I Shin, "Resource efficient isolation mechanisms in mixed-criticality scheduling," Euromicro Conference on Real-Time Systems (ECRTS), 2015.</li>
 <li> Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin and Insup Lee, “Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors", IEEE Real-Time Systems Symposium (RTSS) 2014.</li>
+<li>  Xiaozhe Gu and Arvind Easwaran, “Optimal Speed-up Bound for 2-level Mixed-Criticality Arbitrary Deadline Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS) 2014. </li>
+
 </ol>
