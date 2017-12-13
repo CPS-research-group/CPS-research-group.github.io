@@ -29,7 +29,7 @@ Industry 4.0 has the potential to radically improve the productivity of manufact
 
 ******
 
-# Our approach
+# Our Approach
 
 To enable a resilient cyber-infrastructure for Industry 4.0, we have presented a new contract-based methodology called CLAIR. Applications are described as a set of modular components that are distributed over a network. Contracts are used for describing the component’s interaction with other components (within and across layers). Finally, the contracts are monitored using runtime observers. We detect failures (contract violation) and react (change of contracts) to the disturbances, providing resiliency. Finally, using an industrial case study we validate the proposed architecture.
 
@@ -53,18 +53,11 @@ We believe that the proposed 3-layered cyber infrastructure with cross-layer com
 Static verification techniques are not generally adequate to validate whether a system meets the requirements (contracts satisfication). This may be because some of the requirements can only be validated with the data available at runtime (e.g. a sensor producing invalid data). As an alternative, system requirements can be monitored at runtime using observers. In our approach, observers are expressed using computational models such as finite state machines, timed automata or hybrid automata.  
 {: .align-left}
 
-[//]: # ### 4. New metric for quantifying resiliency
-[//]: # ![image-left](/_pages/assets/resilience_cps/images/PerUtiVSTime.jpg){:height="35%" width="35%"}{: .align-right}
-[//]: # Due to the heterogeneous nature of the CPS infrastructure a multi-dimensional metric is required to quantitatively assess the resiliency of the system. The challenge is to develop a sensible abstraction across layers, while respecting the richness of the cyber-infrastructure. We discuss the abstractions that enable us to reason about the performance and resiliency of a system. The abstract metric involves (1) Availability, (2) Demand, (3) Utilisation, (4) Performance, and (5) Resilience.  
-[//]: # {: .align-left}
-
 ******
+
 # Evaluation testbed & demonstration
 
 {% include video id="78mwXSsyYlw" provider="youtube" %}
-
-[//]: # (1) Fault occurance at a component is with other components.  
-[//]: # All the decision making are to be guided by the new resilience metric. 
 > Video Caption: Assembly line setup for color-based sorting of work pieces. When the deadline for processing the color sensor data is not met, the following actions are expected.  
 (1) If the fault can be handled internally, expected recovery time is informed to other components.  
 (2) At the component-level, it can switch to a different behavior (less computation time). E.g., a different signal processing algorithm.  

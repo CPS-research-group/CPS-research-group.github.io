@@ -21,7 +21,7 @@ sidebar:
 
 These positions are part of a corporate lab initiative involving NTU and Delta Electronics, a leading electronics manufacturing company. The expected start date for the positions is January 2018, and the expected duration is 2.5 years. Remuneration will be attractive and commensurate based on the qualifications and suitability for the project. The positions are expected to provide an excellent opportunity to perform both fundamental as well as translational research in close collaboration with industry.
 
-### 1. Research Fellow (Code Generation)
+### 1. Research fellow (code generation)
 
 We are seeking a strong and motivated candidate for the position of Research Fellow in the area of Cyber-Physical Systems, with research focus on automatic synthesis of code for embedded controllers and cyber-physical interfaces, as well as trace-driven root cause analysis. The candidate is expected to have a PhD degree in Computer Sciences, Computer Engineering, Electrical Engineering or related fields. The candidate must demonstrate a strong research experience in one or more of the following areas:
 <ol>
@@ -31,7 +31,7 @@ We are seeking a strong and motivated candidate for the position of Research Fel
 
 The candidate will be responsible for the integration of developed cyber twin into the existing software tool chain used in smart manufacturing systems.
 
-### 2. Research Fellow (Modelling)
+### 2. Research fellow (modelling)
 
 We are seeking a strong and motivated candidate for the position of Research Fellow in the area of Cyber-Physical Systems, with research focus on the modelling, simulation and synthesis of continuous time and discrete time models. The candidate is expected to have a PhD degree in Computer Sciences, Computer Engineering, Electrical Engineering or related fields. The candidate must demonstrate a strong research experience in one or more of the following areas:
 
@@ -44,7 +44,7 @@ We are seeking a strong and motivated candidate for the position of Research Fel
 
 Besides technical contributions in the development of the cyber twin, the candidate will also be responsible for the management of the overall project. 
 
-### 3. Research Assistant (Tool Design and Development)
+### 3. Research assistant (tool design and development)
 
 We are seeking a strong and motivated candidate for the position of Project Officer in the area of Cyber-Physical Systems, with research focus on the modelling, simulation and synthesis of continuous time and discrete time models. The candidate is expected to have a Bachelors degree in Computer Sciences and Computer Engineering, or related fields. The candidate must demonstrate strong experience in one or more of the following areas:
 
@@ -55,7 +55,7 @@ We are seeking a strong and motivated candidate for the position of Project Offi
 </ol>
 
 
-### 4. Research Assistant (Code Generation)
+### 4. Research assistant (code generation)
 
 We are seeking a strong and motivated candidate for the position of Project Officer in the area of Cyber-Physical Systems, with research focus on code generation and deployment of distributed CPS. The candidate is expected to have a Bachelors degree in Computer Sciences and Computer Engineering, or related fields. The candidate must demonstrate strong experience in one or more of the following areas:
 
