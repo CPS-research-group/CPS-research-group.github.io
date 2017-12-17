@@ -44,15 +44,16 @@ To meet the growing processing demands of mixed-criticality systems, multicore p
 We have developed a fluid execution rate based scheduling model to address the above problem. In this model, the less critical tasks execute using a single fractional execution rate and the critical tasks execute using two fractional rates. Execution rate of the critical tasks vary depending on whether the system is experiencing normal or extreme worst-case conditions. During extreme worst-case conditions, the critical tasks execute at a higher rate than they would do normally, and the less critical tasks are suspended. These task execution rates are determined offline using an efficient convex optimization formulation, and the resulting scheduling policy is shown to have an optimal speed up bound of 4/3. To further improve performance, we have also extended this model to allow the critical tasks to use multiple execution rates during extreme worst-case conditions. As multiple critical tasks simultaneously require additional resources in such conditions, using fine-grained management of their execution rates we are able to achieve a higher resource utilization.
 
 We have also developed an efficient partitioning (task-to-core mapping) strategy to address the multicore scheduling problem. Under this strategy, the critical tasks are allocated based on the principle of distributing the addtional demand, i.e., the difference in resource requirements between normal and extreme worst-case conditions, evenly among all the cores. Less critical tasks are allocated using a simple first-fit strategy. By balancing this additional demand, we are able to reduce the pessimism in mixed-criticality schedulability tests that are applied on each core, thus improving overall schedulability.
+
 <!---
 your comment goes here
 and here -->
 
-<### 3. Mixed-criticality in automotive systems
+<!--- ### 3. Mixed-criticality in automotive systems -->
 
-![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}
+<!--- ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}  -->
 
-****** 
+<!--- ****** -->
 
 # References
 <ol>
