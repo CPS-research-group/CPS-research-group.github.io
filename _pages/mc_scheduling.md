@@ -45,11 +45,15 @@ We have developed a fluid execution rate based scheduling model to address the a
 
 We have also developed an efficient partitioning (task-to-core mapping) strategy to address the multicore scheduling problem. Under this strategy, the critical tasks are allocated based on the principle of distributing the addtional demand, i.e., the difference in resource requirements between normal and extreme worst-case conditions, evenly among all the cores. Less critical tasks are allocated using a simple first-fit strategy. By balancing this additional demand, we are able to reduce the pessimism in mixed-criticality schedulability tests that are applied on each core, thus improving overall schedulability.
 
-### 3. Mixed-criticality in automotive systems
+<!---
+your comment goes here
+and here -->
 
-![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}
+<!--- ### 3. Mixed-criticality in automotive systems -->
 
-****** 
+<!--- ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}  -->
+
+<!--- ****** -->
 
 # References
 <ol>
