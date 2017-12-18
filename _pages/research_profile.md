@@ -29,10 +29,10 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
-    <li class="a">Arpita Bhattacharjeea, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", to appear in Elsevier Journal of Biomedical Signal Processing and Control.</li>
+    <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", to appear in Elsevier Journal of Biomedical Signal Processing and Control.</li>
     <li class="a">Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-Rate Fluid Scheduling of Mixed-Criticality Systems on Multiprocessors", to appear in Springer Real-Time Systems.</li>
 			<li class="a">Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", to appear in IEEE Transactions on Computers.</li>
-			<li class="a">Xiaozhe Gu and Arvind Easwaran, "Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Systems", to appear in ACM Transactions on Embedded Computing Systems.</li>
+			<li class="a">Xiaozhe Gu and Arvind Easwaran, "Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Systems", ACM Transactions on Embedded Computing Systems, Vol. 17, No. 1, November 2017.</li>
 			<li class="a">Xue Bai, Zhikun She and Arvind Easwaran, "Under-Approximating Backward Reachable Sets by Semialgebraic Sets", IEEE Transactions on Automatic Control, Vol. 62, No. 10, Pages 5185-5197, October 2017.</li>
 			<li class="a">Xue Bai, Arvind Easwaran, Namjoon Cho and Martin Franzle, "Reach-Avoid Verification for Nonlinear Systems Based on Boundary Analysis", IEEE Transactions on Automatic Control (Technical Note), Vol.62, No. 7, Pages 3518-3523, July 2017.</li>
 			<li class="a">Hoon Sung Chwa, Jinkyu Lee, Jiyeon Lee, Kiew-My Phan, Arvind Easwaran and Insik Shin, "Global EDF Schedulability Analysis for Parallel Tasks on Multi-core Platforms", IEEE Transactions on Parallel and Distributed Systems, Vol. 28, No. 5, Pages 1331-1345, September 2016.</li>
