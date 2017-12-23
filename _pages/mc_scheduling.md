@@ -51,7 +51,7 @@ and here -->
 
 ### 3. Mixed-criticality in automotive systems 
 
- ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="30%" width="30%"}  
+ ![image-left](/_pages/assets/mc_scheduling/images/automotiveMC.png){:height="30%" width="30%"}  
  
 The need for a good degradation model for MCS in safety critical domains such as Automotive is well recognized by the real-time research community. Under the occurence of a timing fault such as a deadline miss by a real-time task, a good degradation model can play an important role in System's recovery with timely reactions to avoid any harm or damage. The guidelines for achieving graceful degradation of a safety critical application is specified in functional safety standards such as ISO 26262 (for automotive), DO-178C (avionics). The main challenge is to come up with a MCS  model which is precise enough to consider the standard's requirements and should lead to a computationally efficient verification methodology of its timing behaviour. 
 
@@ -64,7 +64,7 @@ In order to study the effect of newly propsed model in the performance of safety
 Since multiple applications may individually compute the same actuator commands such as values of brake, throttle and steer, a specific way of achieving graceful degradation of applications significantly impact the values of these parameters. The experimental setup also provides the flexibility to observe  different ways of achieving graceful degradation under these different scenarios. 
 
 The test bed and its architecture are shown in the below Figure. The test bed is a Hardware-In-The-Loop simulation platform. The architecture of the test bed consists of five major components. They are vehicle simulator, simulink model, gateway, Electronic Control Unit (ECU) and Controller Area Network (CAN). Our platform uses The Open-source Race Car Simulator (TORCS) as a vehicle simulator. This provides physics-based vehicle models and different road terrains. The simulink model running in a Personal Computer (PC), acts as an interface between TORCS and the gateway. The gateway consists of embedded controllers (FreeScale Kinetis Board) networked over an industry standard CAN bus which converts the simulated sensor values from TORCS to CAN messages. Texas Instruments Hercules development board acts as an ECU. The ECU runs the FreeRTOS, a preemptive fixed priority based real time scheduler. The basic control algorithms of the safety critical applications are running as real-time tasks on FreeRTOS. The sensor data from TORCS to the gateway is transmitted using serial communication. The gateway dispatches sensor data as CAN messages to the ECU which executes the control algorithm tasks to generate throttle, brake and steer commands which are sent back to TORCS through the UART communication.
-<!-- ![image-left](/_pages/assets/mc_scheduling/images/setup.png){:height="20%" width="20%"} --!> 
+
  ******
 
 # References
