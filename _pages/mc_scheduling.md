@@ -58,8 +58,8 @@ The need for a good degradation model for MCS in safety critical domains such as
 We are developing a simulation-based automotive platform to evaluate and compare the performance of a newly proposed MCS model with existing ones.
 In order to study the effect of newly propsed model in the performance of safety critical applications, we are developing a simulation-based automotive test bed. Applications considered for the implementation are Adaptive Cruise Control (ACC), Collision Avoidance (CA) and Steering Control (SC). These applications are of different ASILs and share sensor values including velocity, position, acceleration etc., of follower and lead vehicles  and actuators such as brake, steering and throttle. The safety and performance of the automotive system depends on these parameters.  The test bed will provide following flexibility for the researcher :
 
-	* Simulate different driving scenarios by varying the number of tasks simultaneously violating their service level.
-	* Observe the effect of a specific way of task degradation on the sensor processing and actuator values which affects the application's performance.
+1. Simulate different driving scenarios by varying the number of tasks simultaneously violating their service level.
+2. Observe the effect of a specific way of task degradation on the sensor processing and actuator values which affects the application's performance.
 
 Since multiple applications may individually compute the same actuator commands such as values of brake, throttle and steer, a specific way of achieving graceful degradation of applications significantly impact the values of these parameters. The experimental setup also provides the flexibility to observe  different ways of achieving graceful degradation under these different scenarios. The test bed and its architecture are shown in the below Figure.
 <!-- ![image-left](/_pages/assets/mc_scheduling/images/setup.png){:height="20%" width="20%"} --!> 
