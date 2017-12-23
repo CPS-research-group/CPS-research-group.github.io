@@ -49,11 +49,20 @@ We have also developed an efficient partitioning (task-to-core mapping) strategy
 your comment goes here
 and here -->
 
-<!--- ### 3. Mixed-criticality in automotive systems -->
+### 3. Mixed-criticality in automotive systems 
 
-<!--- ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}  -->
+ ![image-left](/_pages/assets/mc_scheduling/images/torcs_simulator.JPG){:height="40%" width="40%"}  
+ ![image-left](/_pages/assets/mc_scheduling/images/setup.png){:height="40%" width="40%"}  
+The need for a good degradation model for MCS in safety critical domains such as Automotive is well recognized by the real-time research community. Under the occurence of a timing fault such as a deadline miss by a real-time task, a good degradation model can play an important role in System's recovery with timely reactions to avoid any harm or damage. The guidelines for achieving graceful degradation of a safety critical application is specified in functional safety standards such as ISO 26262 (for automotive), DO-178C (avionics). The main challenge is to come up with a MCS  model which is precise enough to consider the standard's requirements and should lead to a computationally efficient verification methodology of its timing behaviour. 
 
-<!--- ****** -->
+We are developing a simulation-based automotive platform to evaluate and compare the performance of a newly proposed MCS model with existing ones.
+In order to study the effect of newly propsed model in the performance of safety critical applications, we are developing a simulation-based automotive test bed. Applications considered for the implementation are Adaptive Cruise Control (ACC), Collision Avoidance (CA) and Steering Control (SC). These applications are of different ASILs and share sensor values including velocity, position, acceleration etc., of follower and lead vehicles  and actuators such as brake, steering and throttle. The safety and performance of the automotive system depends on these parameters.  The test bed will provide following flexibility for the researcher :
+
+	1. Simulate different driving scenarios by varying the number of tasks simultaneously violating their service level.
+	2. Observe the effect of a specific way of task degradation on the sensor processing and actuator values which affects the application's performance.
+
+Since multiple applications may individually compute the same actuator commands such as values of brake, throttle and steer, a specific way of achieving graceful degradation of applications significantly impact the values of these parameters. The experimental setup also provides the flexibility to observe  different ways of achieving graceful degradation under these different scenarios. The test bed and its architecture are shown in the below Figure.
+ ******
 
 # References
 <ol>
