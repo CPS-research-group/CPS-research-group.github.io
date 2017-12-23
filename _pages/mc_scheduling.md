@@ -47,11 +47,11 @@ We have also developed an efficient partitioning (task-to-core mapping) strategy
 
 <!---
 your comment goes here
-and here ![image-left](/_pages/assets/mc_scheduling/images/automotiveMC.png){:height="30%" width="30%"}   -->
+and here    -->
 
 ### 3. Mixed-criticality in automotive systems 
-![](/_pages/assets/mc_scheduling/images/automotiveMC.png =100x20)
- 
+
+![image-left](/_pages/assets/mc_scheduling/images/automotiveMC.png){:height="30%" width="30%"}
  
 The need for a good degradation model for MCS in safety critical domains such as Automotive is well recognized by the real-time research community. Under the occurence of a timing fault such as a deadline miss by a real-time task, a good degradation model can play an important role in System's recovery with timely reactions to avoid any harm or damage. The guidelines for achieving graceful degradation of a safety critical application is specified in functional safety standards such as ISO 26262 (for automotive), DO-178C (avionics). The main challenge is to come up with a MCS  model which is precise enough to consider the standard's requirements and should lead to a computationally efficient verification methodology of its timing behaviour. 
 
