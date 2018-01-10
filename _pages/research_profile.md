@@ -91,9 +91,14 @@ a.a:active {color:#0000FF; text-decoration:none;}
 			<li class="a">Jaewoo Lee, Hoon Sung Chwa, Arvind Easwaran, Insik Shin and Insup Lee, "Towards Compositional Mixed-Criticality Real-Time Scheduling in Open Systems", Workshop on Compositional Real-Time Systems (CRTS) 2015.</li>
 			<li class="a">Saravanan Ramanathan and Arvind Easwaran, "MC-fluid: Rate Assignment Strategies", Workshop on Mixed Criticality Systems (WMC) 2015.</li>
 			<li class="a">Xue Bai, Arvind Easwaran, Namjoon Cho, "Towards Robust Artificial Pancreas Based on Reachability Analysis Techniques", Workshop on Medical Cyber-Physical Systems (MCPS) 2015.</li>
+
+			<li class="a"> Arvind Easwaran, "Efficiently Safe: Decoding the Dichotomy in Mixed-Criticality Systems", Dagstuhl Seminar on Real-Time Mixed-Criticality Scheduling, 2015.</li>
+
 			<li class="a">Arvind Easwaran and Insik Shin, "Compositional Mixed-Criticality Scheduling", Workshop on Compositional Real-Time Systems (CRTS) 2014.</li>
 			<li class="a">Xiaozhe Gu and Arvind Easwaran, "Optimal Speed-up Bound for 2-level Mixed-Criticality Arbitrary Deadline Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS) 2014.</li>
 			<li class="a">Linh T.X. Phan, Jaewoo Lee, Arvind Easwaran, Vinay Ramaswamy, Insup Lee and Oleg Sokolsky, "CARTS: A Tool for Compositional Analysis of Real-Time Systems", ACM SIGBED Review, Volume 8, Number 1, 2011: Special Issue on the Workshop on Compositional Theory and Technology for Real-Time Embedded Systems (CRTS) 2010.</li>
+			<li class="a">Arvind Easwaran, "Open Problems in Real-Time Scheduling: Hardness of Compositional Schedulability Analysis", Dagstuhl Seminar on Scheduling, 2010.</li>
+
  			<li class="a">Jinkyu Lee, Arvind Easwaran, Insik Shin and Insup Lee, "On Optimal Multiprocessor Scheduling Considering Concurrency and Urgency", ACM SIGBED Review, Volume 7, Number 1, January 2010: Special Issue on the Work-in-Progress Session at RTSS 2009 (<font color="FF0000"><B>Selected among the top 5 out of 24</B></font>).</li>
  			<li class="a">Jinkyu Lee, Bj&ouml;rn Andersson and Arvind Easwaran, "Finding an Upper Bound on the Increase in Execution Time Due to Contention on the Memory Bus in COTS-Based Multicore Systems", ACM SIGBED Review, Volume 7, Number 1, January 2010: Special Issue on the Work-in-Progress Session at RTSS 2009 (<font color="FF0000"><B>Selected among the top 5 out of 24</B></font>)</li>
 			<li class="a">Arvind Easwaran, Madhukar Anand, Insup Lee, Linh T.X. Phan and Oleg Sokolsky, "Simulation Relations, Interface Complexity, and Resource Optimality for Real-Time Hierarchical Systems", Workshop on Reconciling Performance with Predictability (RePP) 2009.</li>
