@@ -88,6 +88,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 		        <li class="a">Saravanan Ramanathan and Arvind Easwaran, "Evaluation of Mixed-Criticality Scheduling Algorithms using a Fair Taskset Generator", International Workshop on Analysis Tools and Methodologies for Embedded and Real-Time Systems (WATERS) 2016.</li>
 			<li class="a">Saravanan Ramanathan, Xiaozhe Gu and Arvind Easwaran, "The Feasibility Analysis of Mixed-Criticality Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS) 2016.</li>
 			<li class="a">Sriram Vasudevan, Nitin Shivaraman and Arvind Easwaran, "WIP Abstract: A Novel Strategy for Active Cell Balancing", International Conference on Cyber-Physical Systems (ICCPS) 2016.</li>
+			<li class="a">Jaewoo Lee, Hoon Sung Chwa, Arvind Easwaran, Insik Shin and Insup Lee, "Towards Compositional Mixed-Criticality Real-Time Scheduling in Open Systems", Workshop on Compositional Real-Time Systems (CRTS) 2015.</li>
 			<li class="a">Saravanan Ramanathan and Arvind Easwaran, "MC-fluid: Rate Assignment Strategies", Workshop on Mixed Criticality Systems (WMC) 2015.</li>
 			<li class="a">Xue Bai, Arvind Easwaran, Namjoon Cho, "Towards Robust Artificial Pancreas Based on Reachability Analysis Techniques", Workshop on Medical Cyber-Physical Systems (MCPS) 2015.</li>
 			<li class="a">Arvind Easwaran and Insik Shin, "Compositional Mixed-Criticality Scheduling", Workshop on Compositional Real-Time Systems (CRTS) 2014.</li>
