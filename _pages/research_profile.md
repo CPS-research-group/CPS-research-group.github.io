@@ -83,7 +83,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
 
  <ol>
-		        <li class="a">Arvind Easwaran, "Practical Mixed-Criticality Model: Challenges", Dagstuhl Seminar on Real-Time Mixed-Criticality Scheduling, 2017}. </li>
+		        <li class="a">Arvind Easwaran, "Practical Mixed-Criticality Model: Challenges", Dagstuhl Seminar on Real-Time Mixed-Criticality Scheduling, 2017. </li>
 		        <li class="a">Dorin Maxim, Robert I. Davis, Liliana Cucu-Grosjean and Arvind Easwaran, "Probabilistic Analysis for Mixed Criticality Scheduling with SMC and AMC", Workshop on Mixed-Criticality Systems (WMC) 2016.</li>
 		        <li class="a">Arvind Easwaran, Vijayakumar Sundar and Bibin Nair, "Invited Talk: Mixed Criticality Scheduling Research in Automotive - Making Research More Practical", Workshop on Collaboration of Academia and Industry for Real World Embedded Systems (CAIRES) 2016.</li>
 		        <li class="a">Saravanan Ramanathan and Arvind Easwaran, "Evaluation of Mixed-Criticality Scheduling Algorithms using a Fair Taskset Generator", International Workshop on Analysis Tools and Methodologies for Embedded and Real-Time Systems (WATERS) 2016.</li>
@@ -130,7 +130,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 <ol>
 		<li class="a"> Sriram Vasudevan and Arvind Easwaran, "Techniques for Achieving Time-Predictability in Multicores-A Survey", NTU, Technical Report, 2015.</li>
-		<li class="a"> Arvind Easwaran, Brendan Hall and Kevin Schweiker, "Model-Driven Test Generation of Distributed Systems", NASA Langley Research Center, Technical Report, NASA/CR-2012-217764, 2012}.
+		<li class="a"> Arvind Easwaran, Brendan Hall and Kevin Schweiker, "Model-Driven Test Generation of Distributed Systems", NASA Langley Research Center, Technical Report, NASA/CR-2012-217764, 2012.</li>
 		<li class="a">Arvind Easwaran, "Inferring Automata and its Application to Compositional Verification", PhD Qualifying Exam (Written Preliminary Exam II), January 2006.</li>
 		<li class="a">Arvind Easwaran, Insik Shin, Insup Lee, and Oleg Sokolsky, "Bounding Preemptions under EDF and RM schedulers", University of Pennsylvania, Technical Report, MS-CIS-06-06, 2006.</li>
  		<li class="a">Arvind Easwaran, Sampath Kannan, and Insup Lee, "Optimal Control of Software ensuring Safety and Functionality", University of Pennsylvania, Technical Report, MS-CIS-05-20, 2005.</li>
