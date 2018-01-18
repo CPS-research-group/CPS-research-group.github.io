@@ -52,7 +52,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
      		        <li class="a">Dorin Maxim, Robert I. Davis, Liliana Cucu-Grosjean and Arvind Easwaran, "Probabilistic Analysis for Mixed Criticality Systems using Fixed Priority Preemptive Scheduling", International Conference on Real-Time Networks and Systems (RTNS) 2017.</li>
 			<li class="a">Nitin Shivaraman, Arvind Easwaran and Sebastian Steinhorst, "Efficient Decentralized Active Balancing Strategy for Smart Battery Cells", Design Automation and Test in Europe (DATE), 2017.</li>
 			<li class="a">Saravanan Ramanathan and Arvind Easwaran, "Utilization Difference Based Partitioned Scheduling of Mixed-Criticality Systems", Design Automation and Test in Europe (DATE), 2017.</li>
-			<li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Abstract: Online-tuned Model Based Compound Controller for Blood Glucose Regulation in Type-1 Diabetic Patient", International Conference on Advanced Technologies and Treatments for Diabetes (ATTD), 2017.</li>
+			<li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Abstract: Online-tuned Model Based Compound Controller for Blood Glucose Regulation in Type-1 Diabetic Patient", Diabetes Technology & Therapeutics, Volume 19, Issue S1, February 2017: Publication of International Conference on Advanced Technologies and Treatments for Diabetes (ATTD).</li>
 			<li class="a">Arvind Easwaran, Anupam Chattopadhyay and Shivam Bhasin, "A Systematic Security Analysis of Real-Time Cyber-Physical Systems", IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2017.</li>
 			<li class="a">Debjyoti Bhattacharjee, Arvind Easwaran and Anupam Chattopadhyay, "Area constrained Technology Mapping for In-Memory Computing using ReRAM devices", IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2017.</li>
 			<li class="a">Sanjoy Baruah, Arvind Easwaran and Zhishan Guo, "Mixed-criticality Scheduling to Minimize Makespan", IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS), 2016.</li>
@@ -89,7 +89,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 		        <li class="a">Saravanan Ramanathan and Arvind Easwaran, "Evaluation of Mixed-Criticality Scheduling Algorithms using a Fair Taskset Generator", International Workshop on Analysis Tools and Methodologies for Embedded and Real-Time Systems (WATERS) 2016.</li>
 			<li class="a">Saravanan Ramanathan, Xiaozhe Gu and Arvind Easwaran, "The Feasibility Analysis of Mixed-Criticality Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS) 2016.</li>
 			<li class="a">Sriram Vasudevan, Nitin Shivaraman and Arvind Easwaran, "WIP Abstract: A Novel Strategy for Active Cell Balancing", International Conference on Cyber-Physical Systems (ICCPS) 2016.</li>
-			<li class="a">Jaewoo Lee, Hoon Sung Chwa, Arvind Easwaran, Insik Shin and Insup Lee, "Towards Compositional Mixed-Criticality Real-Time Scheduling in Open Systems", Workshop on Compositional Real-Time Systems (CRTS) 2015.</li>
+			<li class="a">Jaewoo Lee, Hoon Sung Chwa, Arvind Easwaran, Insik Shin and Insup Lee, "Towards Compositional Mixed-Criticality Real-Time Scheduling in Open Systems", ACM SIGBED Review, Volume 13, Number 3, January 2016: Publication of Workshop on Compositional Real-Time Systems (CRTS) 2015.</li>
 			<li class="a">Saravanan Ramanathan and Arvind Easwaran, "MC-fluid: Rate Assignment Strategies", Workshop on Mixed Criticality Systems (WMC) 2015.</li>
 			<li class="a">Xue Bai, Arvind Easwaran, Namjoon Cho, "Towards Robust Artificial Pancreas Based on Reachability Analysis Techniques", Workshop on Medical Cyber-Physical Systems (MCPS) 2015.</li>
 
@@ -108,8 +108,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
  			<li class="a">Arvind Easwaran, Insik Shin and Insup Lee, "Towards Optimal Multiprocessor Scheduling for Arbitrary Deadline Tasks", Work-in-Progress Session of Real-Time Systems Symposium (RTSS) 2008.</li>
  			<li class="a">Arvind Easwaran, Madhukar Anand, Insup Lee and Oleg Sokolsky, "On the Complexity of Generating Optimal Interfaces for Hierarchical Systems", Workshop on Compositional Theory and Technology for Real-Time Embedded Systems (CRTS) 2008.</li>
  			<li class="a">Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Interface Algebra for Analysis of Hierarchical Real-Time Systems", International Workshop on Foundations in Interface Technologies (FIT) 2008.</li>
- 			<li class="a">Arvind Easwaran, Sampath Kannan and Oleg Sokolsky, "Steering of Discrete Event Systems: Control Theory Approach", Electronic Notes in Theoretical Computer Science, Volume 144, Number 4, Pages 21-39, 2006, Publication of International Workshop on Runtime Verification (RV).</li>
- 			<li class="a">Usa Sammapun, Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Simulation of Simultaneous Events in Regular Expressions", Electronic Notes in Theoretical Computer Science, Volume 113, Pages 123-143, 2005, Publication of International Workshop on Runtime Verification (RV).</li>
+ 			<li class="a">Arvind Easwaran, Sampath Kannan and Oleg Sokolsky, "Steering of Discrete Event Systems: Control Theory Approach", Electronic Notes in Theoretical Computer Science, Volume 144, Number 4, Pages 21-39, 2006: Publication of International Workshop on Runtime Verification (RV) 2005.</li>
+ 			<li class="a">Usa Sammapun, Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Simulation of Simultaneous Events in Regular Expressions", Electronic Notes in Theoretical Computer Science, Volume 113, Pages 123-143, 2005: Publication of International Workshop on Runtime Verification (RV) 2004.</li>
 		</ol>
 
 ## Patents
