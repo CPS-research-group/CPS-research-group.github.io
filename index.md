@@ -8,7 +8,8 @@ sidebar:
 
   - title: "Research Staff"
     text: "
-Sidharta Andalam (RF)\n\n
+Nitin Shivaraman (RA)\n\n
+Seima Suriyasekaran (RA)\n\n
 Mohammad Shihabul Haque (RF)\n\n
 Daniel Ng Jun Xian (RA)"
 
@@ -25,7 +26,8 @@ Daniel Ng Jun Xian (MEngg)"
   - title: "Former Staff/Students"
     text: "
 Bai Xue (Chinese Academy of Sciences, China)\n\n
-Arpita Battacharjee (Axiscades Engineering Technologies, India)"
+Arpita Battacharjee (Axiscades Engineering Technologies, India)\n\n
+Sidharta Andalam (Delta Research Center, Singapore)"
 
 realtime:
   - image_path:
