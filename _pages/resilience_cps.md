@@ -16,7 +16,7 @@ sidebar:
   - title: "Research Staff"
     text: "Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
   - title: "Research Students"
-    text: "Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+    text: "Ankita Samaddar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
 ---
 
 ******
