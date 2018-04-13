@@ -14,9 +14,11 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
+    text: "Mohammad Shihabul Haque (Postdoc) \n \n Daniel Ng Jun Xian (Engineer)"
   - title: "Research Students"
     text: "Ankita Samaddar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+  - title: "Former Staff/Students"
+    text: "Sidharta Andalam (Postdoc)"
 ---
 
 ******
@@ -61,13 +63,4 @@ Static verification techniques are not generally adequate to validate whether a 
 > Video Caption: Assembly line setup for color-based sorting of work pieces. When the deadline for processing the color sensor data is not met, the following actions are expected.  
 (1) If the fault can be handled internally, expected recovery time is informed to other components.  
 (2) At the component-level, it can switch to a different behavior (less computation time). E.g., a different signal processing algorithm.  
-(3) At the system-level, it is possible to reduce the speed of the motor, allowing more time for the processing of sensor data.  
-
-******
-
-# References
-<ol>
-<li>S. Andalam, D. J. X. Ng,A. Easwaran, K. Thangamariappan "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", IEEE Embedded Systems Letters (under review).</li>
-<li>S. Andalam, D. J. X. Ng,A. Easwaran, K. Thangamariappan "CLAIR: A Contract-based Framework for Developing
-Resilient CPS Architectures", ACM Transactions on Cyber-Physical Systems (TCPS) (under review).</li>
-</ol>
+(3) At the system-level, it is possible to reduce the speed of the motor, allowing more time for the processing of sensor data.

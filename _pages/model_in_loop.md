@@ -13,6 +13,8 @@ permalink: /model_in_loop/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
+  - title: "Research Staff"
+    text: "Heejong Park (Postdoc)"
 ---
 
 ******

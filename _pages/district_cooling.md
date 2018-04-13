@@ -8,7 +8,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Students"
-    text: "Chiam Zhong Lin (PHD)"
+    text: "Chiam Zhong Lin (PhD)"
 ---
 
 ******

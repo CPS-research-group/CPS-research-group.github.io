@@ -14,7 +14,10 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Students"
-    text: "Xiaozhe  Gu (PHD) \n \n Saravanan Ramanathan (PhD) \n \n Sundar Vijayakumar (PhD)"
+    text: "Saravanan Ramanathan (PhD) \n \n Sundar Vijayakumar (PhD)"
+
+  - title: "Former Staff/Students"
+    text: "Xiaozhe  Gu (PhD) \n \n Bibin Nair (Engineer)"
 ---
 
 ******
@@ -54,22 +57,3 @@ In order to study the effect of different degradation models in the performance 
 
 1. Simulate different driving scenarios and task execution patterns where the occurence of timing faults becomes imminent.
 2. Observe the effect of task degradation models that affect the application's performance and also possibly safety.
-
- ******
-
-# References
-<ol>
-<li>  Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management and Budget Reclamation for Mixed-Criticality Systems", Real-Time Systems (Under review).</li>
-<li> Xiaozhe Gu and Arvind Easwaran, "Efficient Schedulability Test for Dynamic-Priority Scheduling of Mixed-Criticality Real-Time Systems", ACM Transactions on Embedded Computing Systems, 2017.</li>
-<li> Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-rate fluid scheduling of mixed-criticality systems on multiprocessors", Real-Time Systems, 2017.</li>
-<li> Jaewoo Lee, Saravanan Ramanathan, Kiew-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", IEEE Transactions on Computers, 2017.</li>
-<li> Saravanan Ramanathan and Arvind Easwaran, "Utilization difference based partitioned scheduling of mixed-criticality systems", IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE), 2017.</li>
-<li> Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management with Service Guarantees for Mixed-Criticality Systems", IEEE Real-Time Systems Symposium (RTSS), 2016.</li>
-<li>Saravanan Ramanathan, Xiaozhe Gu and Arvind Easwaran, "The Feasibility Analysis of Mixed-Criticality Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS), 2016.</li>
-<li>Saravanan Ramanathan and Arvind Easwaran, "Evaluation of Mixed-Criticality Scheduling Algorithms using a Fair Taskset Generator", Workshop on Analysis Tools and Methodologies for Embedded and Real-time Systems (WATERS), 2016.</li>
-<li> Sanjoy Baruah, Arvind Eswaran and Zhishan Guo, "MC-Fluid: simplified and optimally quantified", IEEE Real-Time Systems Symposium (RTSS), 2015.</li>
-<li> Saravanan Ramanathan and Arvind Easwaran, "MC-Fluid: rate assignment strategies," Workshop on Mixed Criticality Systems (WMC), 2015.</li>
-<li>Xiaozhe Gu, A Easwaran, KM Phan, I Shin, "Resource efficient isolation mechanisms in mixed-criticality scheduling," Euromicro Conference on Real-Time Systems (ECRTS), 2015.</li>
-<li> Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin and Insup Lee, "Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors", IEEE Real-Time Systems Symposium (RTSS) 2014.</li>
-<li>  Xiaozhe Gu and Arvind Easwaran, "Optimal Speed-up Bound for 2-level Mixed-Criticality Arbitrary Deadline Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS), 2014. </li>
-</ol>
