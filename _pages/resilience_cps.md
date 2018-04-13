@@ -16,7 +16,7 @@ sidebar:
   - title: "Research Staff"
     text: "Mohammad Shihabul Haque (Postdoc) \n \n Daniel Ng Jun Xian (Engineer)"
   - title: "Research Students"
-    text: "Ankita Samaddar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
+    text: "Ankita Samaddar (PhD)"
   - title: "Former Staff/Students"
     text: "Sidharta Andalam (Postdoc)"
 ---
