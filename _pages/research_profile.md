@@ -29,7 +29,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
-    <li class="a">Sidharta Andalam, Daniel Ng Jun Xian, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", to appear in IEEE Embedded Systems Letters.</li>
+    <li class="a">Sidharta Andalam, Daniel Ng Jun Xian, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", IEEE Embedded Systems Letters.</li>
     <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", Elsevier Journal of Biomedical Signal Processing and Control, Volume 41, Pages 198-209, March 2018.</li>
     <li class="a">Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-Rate Fluid Scheduling of Mixed-Criticality Systems on Multiprocessors", Springer Real-Time Systems, Volume 54, Number 2, Pages 247-277, April 2018.</li>
 			<li class="a">Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Multi-core Fluid-based Mixed-Criticality Scheduling", IEEE Transactions on Computers, Volume 67, Number 4, Pages 469-483, April 2018.</li>
@@ -48,10 +48,12 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-     		        <li class="a">Xiaozhe Gu, Arvind Easwaran and Risat Pathan, "Design and Analysis for Dual Priority Scheduling", IEEE International Symposium on Real-Time Computing (ISORC), 2018, to appear.</li>	
-     		        <li class="a">Saravanan Ramanthan and Arvind Easwaran, "Mixed-Criticality Scheduling on Multiprocessors with Service Guarantees", IEEE International Symposium on Real-Time Computing (ISORC), 2018, to appear.</li>
-     		        <li class="a">Mohammad Shihabul Haque, Sriram Vasudevan, Nihar Sriram, Arvind Easwaran, Y.C. Tay and Akash Kumar, "A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber Physical Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2018, to appear.</li>	
-     		        <li class="a">Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran and Karthikeyan Tangamariappan, "CLAIR: A Contract-based Framework for Developing Resilient CPS Architectures", IEEE International Symposium on Real-Time Computing (ISORC), 2018, to appear.</li>	
+     		        <li class="a">Jin Hyun Kim, Kyong Hoon Kim, Arvind Easwaran and Insup Lee, "Towards Overhead-Free Interface Theory for Compositional Hierarchical Real-Time Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2018.</li>	      
+     		        <li class="a">Mohammad Shihabul Haque and Arvind Easwaran, "Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores", ACM & IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2018.</li>	   
+     		        <li class="a">Xiaozhe Gu, Arvind Easwaran and Risat Pathan, "Design and Analysis for Dual Priority Scheduling", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
+     		        <li class="a">Saravanan Ramanthan and Arvind Easwaran, "Mixed-Criticality Scheduling on Multiprocessors with Service Guarantees", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>
+     		        <li class="a">Mohammad Shihabul Haque, Sriram Vasudevan, Nihar Sriram, Arvind Easwaran, Y.C. Tay and Akash Kumar, "A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber Physical Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
+     		        <li class="a">Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran and Karthikeyan Tangamariappan, "CLAIR: A Contract-based Framework for Developing Resilient CPS Architectures", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
      		        <li class="a">Dorin Maxim, Robert I. Davis, Liliana Cucu-Grosjean and Arvind Easwaran, "Probabilistic Analysis for Mixed Criticality Systems using Fixed Priority Preemptive Scheduling", International Conference on Real-Time Networks and Systems (RTNS), Pages 237-246, 2017.</li>
 			<li class="a">Nitin Shivaraman, Arvind Easwaran and Sebastian Steinhorst, "Efficient Decentralized Active Balancing Strategy for Smart Battery Cells", Design Automation and Test in Europe (DATE), Pages 1522-1527, 2017.</li>
 			<li class="a">Saravanan Ramanathan and Arvind Easwaran, "Utilization Difference Based Partitioned Scheduling of Mixed-Criticality Systems", Design Automation and Test in Europe (DATE), Pages 238-243, 2017.</li>
