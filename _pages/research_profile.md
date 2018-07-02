@@ -48,8 +48,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-     		        <li class="a">Jin Hyun Kim, Kyong Hoon Kim, Arvind Easwaran and Insup Lee, "Towards Overhead-Free Interface Theory for Compositional Hierarchical Real-Time Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2018.</li>	      
-     		        <li class="a">Mohammad Shihabul Haque and Arvind Easwaran, "Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores", ACM & IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2018.</li>	   
+     		        <li class="a">Jin Hyun Kim, Kyong Hoon Kim, Arvind Easwaran and Insup Lee, "Towards Overhead-Free Interface Theory for Compositional Hierarchical Real-Time Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2018 (published in IEEE TCAD).</li>	      
+     		        <li class="a">Mohammad Shihabul Haque and Arvind Easwaran, "Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores", ACM & IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2018 (published in IEEE TCAD).</li>	   
      		        <li class="a">Xiaozhe Gu, Arvind Easwaran and Risat Pathan, "Design and Analysis for Dual Priority Scheduling", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
      		        <li class="a">Saravanan Ramanthan and Arvind Easwaran, "Mixed-Criticality Scheduling on Multiprocessors with Service Guarantees", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>
      		        <li class="a">Mohammad Shihabul Haque, Sriram Vasudevan, Nihar Sriram, Arvind Easwaran, Y.C. Tay and Akash Kumar, "A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber Physical Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
