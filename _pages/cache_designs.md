@@ -13,10 +13,11 @@ permalink: /cache_designs/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Staff"
-    text: "Mohammad Shihabul Haque (Postdoc)"
-  - title: "Research Students"
+  - title: "Research Student"
     text: "Sriram Vasudevan (PhD)"
+
+  - title: "Former Staff"
+    text: "Mohammad Shihabul Haque (Postdoc)"
 ---
 
 ******
