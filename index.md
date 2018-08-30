@@ -7,6 +7,8 @@ header:
 sidebar:
 
   - title: "Research Staff"
+    image: https://github.com/CPS-research-group/CPS-research-group.github.io/blob/master/assets/graphics/GroupPhoto_20180427.jpg
+    image_alt: "group_image"
     text: "
 Xiaozhe Gu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
