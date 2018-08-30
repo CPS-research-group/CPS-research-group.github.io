@@ -1,12 +1,12 @@
 ---
 layout: single
 author_profile: false
-title: "Our People"
+title: "Our people"
 header:
   image: /assets/graphics/GroupPhoto_20180427.jpg
   image_description: "The research team"
 sitemap: false
-permalink: /our_people/
+permalink: /people/
 
 sidebar:
   - title: "Research Staff"
