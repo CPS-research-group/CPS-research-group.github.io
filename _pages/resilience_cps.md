@@ -2,11 +2,6 @@
 layout: single
 author_profile: false
 title: "Resilient Cyber-Infrastructure for Manufacturing"
-header:
-  image: /assets/graphics/mainBanner.png
-  video:
-    id: 78mwXSsyYlw
-    provider: youtube
 sitemap: false
 permalink: /resilience_cps/
 

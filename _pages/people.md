@@ -2,8 +2,6 @@
 layout: single
 author_profile: false
 title: "Our People"
-header:
-  image: /assets/graphics/mainBanner.png
 sitemap: false
 permalink: /people/
 

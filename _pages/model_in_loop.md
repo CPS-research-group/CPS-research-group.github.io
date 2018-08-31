@@ -2,11 +2,6 @@
 layout: single
 author_profile: false
 title: "Model-in-the-Loop Framework for Manufacturing"
-header:
-  image: /assets/graphics/mainBanner.png
-  video:
-    id: 78mwXSsyYlw
-    provider: youtube
 sitemap: false
 permalink: /model_in_loop/
 
