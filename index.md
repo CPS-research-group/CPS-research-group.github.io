@@ -6,10 +6,11 @@ header:
   
 sidebar:
 
-  - title: "Research Staff"
-    image: /assets/graphics/GroupPhoto_20180427.jpg
-    image_alt: "group_image"
+  - title: "Our People"
     url: "people"
+    image: /assets/graphics/GroupPhoto_20180427.jpg
+    
+  - title: "Research Staff"
     text: "
 Xiaozhe Gu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
