@@ -21,7 +21,7 @@ Daniel Ng Jun Xian (Engineer)"
 Saravanan Ramanathan (PhD)\n\n
 Sriram Vasudevan (PhD)\n\n
 Sundar Vijayakumar (PhD)\n\n
-Chiam Zhong Lim (PhD)\n\n
+Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Daniel Ng Jun Xian (MEngg)\n\n
 Zahra Nasab Rahimi (PhD)"

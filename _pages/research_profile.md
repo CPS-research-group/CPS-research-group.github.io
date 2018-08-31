@@ -4,9 +4,9 @@ author_profile: false
 title: "Publications"
 header:
   image: /assets/graphics/mainBanner.png
-  video:
+  <!-- video:
     id: 78mwXSsyYlw
-    provider: youtube
+    provider: youtube -->
 sitemap: false
 permalink: /research_profile/
 

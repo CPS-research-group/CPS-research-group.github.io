@@ -1,27 +1,22 @@
 ---
 layout: single
 author_profile: false
-title: "Our people"
+title: "Research Team"
 header:
-  image: /assets/graphics/GroupPhoto_20180427.jpg
-  image_description: "The research team"
+  image: /assets/graphics/mainBanner.png
 sitemap: false
 permalink: /people/
 
 sidebar:
-  - title: "Research Staff"
-    text: "Sidharta Andalam (RF) \n \n Mohammad Shihabul Haque (RF) \n \n Daniel Ng Jun Xian (RA)"
-  - title: "Research Students"
-    text: "Xiaozhe Gu (PhD) \n \n Saravanan Ramanathan (PhD) \n \n Sriram Vasudevan (PhD) \n \n 
-Sundar Vijayakumar (PhD) \n \n Chiam Zhong Lim (PhD) \n \n Ankita Sammadar (PhD) \n \n Daniel Ng Jun Xian (MEngg)"
-
+  - title:
+    text: "[Return @CPSGroup](/){: .btn .btn--primary}"
 ---
 
 ******
 
 # Our People
 
-{% include figure image_path="/assets/graphics/GroupPhoto_20180427.jpg" alt="Group image" caption="This is our research team." %}
+{% include figure image_path="/assets/graphics/GroupPhoto_20180427.jpg" alt="Group image" caption="(left-to-right) Chiam Zhong Lin, Heejong (David) Park, Seima Suriyasekaran, Nitin Shivaraman, Saravanan Ramanathan, Xiaozhe Gu, Ankita Samaddar, Mohammad Shihabul Haque, Arvind Easwaran, Sundar Vijayakumar and Daniel Ng Jun Xian." %}
 
 
 ******
