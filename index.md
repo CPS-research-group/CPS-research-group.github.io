@@ -7,8 +7,8 @@ header:
 sidebar:
 
   - title: ""
-    url: /people
     image: /assets/graphics/GroupPhoto_20180427.jpg
+    url: /people
     
   - title: "Research Staff"
     text: "

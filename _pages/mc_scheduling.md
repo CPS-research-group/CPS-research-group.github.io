@@ -2,11 +2,6 @@
 layout: single
 author_profile: false
 title: "Mixed-Criticality Real-Time Scheduling"
-header:
-  image: /assets/graphics/mainBanner.png
-  <!-- video:
-    id: 78mwXSsyYlw
-    provider: youtube -->
 sitemap: false
 permalink: /mc_scheduling/
 
