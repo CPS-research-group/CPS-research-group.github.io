@@ -84,6 +84,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
 
  <ol>
+		        <li class="a">Heejong Park, Arvind Easwaran and Sidharta Andalam, "Challenges in Digital Twin Development for Cyber-Physical Production Systems", Model-based Design of Cyber-Physical Systems (CyPhy), 2018. </li>
 		        <li class="a">Arvind Easwaran, "Practical Mixed-Criticality Model: Challenges", Mixed Criticality on Multicore/Manycore Platforms (Dagstuhl Seminar 17131 Report), 2017. </li>
 		        <li class="a">Dorin Maxim, Robert I. Davis, Liliana Cucu-Grosjean and Arvind Easwaran, "Probabilistic Analysis for Mixed Criticality Scheduling with SMC and AMC", Workshop on Mixed-Criticality Systems (WMC), 2016.</li>
 		        <li class="a">Arvind Easwaran, Vijayakumar Sundar and Bibin Nair, "Presentation: Mixed Criticality Scheduling Research in Automotive - Making Research More Practical", Workshop on Collaboration of Academia and Industry for Real World Embedded Systems (CAIRES), 2016.</li>
