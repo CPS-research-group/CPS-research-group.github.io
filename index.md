@@ -8,6 +8,7 @@ sidebar:
 
   - title: "Research Staff"
     text: "
+Zhiheng Xu (Postdoc)\n\n
 Xiaozhe Gu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
 Nitin Shivaraman (Engineer)\n\n
@@ -22,7 +23,8 @@ Sundar Vijayakumar (PhD)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Daniel Ng Jun Xian (MEngg)\n\n
-Zahra Nasab Rahimi (PhD)"
+Zahra Nasab Rahimi (PhD)\n\n
+Jean Oudot (PhD)"
 
   - title: "Former Staff/Students"
     text: "

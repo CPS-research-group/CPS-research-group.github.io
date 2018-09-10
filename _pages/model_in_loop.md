@@ -9,7 +9,9 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Heejong Park (Postdoc)"
+    text: "
+Zhiheng Xu (Postdoc)\n\n
+Heejong Park (Postdoc)"
   - title: "Research Students"
     text: "Zahra Nasab Rahimi (PhD)"
 ---
