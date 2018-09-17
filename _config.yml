@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Arvind Easwaran"
-  avatar           : "/assets/graphics/arvinde.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/graphics/arvinde.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an amazing person."
   location         : # "Somewhere"
   email            : "arvinde@ntu.edu.sg"
