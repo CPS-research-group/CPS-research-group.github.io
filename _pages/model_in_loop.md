@@ -13,7 +13,7 @@ sidebar:
 Zhiheng Xu (Postdoc)\n\n
 Heejong Park (Postdoc)"
   - title: "Research Students"
-    text: "Zahra Nasab Rahimi (PhD)"
+    text: "Zahra Rahimi Nasab (PhD)"
 ---
 
 ******

@@ -23,7 +23,7 @@ Sundar Vijayakumar (PhD)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Daniel Ng Jun Xian (MEngg)\n\n
-Zahra Nasab Rahimi (PhD)\n\n
+Zahra Rahimi Nasab (PhD)\n\n
 Jean Oudot (PhD)"
 
   - title: "Former Staff/Students"
