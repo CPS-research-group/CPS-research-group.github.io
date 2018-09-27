@@ -29,7 +29,7 @@ Jean Oudot (PhD)"
   - title: "Former Staff/Students"
     text: "
 Bai Xue (Chinese Academy of Sciences, China)\n\n
-Arpita Battacharjee (QuEST Global, India)\n\n
+Arpita Battacharjee (Mercedes Benz R & D, India)\n\n
 Sidharta Andalam (Delta Research Center, Singapore)"
 
 realtime:
