@@ -24,6 +24,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
+    <li class="a">Mohammad Shihabul Haque, Daniel Ng Jun Xian, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Hierarchical Resilience Management for Cyber-Physical Systems", IEEE Computer.</li>
     <li class="a">Sidharta Andalam, Daniel Ng Jun Xian, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", IEEE Embedded Systems Letters.</li>
     <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", Elsevier Journal of Biomedical Signal Processing and Control, Volume 41, Pages 198-209, March 2018.</li>
     <li class="a">Saravanan Ramanathan, Arvind Easwaran and Hyeonjoong Cho, "Multi-Rate Fluid Scheduling of Mixed-Criticality Systems on Multiprocessors", Springer Real-Time Systems, Volume 54, Number 2, Pages 247-277, April 2018.</li>
