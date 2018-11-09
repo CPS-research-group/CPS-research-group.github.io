@@ -26,11 +26,12 @@ Daniel Ng Jun Xian (MEngg)\n\n
 Zahra Rahimi Nasab (PhD)\n\n
 Jean Oudot (PhD)"
 
-  - title: "Former Staff/Students"
+  - title: "Former Postdocs/Students"
     text: "
 Bai Xue (Chinese Academy of Sciences, China)\n\n
 Arpita Battacharjee (Mercedes Benz R & D, India)\n\n
-Sidharta Andalam (Delta Research Center, Singapore)"
+Sidharta Andalam (Delta Research Center, Singapore)\n\n
+Mohammad Shihabul Haque (La Trobe University, Australia)"
 
 realtime:
   - image_path:

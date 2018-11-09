@@ -40,3 +40,13 @@ We successfully designed the first version of a prediction and performance aware
 ![image-left](/_pages/assets/cache_designs/images/Reconfigurable.jpg){:height="60%" width="60%"}{: .align-right}
 We designed a prediction and performance aware replacement policy, called VRAMCache, for non-unified private cache memories in inclusive cache hierarchy with write invalidate coherency protocol. The policy deploys a first of its kind low overhead conflict miss detection technique. Moreover, it utilizes a novel, pragmatic and easy-to-implement mechanism to reduce conflict misses when appropriate. Despite its dynamic replacement decisions to deal with conflict misses, Least Recently Used (LRU) single-core based cache behaviour prediction mechanisms can be used to predict its behaviour.
 
+******
+
+# Publications
+
+    <ol>
+	<li class="a">Mohammad Shihabul Haque and Arvind Easwaran, "Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores", ACM & IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2018 (published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Volume 37, Issue 11, Pages 2720-2731, November 2018).</li>
+	<li class="a">Mohammad Shihabul Haque, Sriram Vasudevan, Nihar Sriram, Arvind Easwaran, Y.C. Tay and Akash Kumar, "A Self-Reconfiguring Cache Architecture to Improve Control Quality in Cyber Physical Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2018.</li>	
+	<li class="a">Nitin Shivaraman, Sriram Vasudevan and Arvind Easwaran, "Demo Abstract: Predictable SoC architecture based on COTS multi-core", Demo Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2016.</li>	
+    </ol>
+
