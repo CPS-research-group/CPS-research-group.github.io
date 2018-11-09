@@ -37,4 +37,4 @@ Our approach involves introducing metering at a device level and enable communic
 
 ## Hardware Architecture
 
-![image-left](/_pages/assets/IoTMetering/hardware.png){:height="70%" width="70%"}{: .align-right}
+![image-left](/assets/graphics/hardware.png){:height="70%" width="70%"}{: .align-right}
