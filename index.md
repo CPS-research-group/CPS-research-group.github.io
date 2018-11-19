@@ -28,10 +28,7 @@ Jean Oudot (PhD)"
 
   - title: "Former Postdocs/Students"
     text: "
-Bai Xue (Chinese Academy of Sciences, China)\n\n
-Arpita Battacharjee (Mercedes Benz R & D, India)\n\n
-Sidharta Andalam (Delta Research Center, Singapore)\n\n
-Mohammad Shihabul Haque (La Trobe University, Australia)"
+Bai Xue (Chinese Academy of Sciences, China)"
 
 realtime:
   - image_path:
