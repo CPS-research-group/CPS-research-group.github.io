@@ -24,6 +24,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
+    <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park, Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access.</li>
     <li class="a">Mohammad Shihabul Haque, Daniel Jun Xian Ng, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Hierarchical Resilience Management for Cyber-Physical Systems", IEEE Computer.</li>
     <li class="a">Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", IEEE Embedded Systems Letters.</li>
     <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", Elsevier Journal of Biomedical Signal Processing and Control, Volume 41, Pages 198-209, March 2018.</li>
