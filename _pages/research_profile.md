@@ -24,7 +24,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Journals
 
   <ol>
-    <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park, Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access.</li>
+    <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park, Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access, Volume 7, Issue 1, Pages 1330-1344, December 2019.</li>
     <li class="a">Mohammad Shihabul Haque, Daniel Jun Xian Ng, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Hierarchical Resilience Management for Cyber-Physical Systems", IEEE Computer.</li>
     <li class="a">Sidharta Andalam, Daniel Jun Xian Ng, Arvind Easwaran and Karthik Thangamariappan, "Contract-based Methodology for Developing Resilient Cyber-Infrastructure in the Industry 4.0 Era", IEEE Embedded Systems Letters.</li>
     <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Evaluation of an Artificial Pancreas in In Silico Patients with Online-Tuned Internal Model Control", Elsevier Journal of Biomedical Signal Processing and Control, Volume 41, Pages 198-209, March 2018.</li>
@@ -45,6 +45,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+     		        <li class="a">Xiaozhe Gu and Arvind Easwaran, "Towards Safe Machine Learning for CPS: Infer Uncertainty from Training Data", International Conference on Cyber-Physical Systems (ICCPS), 2019.</li>	    
      		        <li class="a">Rui Tan, Linshan Jiang, Arvind Easwaran and Jothi Prasanna Shanmuga Sundaram, "Resilience Bounds of Sensing-Based Network Clock Synchronization", International Conference on Parallel and Distributed Systems (ICPADS), 2018.</li>	      
      		        <li class="a">Jin Hyun Kim, Kyong Hoon Kim, Arvind Easwaran and Insup Lee, "Towards Overhead-Free Interface Theory for Compositional Hierarchical Real-Time Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2018 (published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Volume 37, Issue 11, Pages 2869-2880, November 2018).</li>	      
      		        <li class="a">Mohammad Shihabul Haque and Arvind Easwaran, "Predictability and Performance Aware Replacement Policy PVISAM for Unified Shared Caches in Real-time Multicores", ACM & IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2018 (published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Volume 37, Issue 11, Pages 2720-2731, November 2018).</li>	   
