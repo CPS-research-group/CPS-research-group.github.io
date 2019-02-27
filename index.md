@@ -63,8 +63,6 @@ Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber
 
 ## Model-based Design Methodologies
 
-******
-
 ### Resilient Cyber-Infrastructure for Manufacturing
 
 ![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-left}
@@ -84,8 +82,6 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 ******
 
 ## Energy Management
-
-******
 
 ### Optimization Framework for District Cooling Systems
 
@@ -110,8 +106,6 @@ The aim of this project is to implement the concept of decentralized electricity
 ******
 
 ## Real-Time Systems
-
-******
 
 ### Mixed-Criticality Scheduling Algorithms
 
