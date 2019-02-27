@@ -61,9 +61,7 @@ Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber
 
 ******
 
-## Model-based Design Methodologies
-
-### Resilient Cyber-Infrastructure for Manufacturing
+## Resilient Cyber-Infrastructure for Manufacturing
 
 ![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-left}
 Sensor proliferation and large-scale connectivity have enabled a variety of functionalities in CPS. However, connectivity also means that these systems operate in unreliable open environments, and hence resiliency to faults and attacks become important. This resiliency is fundamentally dependent on the resiliency of the cyber-infrastructure (communication network and computation nodes), which plays a central role of data delivery and execution of control. The objective of this project is to design a resilient cyber-infrastructure for such emerging CPS. A smart manufacturing testbed is also built to demonstrate the capabilities developed in the project.
@@ -72,18 +70,14 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 
 [Read More](/resilience_cps){: .btn .btn--primary}
 
-### Model-in-the-Loop Framework for Manufacturing
+## Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="40%" width="40%"}{: .align-left}
 With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation, and automatic model-to-code transformation for controller and cyber twin synthesis.
 
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
-******
-
-## Energy Management
-
-### Optimization Framework for District Cooling Systems
+## Optimization Framework for District Cooling Systems
 
 ![image-right](/assets/graphics/controlHeating.png){:height="40%" width="40%"}{: .align-right}
 In Singapore, the operation of buildings consumes about 37% of total electricity, making them one of the largest consumers of primary energy. Around 70% of the energy used in buildings is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy for cooling in buildings will provide a large leverage for climate change mitigation. District cooling systems that supply such cooling energy from centralized chillers via distribution networks within a geographical area have emerged as an efficient alternative to personalized air-conditioning systems. Although such cooling systems are in commercial use globally, significant operational inefficiencies and losses are often reported. Towards mitigating these inefficiencies, in this project, we develop a design methodology for formal modelling and operational optimization of district cooling systems.
@@ -92,7 +86,7 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 
 [Read More](/district_cooling){: .btn .btn--primary}
 
-### Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
+## Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
 ![image-right](/assets/graphics/smart_metering.png){:height="40%" width="40%"}{: .align-right}
 The aim of this project is to implement the concept of decentralized electricity metering and load management using IoT capabilities in smart devices. The long-term objective is to remove household- or company-level smart electricity metering and replace it with aggregated reporting of all devices in the household/company environment. Moreover, this approach will also enable these electricity-consuming devices to participate in a deregulated electricity market. By developing approaches from the blockchain technology domain towards application in embedded devices, a trustless authentication mechanism for provisioning and verifying the compliance of these devices will be made possible. Our investigation of how to achieve a fully decentralized energy grid with smart contracts, binding all grid participants to system-level goals, will contribute to bringing smart grid functionality to a level of granularity previously not possible.
@@ -105,9 +99,7 @@ The aim of this project is to implement the concept of decentralized electricity
 
 ******
 
-## Real-Time Systems
-
-### Mixed-Criticality Scheduling Algorithms
+## Mixed-Criticality Scheduling Algorithms
 
 ![image-right](/assets/graphics/time2task.png){:height="40%" width="40%"}{: .align-right}
 With increasing functionality and automation in real-time systems, the computational demand is steadily increasing, while resources available for servicing this demand are limited due to size, weight and power restrictions. As a result a module integration trend has emerged, so that many different applications are being cohosted on the same processing unit. Some of these applications are extremely critical for the correct behavior of the system (e.g., collision avoidance in automotive), while some others are relatively less critical (e.g., hill assist in automotive), thus giving rise to mixed-criticality real-time systems. In this project, we focus on the design of single-core as well as multi-core scheduling algorithms for such systems. We also develop practical workload models to characterize such systems, and evalute the same using an automotive testbed.
@@ -116,7 +108,7 @@ With increasing functionality and automation in real-time systems, the computati
 
 [Read More](/mc_scheduling){: .btn .btn--primary}
 
-### Cache Designs for Timing-Predictability
+## Cache Designs for Timing-Predictability
 
 ![image-right](/assets/graphics/Cache2Predict.png){:height="40%" width="40%"}{: .align-right}
 Cache memory plays a key role for performance improvement and energy efficiency in modern computer systems. However, when used as a shared resource in a multicore system, cache memory becomes the key source for timing unpredictability. As predictability is a major concern in real-time systems, this project designs cache memories to address this issue. We focus on the development of hardware techniques, specifically cache replacement policy designs, to improve the predictability of both private as well as shared caches on multicores.
