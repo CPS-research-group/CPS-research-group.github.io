@@ -8,17 +8,17 @@ sidebar:
 
   - title: "Research Staff"
     text: "
+Omar Al-Bataineh (Postdoc)\n\n
 Zhiheng Xu (Postdoc)\n\n
 Xiaozhe Gu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
-Nitin Shivaraman (Engineer)\n\n
-Seima Suriyasekaran (Engineer)\n\n
-Daniel Ng Jun Xian (Engineer)"
+Seima Suriyasekaran (Engineer)"
 
   - title: "Research Students"
     text: "
+Mainak Dan (PhD)\n\n
+Nitin Shivaraman (PhD)\n\n
 Saravanan Ramanathan (PhD)\n\n
-Sriram Vasudevan (PhD)\n\n
 Sundar Vijayakumar (PhD)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
@@ -28,6 +28,8 @@ Jean Oudot (PhD)"
 
   - title: "Former Postdocs/Students"
     text: "
+Shihabul Haque (Singapore Institute of Technology, Singapore)\n\n
+Sidharta Andalam (Delta Research Center, Singapore)\n\n
 Bai Xue (Chinese Academy of Sciences, China)"
 
 realtime:
@@ -55,31 +57,11 @@ Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber
 
 ******
 
-# Real-Time Systems
+# Ongoing Projects
 
 ******
 
-### Mixed-Criticality Scheduling Algorithms
-
-![image-right](/assets/graphics/time2task.png){:height="40%" width="40%"}{: .align-right}
-With increasing functionality and automation in real-time systems, the computational demand is steadily increasing, while resources available for servicing this demand are limited due to size, weight and power restrictions. As a result a module integration trend has emerged, so that many different applications are being cohosted on the same processing unit. Some of these applications are extremely critical for the correct behavior of the system (e.g., collision avoidance in automotive), while some others are relatively less critical (e.g., hill assist in automotive), thus giving rise to mixed-criticality real-time systems. In this project, we focus on the design of single-core as well as multi-core scheduling algorithms for such systems. We also develop practical workload models to characterize such systems, and evalute the same using an automotive testbed.
-
-*Tier-2 Grant (Ministry of Education, Singapore)*
-
-[Read More](/mc_scheduling){: .btn .btn--primary}
-
-### Cache Designs for Timing-Predictability
-
-![image-right](/assets/graphics/Cache2Predict.png){:height="40%" width="40%"}{: .align-right}
-Cache memory plays a key role for performance improvement and energy efficiency in modern computer systems. However, when used as a shared resource in a multicore system, cache memory becomes the key source for timing unpredictability. As predictability is a major concern in real-time systems, this project designs cache memories to address this issue. We focus on the development of hardware techniques, specifically cache replacement policy designs, to improve the predictability of both private as well as shared caches on multicores.
-
-*Tier-1 Grant (Ministry of Education, Singapore)*
-
-[Read More](/cache_designs){: .btn .btn--primary}
-
-******
-
-# Model-based Design Methodologies
+## Model-based Design Methodologies
 
 ******
 
@@ -101,7 +83,7 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 
 ******
 
-# Energy Management
+## Energy Management
 
 ******
 
@@ -120,3 +102,32 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 The aim of this project is to implement the concept of decentralized electricity metering and load management using IoT capabilities in smart devices. The long-term objective is to remove household- or company-level smart electricity metering and replace it with aggregated reporting of all devices in the household/company environment. Moreover, this approach will also enable these electricity-consuming devices to participate in a deregulated electricity market. By developing approaches from the blockchain technology domain towards application in embedded devices, a trustless authentication mechanism for provisioning and verifying the compliance of these devices will be made possible. Our investigation of how to achieve a fully decentralized energy grid with smart contracts, binding all grid participants to system-level goals, will contribute to bringing smart grid functionality to a level of granularity previously not possible.
 
 *Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
+
+******
+
+# Past Projects
+
+******
+
+## Real-Time Systems
+
+******
+
+### Mixed-Criticality Scheduling Algorithms
+
+![image-right](/assets/graphics/time2task.png){:height="40%" width="40%"}{: .align-right}
+With increasing functionality and automation in real-time systems, the computational demand is steadily increasing, while resources available for servicing this demand are limited due to size, weight and power restrictions. As a result a module integration trend has emerged, so that many different applications are being cohosted on the same processing unit. Some of these applications are extremely critical for the correct behavior of the system (e.g., collision avoidance in automotive), while some others are relatively less critical (e.g., hill assist in automotive), thus giving rise to mixed-criticality real-time systems. In this project, we focus on the design of single-core as well as multi-core scheduling algorithms for such systems. We also develop practical workload models to characterize such systems, and evalute the same using an automotive testbed.
+
+*Tier-2 Grant (Ministry of Education, Singapore)*
+
+[Read More](/mc_scheduling){: .btn .btn--primary}
+
+### Cache Designs for Timing-Predictability
+
+![image-right](/assets/graphics/Cache2Predict.png){:height="40%" width="40%"}{: .align-right}
+Cache memory plays a key role for performance improvement and energy efficiency in modern computer systems. However, when used as a shared resource in a multicore system, cache memory becomes the key source for timing unpredictability. As predictability is a major concern in real-time systems, this project designs cache memories to address this issue. We focus on the development of hardware techniques, specifically cache replacement policy designs, to improve the predictability of both private as well as shared caches on multicores.
+
+*Tier-1 Grant (Ministry of Education, Singapore)*
+
+[Read More](/cache_designs){: .btn .btn--primary}
+
