@@ -17,14 +17,14 @@ Seima Suriyasekaran (Engineer)"
   - title: "Research Students"
     text: "
 Mainak Dan (PhD)\n\n
-Nitin Shivaraman (PhD, joint with Sebastian Steinhorst)\n\n
+Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
 Saravanan Ramanathan (PhD)\n\n
 Sundar Vijayakumar (PhD)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Daniel Ng Jun Xian (MEngg)\n\n
 Zahra Rahimi Nasab (PhD)\n\n
-Jean Oudot (PhD, joint with Laurent Pautet)"
+Jean Oudot (PhD, joint with Laurent Pautet - Telecom Paristech)"
 
   - title: "Former Postdocs/Students"
     text: "
