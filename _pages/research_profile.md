@@ -47,6 +47,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+     		        <li class="a">Vijayakumar Sundar and Arvind Easwaran, "Demo Abstract: Testbed for Practical Considerations In Mixed Criticality System Design", Demo Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2019.</li>	
      		        <li class="a">Vijayakumar Sundar and Arvind Easwaran, "A Practical Degradation Model for Mixed-Criticality Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2019.</li>	
      		        <li class="a">Ankita Samaddar, Zahra Rahiminasab, Arvind Easwaran, Ansuman Banerjee and Xue Bai, "Linearization based Safety Verification of a Glucose Control Protocol", IEEE International Symposium on Real-Time Computing (ISORC), 2019.</li>
 <li class="a">Daniel Jun Xian Ng, Arvind Easwaran and Sidharta Andalam, "Demo Abstract: Contract-based Hierarchical Resilience Framework for Cyber-Physical Systems", Demo Session of IEEE International Conference on Cyber-Physical Systems (ICCPS), 2019.</li>
