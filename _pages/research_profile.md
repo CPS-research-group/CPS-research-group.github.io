@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-    <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Design of an Online-Tuned Model Based Compound Controller for a Fully-Automated Artificial Pancreas", to appear in Springer Journal of Medical & Biological Engineering & Computing.</li>  
+    <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Design of an Online-Tuned Model Based Compound Controller for a Fully-Automated Artificial Pancreas" (<a href="https://rdcu.be/br4lW">online-pdf</a>), Springer Journal of Medical & Biological Engineering & Computing.</li>  
     <li class="a">Xiaozhe Gu and Arvind Easwaran, "Dynamic Budget Management and Budget Reclamation for Mixed-Criticality Systems" (<a href="https://rdcu.be/bo09g">online-pdf</a>), Springer Real-Time Systems.</li>
     <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access, Volume 7, Issue 1, Pages 1330-1344, December 2019.</li>
     <li class="a">Zhonglin Chiam, Arvind Easwaran, David Mouquet, Samira Fazlollahi and Jaume V. Mill&aacute;s, "A Hierarchical Framework for Holistic Optimization of the Operations of District Cooling Systems", Elsevier Applied Energy, Volume 239, Pages 23-40, April 2019.</li>
