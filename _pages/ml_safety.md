@@ -39,3 +39,4 @@ training examples they have learnt. Based on the observation that  ML models wor
 
 #Publications
 
+Xiaozhe Gu and Arvind Easwaran, "Towards Safe Machine Learning for CPS: Infer Uncertainty from Training Data", IEEE International Conference on Cyber-Physical Systems (ICCPS), 2019.
