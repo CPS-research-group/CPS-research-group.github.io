@@ -27,7 +27,7 @@ Machine learning (ML) techniques are increasingly influencing our lives, and mov
 
 ### 1. Safe Fail
 
-![image-left](/_pages/assets/ml_safety/tree.pdf){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/ml_safety/tree.png){:height="50%" width="50%"}{: .align-right}
 A practical technique for ML to avoid unsafe predictions is “Safe Fail”.  If a model is not likely to produce a correct output, a
 reject option is selected, and the backup solution, a traditional non-ML approach or a human operator, for example, is applied, thereby causing the system to fail safely.  For example,  a support vector machine (SVM) like classifier with a reject option could be used for this purpose. The model will select a reject option if  classifier's predictive output $\phi(x)$ does not exceed a certain threshold. 
 
