@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Towards Safe Machine Learning for CPS"
 sitemap: false
-permalink: /mc_safety/
+permalink: /ml_safety/
 
 sidebar:
   - title:
