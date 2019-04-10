@@ -36,7 +36,3 @@ and the distance from the decision boundary is inversely related to the confiden
 
 ML models learn from a subset of possible scenarios that could be encountered operationally. Thus, they can only be as good as the
 training examples they have learnt. Based on the observation that  ML models work well in the “training space” with a cloud of training points, but they could not extrapolate beyond the training space, we propose a feature space partition tree (FSPT) to split the initial feature space into multiple partitions with different densities of training data.  If  an input instance is from a feature space partition with no or few training samples,  then a reject option maybe selected.
-
-#Publications
-
-Xiaozhe Gu and Arvind Easwaran, "Towards Safe Machine Learning for CPS: Infer Uncertainty from Training Data", IEEE International Conference on Cyber-Physical Systems (ICCPS), 2019.
