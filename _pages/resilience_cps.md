@@ -9,7 +9,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Daniel Ng Jun Xian (Engineer)"
+    text: "Daniel Ng Jun Xian (Engineer)\n\n Omar Al-Bataineh (Postdoc)"
   - title: "Research Students"
     text: "Ankita Samaddar (PhD)"
   - title: "Former Staff"

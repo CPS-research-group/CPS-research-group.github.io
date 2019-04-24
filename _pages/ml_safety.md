@@ -9,10 +9,10 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Xiaozhe Gu (Research Fellow) \n \n Zahra RahimiNasab (PhD)"
+    text: "Zahra RahimiNasab (PhD)"
 
   - title: "Former Staff/Students"
-    text: " "
+    text: "Xiaozhe Gu (Postdoc)"
 ---
 
 ******

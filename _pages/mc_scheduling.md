@@ -8,11 +8,10 @@ permalink: /mc_scheduling/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Students"
-    text: "Saravanan Ramanathan (PhD) \n \n Sundar Vijayakumar (PhD)"
 
   - title: "Former Staff/Students"
-    text: "Xiaozhe  Gu (PhD) \n \n Bibin Nair (Engineer)"
+    text: "Xiaozhe  Gu (PhD) \n\n Bibin Nair (Engineer) \n\n"
+    	   Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
 ---
 
 ******

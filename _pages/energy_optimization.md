@@ -1,14 +1,15 @@
 ---
 layout: single
 author_profile: false
-title: "Optimization of District Cooling Systems"
-permalink: /district_cooling/
+title: "Optimization of Energy Management Systems"
+permalink: /energy_optimization/
 
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Students"
-    text: "Chiam Zhong Lin (PhD)"
+    text: "Chiam Zhong Lin (PhD)\n\n
+    	   Mainak Dan (PhD)"
 ---
 
 ******

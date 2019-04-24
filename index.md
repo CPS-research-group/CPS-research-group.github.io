@@ -8,9 +8,9 @@ sidebar:
 
   - title: "Research Staff"
     text: "
+Sundar Vijayakumar (Engineer)\n\n
 Omar Al-Bataineh (Postdoc)\n\n
 Zhiheng Xu (Postdoc)\n\n
-Xiaozhe Gu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
 Seima Suriyasekaran (Engineer)"
 
@@ -18,8 +18,6 @@ Seima Suriyasekaran (Engineer)"
     text: "
 Mainak Dan (PhD)\n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
-Saravanan Ramanathan (PhD)\n\n
-Sundar Vijayakumar (PhD)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Daniel Ng Jun Xian (MEngg)\n\n
@@ -28,9 +26,12 @@ Jean Oudot (PhD, joint with Laurent Pautet - Telecom Paristech)"
 
   - title: "Former Postdocs/Students"
     text: "
+Saravanan Ramanathan (TUMCREATE, Singapore)\n\n
+Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (Singapore Institute of Technology, Singapore)\n\n
-Sidharta Andalam (Delta Research Center, Singapore)\n\n
-Bai Xue (Chinese Academy of Sciences, China)"
+Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
+Bai Xue (Chinese Academy of Sciences, China)\n\n
+Arpita Bhattacharjee (Mercedes Benz R&D, India)"
 
 realtime:
   - image_path:
@@ -76,14 +77,15 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
-## Optimization Framework for District Cooling Systems
+## Optimization Framework for Energy Management Systems
 
 ![image-right](/assets/graphics/controlHeating.png){:height="40%" width="40%"}{: .align-right}
 In Singapore, the operation of buildings consumes about 37% of total electricity, making them one of the largest consumers of primary energy. Around 70% of the energy used in buildings is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy for cooling in buildings will provide a large leverage for climate change mitigation. District cooling systems that supply such cooling energy from centralized chillers via distribution networks within a geographical area have emerged as an efficient alternative to personalized air-conditioning systems. Although such cooling systems are in commercial use globally, significant operational inefficiencies and losses are often reported. Towards mitigating these inefficiencies, in this project, we develop a design methodology for formal modelling and operational optimization of district cooling systems.
 
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
+*PhD Grant (ERI@N, NTU)*
 
-[Read More](/district_cooling){: .btn .btn--primary}
+[Read More](/energy_management){: .btn .btn--primary}
 
 ## Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
@@ -92,11 +94,14 @@ The aim of this project is to implement the concept of decentralized electricity
 
 *Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
 
+[Read More](/IoTmetering){: .btn .btn--primary}
 
-## Towards Safe Machine Learning for CPS
+## Assured-Safety Architecture for Machine Learning based CPS
 
 ![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-right}
 Machine learning (ML) techniques are increasingly applied to decision-making and control problems in Cyber-Physical Systems among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example,  1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS.  In this project, we focus on the design of novel techniques to improve the safety of ML-CPS.
+
+*Grant (ERI@N and Cyber-Physical Systems Corporate Lab, NTU)*
 
 [Read More](/ml_safety){: .btn .btn--primary}
 

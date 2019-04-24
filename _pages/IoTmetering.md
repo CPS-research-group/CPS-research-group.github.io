@@ -8,9 +8,9 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Seima Suriyasekaran (Project Officer)"
+    text: "Seima Suriyasekaran (Engineer)"
   - title: "Research Students"
-    text: "Nitin Shivaraman (Research Associate)"
+    text: "Nitin Shivaraman (PhD)"
 ---
 
 ******
