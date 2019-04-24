@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Mixed-Criticality Real-Time Scheduling"
 sitemap: false
-permalink: /mc_scheduling/
+permalink: /mixed_criticality/
 
 sidebar:
   - title:

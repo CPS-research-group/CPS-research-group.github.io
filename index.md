@@ -121,7 +121,7 @@ With increasing functionality and automation in real-time systems, the computati
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
 
-[Read More](/mc_scheduling){: .btn .btn--primary}
+[Read More](/mixed_criticality){: .btn .btn--primary}
 
 ## Cache Designs for Timing-Predictability
 
