@@ -15,9 +15,6 @@ sidebar:
 
 ******
 
-# Smart Metering and Load management with IoT and Blockchain
-
-
 
 Conventional System                               |  Proposed System
 :------------------------------------------------:|:-------------------------------------------------:
