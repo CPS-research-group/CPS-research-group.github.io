@@ -11,7 +11,7 @@ sidebar:
 
   - title: "Former Staff/Students"
     text: "Xiaozhe  Gu (PhD) \n\n Bibin Nair (Engineer) \n\n"
-           Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
+            Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
 ---
 
 ******
