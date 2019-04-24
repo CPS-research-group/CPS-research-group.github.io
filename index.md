@@ -83,6 +83,7 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 In Singapore, the operation of buildings consumes about 37% of total electricity, making them one of the largest consumers of primary energy. Around 70% of the energy used in buildings is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy for cooling in buildings will provide a large leverage for climate change mitigation. District cooling systems that supply such cooling energy from centralized chillers via distribution networks within a geographical area have emerged as an efficient alternative to personalized air-conditioning systems. Although such cooling systems are in commercial use globally, significant operational inefficiencies and losses are often reported. Towards mitigating these inefficiencies, in this project, we develop a design methodology for formal modelling and operational optimization of district cooling systems.
 
 *Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
+
 *PhD Grant (ERI@N, NTU)*
 
 [Read More](/energy_management){: .btn .btn--primary}
