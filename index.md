@@ -86,7 +86,7 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 
 *PhD Grant (ERI@N, NTU)*
 
-[Read More](/energy_management){: .btn .btn--primary}
+[Read More](/energy_optimization){: .btn .btn--primary}
 
 ## Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
 
