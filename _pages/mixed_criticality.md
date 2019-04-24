@@ -10,8 +10,7 @@ sidebar:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
 
   - title: "Former Staff/Students"
-    text: "Xiaozhe  Gu (PhD) \n\n Bibin Nair (Engineer) \n\n"
-            "Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
+    text: "Xiaozhe  Gu (PhD) \n\n Bibin Nair (Engineer) \n\n Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
 ---
 
 ******
