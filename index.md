@@ -73,9 +73,11 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 ## Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="40%" width="40%"}{: .align-left}
-With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance and re-configurability, can be realized. The cyber twin, obtained by using this big data together with plant models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber domain. In this project, we aim to develop a tooling framework to realize the design and deployment of a cyber twin in manufacturing with the following objectives: plant and controller model specification and simulation, and automatic model-to-code transformation for controller and cyber twin synthesis.
+With sensing technology becoming pervasive in manufacturing plants, large amounts of data are being generated in real-time. As a consequence, there is a need to effectively utilize this _big data_ so that the desired objectives of Industry 4.0 such as predictive maintenance, root cause analysis and re-configurability, can be realized. The digital twin, obtained by using this big data together with plant and controller models, can be viewed as an accurate and time-synchronized characterization of the physical system in the cyber space. In this project, we aim to develop a tooling framework to realize the design and deployment of a digital twin in manufacturing with the following objectives: introducing a software architecture for the digital twin construction and application development, building a digital twin using heterogeneous modeling formalisms and online data integration, and providing a single source of truth for isolated applications via a well-formed interface.
 
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+
+[Read More](/digital_twin){: .btn .btn--primary}
 
 ## Optimization Framework for Energy Management Systems
 
