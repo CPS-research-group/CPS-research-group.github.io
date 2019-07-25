@@ -65,16 +65,26 @@ User provided end-to-end requirements, and component capabilities are used to ge
 
 It is challenging to compose the contract hierarchy shown above of a large-scale CPS due to its vast number of components. To address this issue, one can decompose the root contract (i.e., the original A-G contract) into multiple sub-contracts. Each sub-contract only monitors the Non-Functional Properties (NFPs) of a specific component in the system. However, such a simple and independent decomposition will make the CPS sensitive to random disturbances and false alarms. One false alarm in a component could impact the process of the entire system, increasing downtime and degrading system performance. For example, a jitter noise in a specific component may violate its sub-contract, shutting down the whole system when it could have resolved this jitter noise problem on its own. Further, such independent decomposition may not even be feasible in some cases, e.g., end-to-end latency requirements. Hence, a fully decentralized framework is also not always attractive. 
 
-![image-left](/_pages/assets/resilience_cps/images/refine_twoLevel.png){:height="30%" width="30%"}{: .align-left}
+![image-left](/_pages/assets/resilience_cps/images/refine_twoLevel.png){:height="28%" width="28%"}{: .align-left}
 ![image-left](/_pages/assets/resilience_cps/images/refine_flowchart.png){:height="35%" width="35%"}{: .align-right}
 
 To simplify the problem, we will view the entire hierarchy as multiple two-level contract-based hierarchies. Constructing a two-level contract-based hierarchy has two important steps: (1) decomposing the root contract into various sub-contracts; (2) refining the sub-contracts. The decomposition ensures that the framework can isolate the faulty components quickly. While the refinement guarantees that the root RM has some amount of flexibility to resolve random disturbances or false alarms, thus reducing the downtime of the system. We develop an algorithm to generate such hierarchical contracts automatically. As part of the automated solution, we propose a criterion to evaluate system performance based on the specific parameters of the contract and formulate an optimization problem to find the optimal settings.
 
 If a CPS has multiple NFPs of interests, we can use the proposed mechanism to generate multiple independent contract hierarchies for monitoring different NFPs. Although our framework focuses on the generation of a two-level contract-based hierarchy, we can extend our work to multi-level hierarchies. As illustrated in the left figure, we can view a multi-level hierarchy as a combination of multiple two-level hierarchies under the same assumptions on NFPs. To generate a multi-level hierarchy, we can run the two steps proposed, iteratively. 
 
+### 6. Alternate Decomposition Method
+![image-left](/_pages/assets/resilience_cps/images/unwindingAlgo.PNG){:height="35%" width="35%"}{: .align-left}
+As an alternative to the hierarchical methodology we employed above, we present a novel decentralized monitoring framework for non-functional properties (NFPs) using the notion of formula unwinding technique. The unwinding technique allows the NFP of the system to be decomposed into sub-formulas which can then be monitored independently by the processes of the system. Likewise, the original A-G contract represents the NFP of the system being monitored. This root contract (i.e.. a formula formalising a requirement over the system's global behavior which is typically expressed as Boolean formula or Linear Temporal Logic formula). Our unwinding technique aims to transform the original formula into new formulae by breaking the dependency chain among the processes of the system such that all variables are explicitly observable. This would introduce new variables that were not observable in the original formula.  
+The CPS under consideration will have to fulfill the following assumptions:  
+(1) The system is a synchronous system with a global clock.  
+(2) We assume that each process p has a minimum response time (RT), and this represents the minimum time needed by process p to produce its output once the minimal set of required inputs to that process are available.  
+(3) We assume the processes of the system make use of all their inputs when generating their outputs.
+{: .align-right}
+
 
 ******
 # Evaluation testbed & demonstration
+{: .align-left}
 {% include video id="bmqxDOJgaz4" provider="youtube" %}
 > Video Caption: Supplementary material for our paper; "Contract-based Hierarchical Resilience Management for Cyber-Physical Systems," published in IEEE Computer. This is a assembly line setup for color-based sorting of tokens. In our implementation, we only use the first 2 bins and white tokens. Under normal operation, the white token would be ejected into the first bin. In case of a fault that requires changes to the conveyor belt speed, the second bin is used temporarily until fault-recovery is completed. When a fault occurs in the system, the following actions are expected.  
 (1) If the fault can be handled at the local resilience manager (color processor & bin selector), the fault information will not be propagated to the higher resilience manager (L1) and vice versa if the fault cannot be handled.  
