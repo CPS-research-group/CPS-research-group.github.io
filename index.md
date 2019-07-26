@@ -9,10 +9,9 @@ sidebar:
   - title: "Research Staff"
     text: "
 Sundar Vijayakumar (Engineer)\n\n
-Omar Al-Bataineh (Postdoc)\n\n
 Zhiheng Xu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
-Seima Suriyasekaran (Engineer)"
+Daniel Ng Jun Xian (Engineer)"
 
   - title: "Research Students"
     text: "
@@ -20,9 +19,9 @@ Mainak Dan (PhD)\n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
 Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
-Daniel Ng Jun Xian (MEngg)\n\n
 Zahra Rahimi Nasab (PhD)\n\n
-Jean Oudot (PhD, joint with Laurent Pautet - Telecom Paristech)"
+Jean Oudot (PhD, joint with Laurent Pautet - Telecom Paristech)\n\n
+Seima Suriyasekaran (MEngg)"
 
   - title: "Former Postdocs/Students"
     text: "
