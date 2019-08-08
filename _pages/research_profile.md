@@ -48,10 +48,11 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-			<li class="a">ZhongLin Chiam and Arvind Easwaran, "Real-Time Optimization of the Operations of District Cooling Systems via Deep Reinforcement Learning and Mixed Integer Linear Programming", International Conference on Applied Energy (ICAE) 2019.</li>
-			<li class="a">Zhiheng Xu, Daniel Jun Xian Ng and Arvind Easwaran, "Automatic Generation of Hierarchical Contracts for Resilience in Cyber-Physical Systems", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA) 2019.</li>
-			<li class="a">Rutvij Jhaveri, Rui Tan, Arvind Easwaran and Sagar Ramani, "Contract-based Fault-resilient Real-time Communication in Industrial Cyber-physical Systems with Software-defined Networking", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA) 2019.</li>
-			<li class="a">Vijayakumar Sundar and Arvind Easwaran, "Demo Abstract: Testbed for Practical Considerations In Mixed Criticality System Design", Demo Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2019.</li>	
+			<li class="a">Bai Xue, Martin Fr&auml;nzle, Hengjun Zhao, Naijun Zhan and Arvind Easwaran, "Probably Approximate Safety Verification of Hybrid Dynamical Systems", International Conference on Formal Engineering Methods (ICFEM), 2019.</li>
+			<li class="a">ZhongLin Chiam and Arvind Easwaran, "Real-Time Optimization of the Operations of District Cooling Systems via Deep Reinforcement Learning and Mixed Integer Linear Programming", International Conference on Applied Energy (ICAE), 2019.</li>
+			<li class="a">Zhiheng Xu, Daniel Jun Xian Ng and Arvind Easwaran, "Automatic Generation of Hierarchical Contracts for Resilience in Cyber-Physical Systems", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2019.</li>
+			<li class="a">Rutvij Jhaveri, Rui Tan, Arvind Easwaran and Sagar Ramani, "Managing Industrial Communication Delays with Software-Defined Networking", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2019.</li>
+			<li class="a">Vijayakumar Sundar and Arvind Easwaran, "Demo Abstract: Testbed for Practical Considerations In Mixed Criticality System Design", Demo Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2019.</li>	
      		        <li class="a">Vijayakumar Sundar and Arvind Easwaran, "A Practical Degradation Model for Mixed-Criticality Systems", IEEE International Symposium on Real-Time Computing (ISORC), 2019.</li>	
      		        <li class="a">Ankita Samaddar, Zahra Rahiminasab, Arvind Easwaran, Ansuman Banerjee and Xue Bai, "Linearization based Safety Verification of a Glucose Control Protocol", IEEE International Symposium on Real-Time Computing (ISORC), 2019.</li>
 <li class="a">Daniel Jun Xian Ng, Arvind Easwaran and Sidharta Andalam, "Demo Abstract: Contract-based Hierarchical Resilience Framework for Cyber-Physical Systems", Demo Session of IEEE International Conference on Cyber-Physical Systems (ICCPS), 2019.</li>
