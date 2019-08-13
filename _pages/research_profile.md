@@ -48,6 +48,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+			<li class="a">Jalil Boudjadar, Saravanan Ramanathan, Arvind Easwaran and Ulrik Nyman, "Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems", International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2019.</li>
 			<li class="a">Bai Xue, Martin Fr&auml;nzle, Hengjun Zhao, Naijun Zhan and Arvind Easwaran, "Probably Approximate Safety Verification of Hybrid Dynamical Systems", International Conference on Formal Engineering Methods (ICFEM), 2019.</li>
 			<li class="a">ZhongLin Chiam and Arvind Easwaran, "Real-Time Optimization of the Operations of District Cooling Systems via Deep Reinforcement Learning and Mixed Integer Linear Programming", International Conference on Applied Energy (ICAE), 2019.</li>
 			<li class="a">Zhiheng Xu, Daniel Jun Xian Ng and Arvind Easwaran, "Automatic Generation of Hierarchical Contracts for Resilience in Cyber-Physical Systems", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2019.</li>
