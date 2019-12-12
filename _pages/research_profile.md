@@ -23,6 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
+    <li class="a">Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran and Anupam Chattopadhyay, "Crossbar-Constrained Technology Mapping for ReRAM based In-Memory Computing", IEEE Transactions on Computers.</li>
     <li class="a">Hyeonjoong Cho, Chulgoo Kim, Joohyung Sun, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Scheduling Parallel Real-time Tasks on the Minimum Number of Processors", IEEE Transactions on Parallel and Distributed Systems.</li>
     <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access, Volume 7, Issue 1, Pages 1330-1344, December 2019.</li>
     <li class="a">Arpita Bhattacharjee, Arvind Easwaran, Melvin Khee-Shing Leow and Namjoon Cho, "Design of an Online-Tuned Model Based Compound Controller for a Fully-Automated Artificial Pancreas", Springer Journal of Medical & Biological Engineering & Computing, Volume 57, Issue 7, Pages 1437-1449, July 2019.(<a href="https://rdcu.be/br4lW">Springer-SharedIt</a>)</li>  
@@ -48,7 +49,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-   		        <li class="a">, Nitin Shivaraman, Seima Suriyasekaran, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Real-Time Energy Monitoring in IoT-enabled Mobile Devices", Design, Automation and Test in Europe (DATE), 2020.</li>
+   		        <li class="a">Nitin Shivaraman, Seima Suriyasekaran, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Real-Time Energy Monitoring in IoT-enabled Mobile Devices", Design, Automation and Test in Europe (DATE), 2020.</li>
    		        <li class="a">Heejong Park, Arvind Easwaran and Sidharta Andalam, "Twin-in-the-Loop Architecture for Cyber-Physical Production Systems", IEEE International Conference on Computer Design (ICCD), 2019.</li>
 			<li class="a">Jalil Boudjadar, Saravanan Ramanathan, Arvind Easwaran and Ulrik Nyman, "Combining Task-level and System-level Scheduling Modes for Mixed Criticality Systems", International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2019.</li>
 			<li class="a">Bai Xue, Martin Fr&auml;nzle, Hengjun Zhao, Naijun Zhan and Arvind Easwaran, "Probably Approximate Safety Verification of Hybrid Dynamical Systems", International Conference on Formal Engineering Methods (ICFEM), 2019.</li>
