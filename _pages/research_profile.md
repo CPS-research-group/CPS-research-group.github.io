@@ -49,6 +49,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Prasanna Ravi, Vijaya Kumar Sundar, Anupam Chattopadhyay, Shivam Bhasin and Arvind Easwaran, "Authentication Protocol for Secure Automotive Systems: Benchmarking Post-Quantum Cryptography", IEEE International Symposium on Circuits and Systems (ISCAS), 2020.</li>   
    			<li class="a">Zhiheng Xu and Arvind Easwaran, "A Game-Theoretic Approach to Secure Estimation and Control for Cyber-Physical Systems with a Digital Twin", IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2020.</li>
    		        <li class="a">Nitin Shivaraman, Seima Suriyasekaran, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Real-Time Energy Monitoring in IoT-enabled Mobile Devices", Design, Automation and Test in Europe (DATE), 2020.</li>
    		        <li class="a">Heejong Park, Arvind Easwaran and Sidharta Andalam, "Twin-in-the-Loop Architecture for Cyber-Physical Production Systems", IEEE International Conference on Computer Design (ICCD), 2019.</li>
