@@ -103,6 +103,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Workshops
  <ol>
+		        <li class="a">Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Poster Abstract: C-Sync: The Resilient Time Synchronization Protocol", Work-in-Progress Session of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2020. </li>
+		        <li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "WiP Abstract: Mobility-Based Load Balancing for IoT-enabled Devices in Smart Grids", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2020. </li>
 		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "SlotSwapper: A Schedule Randomization protocol for Real-Time WirelessHART Networks", Real-Time Networks (RTN), 2019. </li>
 		        <li class="a">Heejong Park, Arvind Easwaran and Sidharta Andalam, "Challenges in Digital Twin Development for Cyber-Physical Production Systems", Model-based Design of Cyber-Physical Systems (CyPhy), 2018. </li>
 		        <li class="a">Arvind Easwaran, "Practical Mixed-Criticality Model: Challenges", Mixed Criticality on Multicore/Manycore Platforms (Dagstuhl Seminar 17131 Report), 2017. </li>
