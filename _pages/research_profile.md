@@ -23,6 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
+    <li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics.</li>  
     <li class="a">Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran and Anupam Chattopadhyay, "Crossbar-Constrained Technology Mapping for ReRAM based In-Memory Computing", IEEE Transactions on Computers.</li>
     <li class="a">Hyeonjoong Cho, Chulgoo Kim, Joohyung Sun, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Scheduling Parallel Real-time Tasks on the Minimum Number of Processors", IEEE Transactions on Parallel and Distributed Systems, Volume 31, Issue 1, Pages 171-186, January 2020.</li>
     <li class="a">Joohyung Sun, Hyeonjoong Cho, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Flow Network-based Real-Time Scheduling for Reducing Static Energy Consumption on Multiprocessors", IEEE Access, Volume 7, Issue 1, Pages 1330-1344, December 2019.</li>

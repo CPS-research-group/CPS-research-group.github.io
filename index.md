@@ -17,17 +17,17 @@ Daniel Ng Jun Xian (Engineer)"
     text: "
 Mainak Dan (PhD)\n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
-Chiam Zhong Lin (PhD)\n\n
 Ankita Samaddar (PhD)\n\n
 Zahra Rahimi Nasab (PhD)\n\n
-Jean Oudot (PhD, joint with Laurent Pautet - Telecom Paristech)\n\n
-Seima Suriyasekaran (MEngg)"
+Seima Suriyasekaran (MEngg)\n\n
+Gao Chuanchao (MEngg)"
 
   - title: "Former Postdocs/Students"
     text: "
+Chiam Zhong Lin (Zyllem, Singapore)\n\n
 Saravanan Ramanathan (TUMCREATE, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
-Shihabul Haque (Singapore Institute of Technology, Singapore)\n\n
+Shihabul Haque (I2R, A*STAR, Singapore)\n\n
 Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
 Bai Xue (Chinese Academy of Sciences, China)\n\n
 Arpita Bhattacharjee (Mercedes Benz R&D, India)"
@@ -38,18 +38,38 @@ Arpita Bhattacharjee (Mercedes Benz R&D, India)"
 # Overview
 Cyber-Physical Systems (CPS) encompass systems in which the cyber world of computation and communication closely interacts with the physical world of sensors and actuators. These are highly networked and deeply embedded systems such as those found in modern day aircrafts, automotives, factories, medical devices, smart phones, electric grids, etc. From driver-less cars and air traffic management using sense and avoid, to plug-and-play operating rooms and smart electric grids that integrate traditional and renewable energy sources, intelligent automation of an enormous scale is finding its way into many of these systems.
 
-Current interests of the CPS Research Group @SCSE,NTU are in the design of cyber-infrastructures for CPS, especially for systems with time-critical functionalities (i.e., real-time systems). The research themes can be broadly classified as follows:
+Primary interests of the CPS Research Group @SCSE,NTU are in the design and analysis of safety-critical and time-critical CPS, with a particular focus on cyber-resource management and safety assurance. The current research themes can be broadly classified as follows:
 
 <ol>
-<li>Real-Time Systems (scheduling algorithms and hardware designs)</li>
-<li>Model-based Design Methodologies (for resilience and operational efficiency)</li>
-<li>Energy Management (scheduling algorithms)</li>
+<li>Resource Management in IoT and Edge</li>
+<li>Safety Assurance in Learning Enabled Components</li>
+<li>Model-driven Operational Optimization</li>
 </ol>
 ******
 
 # Ongoing Projects
 
 ******
+
+## Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
+
+![image-right](/assets/graphics/smart_metering.png){:height="40%" width="40%"}{: .align-right}
+The aim of this project is to implement the concept of decentralized electricity metering and load management using IoT capabilities in smart devices. The long-term objective is to remove household- or company-level smart electricity metering and replace it with aggregated reporting of all devices in the household/company environment. Moreover, this approach will also enable these electricity-consuming devices to participate in a deregulated electricity market. By developing approaches from the blockchain technology domain towards application in embedded devices, a trustless authentication mechanism for provisioning and verifying the compliance of these devices will be made possible. Our investigation of how to achieve a fully decentralized energy grid with smart contracts, binding all grid participants to system-level goals, will contribute to bringing smart grid functionality to a level of granularity previously not possible.
+
+*Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
+
+[Read More](/IoTmetering){: .btn .btn--primary}
+
+## Assured-Safety Architecture for Machine Learning based CPS
+
+![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-right}
+Machine learning (ML) techniques are increasingly applied to decision-making and control problems in Cyber-Physical Systems among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example,  1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS.  In this project, we focus on the design of novel techniques to improve the safety of ML-CPS.
+
+*Tier-2 Grant (Ministry of Education, Singapore)*
+
+*Grant (ERI@N and Cyber-Physical Systems Corporate Lab, NTU)*
+
+[Read More](/ml_safety){: .btn .btn--primary}
 
 ## Resilient Cyber-Infrastructure for Manufacturing
 
@@ -79,26 +99,6 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 *PhD Grant (ERI@N, NTU)*
 
 [Read More](/energy_optimization){: .btn .btn--primary}
-
-## Distributed and Internet-of-Things (IoT) based Electricity Metering and Load Management
-
-![image-right](/assets/graphics/smart_metering.png){:height="40%" width="40%"}{: .align-right}
-The aim of this project is to implement the concept of decentralized electricity metering and load management using IoT capabilities in smart devices. The long-term objective is to remove household- or company-level smart electricity metering and replace it with aggregated reporting of all devices in the household/company environment. Moreover, this approach will also enable these electricity-consuming devices to participate in a deregulated electricity market. By developing approaches from the blockchain technology domain towards application in embedded devices, a trustless authentication mechanism for provisioning and verifying the compliance of these devices will be made possible. Our investigation of how to achieve a fully decentralized energy grid with smart contracts, binding all grid participants to system-level goals, will contribute to bringing smart grid functionality to a level of granularity previously not possible.
-
-*Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
-
-[Read More](/IoTmetering){: .btn .btn--primary}
-
-## Assured-Safety Architecture for Machine Learning based CPS
-
-![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-right}
-Machine learning (ML) techniques are increasingly applied to decision-making and control problems in Cyber-Physical Systems among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example,  1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS.  In this project, we focus on the design of novel techniques to improve the safety of ML-CPS.
-
-*Grant (ERI@N and Cyber-Physical Systems Corporate Lab, NTU)*
-
-[Read More](/ml_safety){: .btn .btn--primary}
-
-
 
 ******
 
