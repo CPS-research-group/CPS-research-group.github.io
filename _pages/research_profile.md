@@ -104,6 +104,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Workshops
  <ol>
+		        <li class="a">Vijaya Kumar Sundar, Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran and Abhishek Dubey, "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of beta-VAE", Workshop on Assured Autonomous Systems (WAAS), 2020. </li>
 		        <li class="a">Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Poster Abstract: C-Sync: The Resilient Time Synchronization Protocol", Work-in-Progress Session of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2020. </li>
 		        <li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "WiP Abstract: Mobility-Based Load Balancing for IoT-enabled Devices in Smart Grids", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2020. </li>
 		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "SlotSwapper: A Schedule Randomization protocol for Real-Time WirelessHART Networks", Real-Time Networks (RTN), 2019. </li>
