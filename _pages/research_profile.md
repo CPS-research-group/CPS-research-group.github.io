@@ -139,6 +139,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Patents
 
 <ol>
+		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam, Jeffrey Soon, "Decentralized Monitoring Framework for Cyber-Physical Systems", Patent application filed through Delta Research Center, Singapore.</li>
 		        <li class="a">Arvind Easwaran, Srivatsan Varadarajan, "Systems and methods generating inter-group and intra-group execution schedules for instruction entity allocation and scheduling on multi-processors", US Patent Number: 9612868, Issued: 04-Apr-2017.</li>
 		        <li class="a">Arvind Easwaran, Larry James Miller, "Systems and methods for task grouping on multi-processors", US Patent Number: 9207977, Issued: 08-Dec-2015.</li>
 			<li class="a">Arvind Easwaran, Gabor Madl, David V. Oglesby, Devesh Bhatt, "Systems and methods for verifying expression folding", US Patent Number: 9027001, Issued:05-May-2015.</li>
