@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Towards Safe Machine Learning for CPS (Open Positions)"
 sitemap: false
-permalink: /ml_safety/
+permalink: /ml_safety_open/
 
 sidebar:
   - title:
@@ -33,8 +33,8 @@ __Number of positions__: 2
 __Research topics__:
 
   <ol>
-    <li>(Position 1) High assurance techniques for efficient runtime detection of out-of-distribution images in vision based applications for CPS (training space characterization).</li>
-    <li>(Position 2) Probabilistic formal verification techniques for safety assurance of learning enabled components in CPS (e.g., data-driven techniques based on scenario optimization).</li>
+    <li><b>(Position 1)</b> High assurance techniques for efficient runtime detection of out-of-distribution images in vision based applications for CPS (training space characterization).</li>
+    <li><b>(Position 2)</b> Probabilistic formal verification techniques for safety assurance of learning enabled components in CPS (e.g., data-driven techniques based on scenario optimization).</li>
   </ol>
 
 __Research environment__:
@@ -64,8 +64,8 @@ __Number of positions__: 2
 __Job profile__:
 
   <ol>
-    <li>(Position 1) Implement technologies developed in the research project on an autonomous vehicle (AV) simulation platform (Carla)</li>
-    <li>(Position 2) Implement technologies developed in the research project on an embedded testbed (Duckietown)</li>
+    <li><b>(Position 1)</b> Implement technologies developed in the research project on an autonomous vehicle (AV) simulation platform (Carla)</li>
+    <li><b>(Position 2)</b> Implement technologies developed in the research project on an embedded testbed (Duckietown)</li>
   </ol>
 
 __Research environment__:
