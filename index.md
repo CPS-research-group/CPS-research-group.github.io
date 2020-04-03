@@ -9,7 +9,6 @@ sidebar:
   - title: "Research Staff"
     text: "
 Sundar Vijayakumar (Engineer)\n\n
-Zhiheng Xu (Postdoc)\n\n
 Heejong Park (Postdoc) \n\n
 Daniel Ng Jun Xian (Engineer)"
 
@@ -24,6 +23,8 @@ Gao Chuanchao (MEngg)"
 
   - title: "Former Postdocs/Students"
     text: "
+Zhiheng Xu (Dyson, Singapore)\n\n
+Omar Al-Bataineh (NUS, Singapore)\n\n
 Chiam Zhong Lin (Zyllem, Singapore)\n\n
 Saravanan Ramanathan (TUMCREATE, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
@@ -63,11 +64,13 @@ The aim of this project is to implement the concept of decentralized electricity
 ## Assured-Safety Architecture for Machine Learning based CPS
 
 ![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-right}
-Machine learning (ML) techniques are increasingly applied to decision-making and control problems in Cyber-Physical Systems among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example,  1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS.  In this project, we focus on the design of novel techniques to improve the safety of ML-CPS.
+Machine learning (ML) techniques are increasingly applied to decision-making and control problems in CPS among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example,  1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS. In this project, we focus on the design of novel techniques to improve the safety of ML-CPS.
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
 
-*Grant (ERI@N and Cyber-Physical Systems Corporate Lab, NTU)*
+*Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+
+*Urban Mobility Grand Challenge (ERI@N, NTU through Land Transport Authority and National Research Foundation, Singapore)*
 
 [Read More](/ml_safety){: .btn .btn--primary}
 

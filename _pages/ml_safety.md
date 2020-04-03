@@ -8,8 +8,10 @@ permalink: /ml_safety/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
+  - title:
+    text: "[Open Positions](/ml_safety/open_positions){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Zahra RahimiNasab (PhD)"
+    text: "Zahra RahimiNasab (PhD) \n \n Sundar Vijayakumar (Engineer)"
 
   - title: "Former Staff/Students"
     text: "Xiaozhe Gu (Postdoc)"

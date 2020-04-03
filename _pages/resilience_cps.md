@@ -9,11 +9,11 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Daniel Ng Jun Xian (Engineer)\n\n Omar Al-Bataineh (Postdoc)"
+    text: "Daniel Ng Jun Xian (Engineer)"
   - title: "Research Students"
     text: "Ankita Samaddar (PhD)"
   - title: "Former Staff"
-    text: "Sidharta Andalam (Postdoc) \n\n Mohammad Shihabul Haque (Postdoc)"
+    text: "Sidharta Andalam (Postdoc) \n\n Mohammad Shihabul Haque (Postdoc) \n \n Omar Al-Bataineh (Postdoc)"
 ---
 
 ******

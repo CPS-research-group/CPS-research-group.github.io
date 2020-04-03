@@ -9,7 +9,11 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff"
-    text: "Heejong Park (Postdoc) \n\n Zhiheng Xu (Postdoc)"
+    text: "Heejong Park (Postdoc)"
+  - title: "Research Student"
+    text: "Gao Chuanchao (MEngg)"
+  - title: "Former Staff"
+    text: "Zhiheng Xu (Postdoc)"
 ---
 
 
