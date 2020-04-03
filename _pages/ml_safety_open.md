@@ -22,11 +22,11 @@ __Salary range__: Between S$4500 and S$6000 monthly depending on background and 
 
 __Expected qualifications__:
 
-* PhD in Computer Science, Computer Engineering or related fields
-
-* Research background and experience in the application of mathematical, particularly probabilistic, analysis techniques for reasoning about safety assurance in CPS
-
-* Evidence of research publications in good venues 
+  <ol>
+    <li>PhD in Computer Science, Computer Engineering or related fields</li>
+    <li> Research background and experience in the application of mathematical, particularly probabilistic, analysis techniques for reasoning about safety assurance in CPS</li>
+    <li>Evidence of research publications in good venues</li>
+  </ol>
 
 __Number of positions__: 2
 
