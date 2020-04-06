@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Towards Safe Machine Learning for CPS"
+title: "Safety Assurance for Machine Learning in CPS"
 sitemap: false
 permalink: /ml_safety/
 
