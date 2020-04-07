@@ -45,7 +45,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 			<li class="a">Jinkyu Lee, Insik Shin and Arvind Easwaran, "Convex Optimization Framework for Intermediate Deadline Assignment in Soft and Hard Real-Time Distributed Systems", Elsevier Journal of Systems and Software, Volume 85, Issue 10, Pages 2331-2339, October 2012.</li>
 			<li class="a"> Jinkyu Lee, Arvind Easwaran, Insik Shin and Insup Lee, "Zero-Laxity based Real-Time Multiprocessor Scheduling", Elsevier Journal of Systems and Software, Volume 84, Issue 12, Pages 2324-2333, December 2011.</li>
 			<li class="a"> Bj&ouml;rn Andersson and Arvind Easwaran, "Provably Good Multiprocessor Scheduling with Resource Sharing", Springer Real-Time Systems, Volume 46, Issue 2, Pages 153-159, October 2010.</li>
-			<li class="a"> Arvind Easwaran, Insik Shin and Insup Lee, "Optimal Virtual Cluster-based Multiprocessor Scheduling", Springer Real-Time Systems, Volume 43, Issue 1, Pages 25-59, September 2009.</li>			
+			<li class="a"> Arvind Easwaran, Insik Shin and Insup Lee, "Optimal Virtual Cluster-based Multiprocessor Scheduling", Springer Real-Time Systems, Volume 43, Issue 1, Pages 25-59, September 2009.(<a href="http://arxiv.org/abs/2004.02439">arXiv</a>)</li>			
 		</ol>
 
 ## Conferences
@@ -82,7 +82,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 			<li class="a">Xue Bai, Zhikun She and Arvind Easwaran, "Under-Approximating Backward Reachable Sets by Polytopes", Computer-Aided Verification (CAV), Pages 457-476, 2016.</li>
 			<li class="a">Nitin Shivaraman, Sriram Vasudevan and Arvind Easwaran, "Demo Abstract: Predictable SoC architecture based on COTS multi-core", Demo Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) 2016.</li>
 			<li class="a">Sanjoy Baruah, Arvind Easwaran and Zhishan Guo, "MC-Fluid: Simplified and Optimally Quantified", IEEE Real-Time Systems Symposium (RTSS), Pages 327-337, 2015.</li>
-			<li class="a">Xiaozhe Gu, Arvind Easwaran, Kieu-My Phan and Insik Shin, "Resource Efficient Isolation Mechanisms in Mixed-Criticality Systems", Euromicro Conference in Real-Time Systems (ECRTS), Pages 13-24, 2015.</li>
+			<li class="a">Xiaozhe Gu, Arvind Easwaran, Kieu-My Phan and Insik Shin, "Resource Efficient Isolation Mechanisms in Mixed-Criticality Systems", Euromicro Conference in Real-Time Systems (ECRTS), Pages 13-24, 2015.(<a href="http://arxiv.org/abs/2004.02400">arXiv</a>)</li>
 			<li class="a">Jaewoo Lee, Kieu-My Phan, Xiaozhe Gu, Jiyeon Lee, Arvind Easwaran, Insik Shin and Insup Lee, "MC-Fluid: Fluid Model-based Mixed-Criticality Scheduling on Multiprocessors", IEEE Real-Time Systems Symposium (RTSS), Pages 41-52, 2014.</li>
 			<li class="a">Kizheppatt Vipin, Shreejith S., Suhaib A. Fahmy and Arvind Easwaran, "Mapping Time-Critical Safety-Critical Cyber Physical Systems to Hybrid FPGAs", IEEE International Conference on Cyber-Physical Systems, Networks, and Applications (CPSNA), Pages 31-36, 2014.</li>
 			<li class="a">Arvind Easwaran, "Demand-based Scheduling of Mixed-Criticality Sporadic Tasks on One Processor", IEEE Real-Time Systems Symposium (RTSS), Pages 78-87, 2013.(<a href="http://arxiv.org/abs/2003.05444">arXiv</a>)</li>
