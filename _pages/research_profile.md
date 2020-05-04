@@ -21,6 +21,11 @@ a.a:hover {color:#0000FF; text-decoration:underline;}
 a.a:active {color:#0000FF; text-decoration:none;}
 </style>
 ******
+## Pre-prints
+  <ol>
+			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum".(<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
+</ol>
+
 ## Journals
   <ol>
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
@@ -50,6 +55,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   		        <li class="a">Nitin Shivaraman, Saravanan Ramanathan, Shanker Shreejith, Arvind Easwaran and Sebastian Steinhorst, "DeCoRIC: Decentralized Connected Resilient IoT Clustering", IEEE International Conference on Computer, Communication and Networks (ICCCN), 2020.</li>   
    			<li class="a">Prasanna Ravi, Vijaya Kumar Sundar, Anupam Chattopadhyay, Shivam Bhasin and Arvind Easwaran, "Authentication Protocol for Secure Automotive Systems: Benchmarking Post-Quantum Cryptography", IEEE International Symposium on Circuits and Systems (ISCAS), 2020.</li>   
    			<li class="a">Zhiheng Xu and Arvind Easwaran, "A Game-Theoretic Approach to Secure Estimation and Control for Cyber-Physical Systems with a Digital Twin", IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2020.</li>
    		        <li class="a">Nitin Shivaraman, Seima Suriyasekaran, Zhiwei Liu, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Real-Time Energy Monitoring in IoT-enabled Mobile Devices", Design, Automation and Test in Europe (DATE), 2020.</li>
