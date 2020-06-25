@@ -28,6 +28,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Journals
   <ol>
+			<li class="a">Linshan Jiang, Rui Tan and Arvind Easwaran, "Resilience Bounds of Network Clock Synchronization with Fault Correction", ACM Transactions on Sensor Networks.</li>  
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
     			<li class="a">Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran and Anupam Chattopadhyay, "Crossbar-Constrained Technology Mapping for ReRAM based In-Memory Computing", IEEE Transactions on Computers, Volume 69, Issue 5, Pages: 734-748, May 2020.</li>
 			<li class="a">Hyeonjoong Cho, Chulgoo Kim, Joohyung Sun, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Scheduling Parallel Real-time Tasks on the Minimum Number of Processors", IEEE Transactions on Parallel and Distributed Systems, Volume 31, Issue 1, Pages 171-186, January 2020.</li>
