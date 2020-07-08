@@ -28,7 +28,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Journals
   <ol>
-			<li class="a">Linshan Jiang, Rui Tan and Arvind Easwaran, "Resilience Bounds of Network Clock Synchronization with Fault Correction", ACM Transactions on Sensor Networks.</li>  
+			<li class="a">Linshan Jiang, Rui Tan and Arvind Easwaran, "Resilience Bounds of Network Clock Synchronization with Fault Correction", ACM Transactions on Sensor Networks.(<a href="http://arxiv.org/abs/2006.15832">arXiv</a>)</li>  
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
     			<li class="a">Debjyoti Bhattacharjee, Yaswanth Tavva, Arvind Easwaran and Anupam Chattopadhyay, "Crossbar-Constrained Technology Mapping for ReRAM based In-Memory Computing", IEEE Transactions on Computers, Volume 69, Issue 5, Pages: 734-748, May 2020.</li>
 			<li class="a">Hyeonjoong Cho, Chulgoo Kim, Joohyung Sun, Arvind Easwaran, Ju-Derk Park and Byeong-Cheol Choi, "Scheduling Parallel Real-time Tasks on the Minimum Number of Processors", IEEE Transactions on Parallel and Distributed Systems, Volume 31, Issue 1, Pages 171-186, January 2020.</li>
@@ -56,6 +56,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+     		        <li class="a">Bai Xue, Miaomiao Zhang, Arvind Easwaran and Qin Li, "PAC Model Checking of Black-Box Continuous-Time Dynamical Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2020 (published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)).</li>	 
    		        <li class="a">Emanuel Regnath, Nitin Shivaraman, Shanker Shreejith, Arvind Easwaran and Sebastian Steinhorst, "Blockchain, what time is it? Trustless Datetime Synchronization for IoT", IEEE International Conference on Omni-layer Intelligent systems (COINS), 2020.</li>   
    		        <li class="a">Nitin Shivaraman, Saravanan Ramanathan, Shanker Shreejith, Arvind Easwaran and Sebastian Steinhorst, "DeCoRIC: Decentralized Connected Resilient IoT Clustering", IEEE International Conference on Computer, Communication and Networks (ICCCN), 2020.(<a href="http://arxiv.org/abs/2004.14072">arXiv</a>)</li>   
    			<li class="a">Prasanna Ravi, Vijaya Kumar Sundar, Anupam Chattopadhyay, Shivam Bhasin and Arvind Easwaran, "Authentication Protocol for Secure Automotive Systems: Benchmarking Post-Quantum Cryptography", IEEE International Symposium on Circuits and Systems (ISCAS), 2020.</li>   
@@ -112,6 +113,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Workshops
  <ol>
+		        <li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran and Abhishek Dubey, "WIP: Resource Efficient Multi-class Out-of-distribution reasoning for Perception Based Networks", Work-in-Progress Session of the IEEE/ACM International Conference on Embedded Software (EMSOFT), 2020.</li> 
 		        <li class="a">Vijaya Kumar Sundar, Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran and Abhishek Dubey, "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of beta-VAE", Workshop on Assured Autonomous Systems (WAAS), 2020. (<a href="http://arxiv.org/abs/2003.08740">arXiv</a>)</li>
 		        <li class="a">Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Poster Abstract: C-Sync: The Resilient Time Synchronization Protocol", Work-in-Progress Session of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2020. </li>
 		        <li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "WiP Abstract: Mobility-Based Load Balancing for IoT-enabled Devices in Smart Grids", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2020. </li>
