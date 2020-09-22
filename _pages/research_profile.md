@@ -28,6 +28,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Journals
   <ol>
+      			<li class="a">Hyeonjoong Cho and Arvind Easwaran, "Flow Network Models for Online Scheduling Real-Time Tasks on Multiprocessors", IEEE Access.</li>
 			<li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Springer Real-Time Systems.</li>  
 			<li class="a">Linshan Jiang, Rui Tan and Arvind Easwaran, "Resilience Bounds of Network Clock Synchronization with Fault Correction", ACM Transactions on Sensor Networks.(<a href="http://arxiv.org/abs/2006.15832">arXiv</a>)</li>  
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
