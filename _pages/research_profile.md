@@ -21,13 +21,9 @@ a.a:hover {color:#0000FF; text-decoration:underline;}
 a.a:active {color:#0000FF; text-decoration:none;}
 </style>
 ******
-## Pre-prints
-  <ol>
-			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum".(<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
-</ol>
-
 ## Journals
   <ol>
+			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum", De Gruyter Methods and Applications of Informatics and Information Technology (IT), to appear. (<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
       			<li class="a">Hyeonjoong Cho and Arvind Easwaran, "Flow Network Models for Online Scheduling Real-Time Tasks on Multiprocessors", IEEE Access.</li>
 			<li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Springer Real-Time Systems.</li>  
 			<li class="a">Linshan Jiang, Rui Tan and Arvind Easwaran, "Resilience Bounds of Network Clock Synchronization with Fault Correction", ACM Transactions on Sensor Networks.(<a href="http://arxiv.org/abs/2006.15832">arXiv</a>)</li>  
