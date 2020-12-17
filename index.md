@@ -15,6 +15,7 @@ Daniel Ng Jun Xian (Engineer)"
 
   - title: "Research Students"
     text: "
+Michael Yuhas (PhD)\n\n
 Mainak Dan (PhD)\n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
 Ankita Samaddar (PhD)\n\n
@@ -25,7 +26,7 @@ Gao Chuanchao (MEngg)"
 
   - title: "Former Postdocs/Students"
     text: "
-Sriram Vasudevan \n\n
+Sriram Vasudevan (SUTD, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
 Omar Al-Bataineh (NUS, Singapore)\n\n
 Chiam Zhonglin (Zyllem, Singapore)\n\n
@@ -77,15 +78,6 @@ Machine learning (ML) techniques are increasingly applied to decision-making and
 
 [Read More](/ml_safety){: .btn .btn--primary}
 
-## Resilient Cyber-Infrastructure for Manufacturing
-
-![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-left}
-Sensor proliferation and large-scale connectivity have enabled a variety of functionalities in CPS. However, connectivity also means that these systems operate in unreliable open environments, and hence resiliency to faults and attacks become important. This resiliency is fundamentally dependent on the resiliency of the cyber-infrastructure (communication network and computation nodes), which plays a central role of data delivery and execution of control. The objective of this project is to design a resilient cyber-infrastructure for such emerging CPS. A smart manufacturing testbed is also built to demonstrate the capabilities developed in the project.
-
-*Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
-
-[Read More](/resilience_cps){: .btn .btn--primary}
-
 ## Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="40%" width="40%"}{: .align-left}
@@ -94,6 +86,21 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
 [Read More](/digital_twin){: .btn .btn--primary}
+
+******
+
+# Past Projects
+
+******
+
+## Resilient Cyber-Infrastructure for Manufacturing
+
+![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-left}
+Sensor proliferation and large-scale connectivity have enabled a variety of functionalities in CPS. However, connectivity also means that these systems operate in unreliable open environments, and hence resiliency to faults and attacks become important. This resiliency is fundamentally dependent on the resiliency of the cyber-infrastructure (communication network and computation nodes), which plays a central role of data delivery and execution of control. The objective of this project is to design a resilient cyber-infrastructure for such emerging CPS. A smart manufacturing testbed is also built to demonstrate the capabilities developed in the project.
+
+*Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
+
+[Read More](/resilience_cps){: .btn .btn--primary}
 
 ## Optimization Framework for Energy Management Systems
 
@@ -105,12 +112,6 @@ In Singapore, the operation of buildings consumes about 37% of total electricity
 *PhD Grant (ERI@N, NTU)*
 
 [Read More](/energy_optimization){: .btn .btn--primary}
-
-******
-
-# Past Projects
-
-******
 
 ## Mixed-Criticality Scheduling Algorithms
 
