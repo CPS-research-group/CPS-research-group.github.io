@@ -42,7 +42,7 @@ ML models learn from a subset of possible scenarios that could be encountered op
 
 ### 2. Robust Out-of-distribution Detection and Localization 
 
-![image-left](/_pages/assets/ml_safety/ood.png){:height="50%" width="50%"}{: .align-right}
+![image-left](/_pages/assets/ml_safety/ood.gif){:height="50%" width="50%"}{: .align-right}
 Highly complex deep learning modules are increasingly integrated into cyber-physical systems. Many of these systems have strict safety requirements. Deep learning is a modern approach to machine learning. Machine learning is inductive-based learning, so inductive bias is an inevitable risk. One necessary condition for such learning-based modules to function reliably is that data received at runtime is within the distribution of previously seen data during model training or fine-tuning. 
 
 We propose an out-of-distribution detection methodology that hybrids classical optic flow operation with deep learning, variational autoencoder specifically. We demonstrate that the proposed method is statistically much more robust than related works on a driving simulation data set. We design an intuitive mechanism to facilitate the reasoning of detection results. Furthermore, we reduce the complexity of the detection system design.
