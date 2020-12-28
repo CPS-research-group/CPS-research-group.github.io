@@ -70,3 +70,15 @@ The role of the fault monitoring and analysis application is to find the root ca
 2. _A fault in the actuator of the two-link planar robot_. A control algorithm for the workpiece placement on the conveyor belt is disturbed by actuator fault in the robot manipulator. This results in the misalignment of workpieces that causes increase in delays in the inspection process. The actuator fault in this scenario gradually drifts the manipulator's joints from the actual torque reference set by the controller
 </div>
 {: .align-left}
+
+### Anomaly Detection Framework for Digital Twin
+
+<div>
+![anomaly_detection](/_pages/assets/digital_twin/images/anomaly_detection.png){:style="max-width: 40%"}{: .align-right}
+The anomaly detection framework aims to detect the online process anomalies and determine the anomaly sources for large-scale digital twin based Cyber-Physical System. This framework integrates both the digital twin and data-driven techniques and can differentiate the anomaly sources among digital twin, physical plant, and sensor measurement. To generalize the framework, the internal details of the digital twin are not required such that the digital twins whose internal information are not accessible can also be applied. The main features of the framework are:
+1. __Discrepancy Detector__ is used to monitor the discrepancy between physical plant measured value and digital twin predicted result. In this framework, the discrepancy detector is designed based on Gaussian Mixture Model and Exchangeability Martingale.
+2. __Anomaly Classifier__ is used to monitor the incoming data stream from physical plant measured data. The Hidden Markov Model is used in the anomaly classifier to monitor the relationship change of a group of variables which are divided by KMedoids algorithm.
+3. __Decision Maker__ utilizes the results of the discrepancy detector and anomaly classifier to determine the anomaly source among digital twin, physical plant, and sensor measurement.
+</div>
+{: .align-left}
+
