@@ -75,10 +75,24 @@ The role of the fault monitoring and analysis application is to find the root ca
 
 <div>
 ![anomaly_detection](/_pages/assets/digital_twin/images/anomaly_detection.png){:style="max-width: 40%"}{: .align-right}
+
 The anomaly detection framework aims to detect the online process anomalies and determine the anomaly sources for large-scale digital twin based Cyber-Physical System. This framework integrates both the digital twin and data-driven techniques and can differentiate the anomaly sources among digital twin, physical plant, and sensor measurement. To generalize the framework, the internal details of the digital twin are not required such that the digital twins whose internal information are not accessible can also be applied. The main features of the framework are:
+
 1. __Discrepancy Detector__ is used to monitor the discrepancy between physical plant measured value and digital twin predicted result. In this framework, the discrepancy detector is designed based on Gaussian Mixture Model and Exchangeability Martingale.
 2. __Anomaly Classifier__ is used to monitor the incoming data stream from physical plant measured data. The Hidden Markov Model is used in the anomaly classifier to monitor the relationship change of a group of variables which are divided by KMedoids algorithm.
 3. __Decision Maker__ utilizes the results of the discrepancy detector and anomaly classifier to determine the anomaly source among digital twin, physical plant, and sensor measurement.
 </div>
 {: .align-left}
 
+### Case Study 2: Anomaly Detection for Tennessee Eastman Process
+<div>
+![tennessee_eastman](/_pages/assets/digital_twin/images/tennessee_eastman.png){:style="max-width: 40%"}{: .align-right}
+
+The Tennessee Eastman Process model is originated from an actual industrial process of Eastman Chemical Company. Four different types of anomaly have been designed with this model to test the performance of the anomaly detection framework:
+
+1. _Anomalies from the Sensor Measurements_. Sensor measurement fault can be classified into the following categories: drift faults, offset faults, erratic faults, spike faults, and stuck faults. Each type of sensor measurement faults is tested on several different sensors to verify the anomaly detection framework performance.
+2. _Anomalies from the Faults in the Physical Plant_. The tested physical plant anomalies include: feed loss of chemical A, reaction kinetics slow drift, chemicals A and C feed pressure random variation, and reactor cooling water valve sticking together with D feed temperature step change.
+3. _Anomalies due to the Lack of Modes in the Digital Twin Model_. In modelling terminology, this is akin to mode switching in the hybrid system. During the digital twin construction period, some modes might not be built or fully verified, thus the correctness of the digital twin in certain modes are not guaranteed. This scenario is designed to determine the performance of the anomaly detection framework on missing mode or digital twin faults.
+4. _Anomalies dur to Multiple Sources_. Here we define the anomaly sources are digital twin, physical plant, and sensor measurement. In practical, the anomalies can be caused by multiple sources. In the experiment, the sensor measurement faults and missing modes are both designed to happen at the same time to verify the framework performance.
+</div>
+{: .align-left}
