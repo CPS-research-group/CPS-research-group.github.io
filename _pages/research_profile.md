@@ -23,6 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
+      			<li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture.</li>
 			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum", De Gruyter Methods and Applications of Informatics and Information Technology (IT). (<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics (TII), Volume 16, Issue 12, Pages 7510-7520, December 2020.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
 			<li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Springer Real-Time Systems, Volume 56, Pages 452-489, October 2020.</li>  
