@@ -75,16 +75,27 @@ If a CPS has multiple NFPs of interests, we can use the proposed mechanism to ge
 ### 6. Alternate Decomposition Method
 ![image-left](/_pages/assets/resilience_cps/images/unwindingAlgo.PNG){:height="35%" width="35%"}{: .align-left}
 As an alternative to the hierarchical methodology we employed above, we present a novel decentralized monitoring framework for non-functional properties (NFPs) using the notion of formula unwinding technique. The unwinding technique allows the NFP of the system to be decomposed into sub-formulas which can then be monitored independently by the processes of the system. Likewise, the original A-G contract represents the NFP of the system being monitored. This root contract (i.e.. a formula formalising a requirement over the system's global behavior which is typically expressed as Boolean formula or Linear Temporal Logic formula). Our unwinding technique aims to transform the original formula into new formulae by breaking the dependency chain among the processes of the system such that all variables are explicitly observable. This would introduce new variables that were not observable in the original formula.  
-The CPS under consideration will have to fulfill the following assumptions:  
-(1) The system is a synchronous system with a global clock.  
-(2) We assume that each process p has a minimum response time (RT), and this represents the minimum time needed by process p to produce its output once the minimal set of required inputs to that process are available.  
-(3) We assume the processes of the system make use of all their inputs when generating their outputs.
-{: .align-right}
+The CPS under consideration will have to fulfill the following assumptions:
+1. The system is a synchronous system with a global clock.  
+2. We assume that each process p has a minimum response time (RT), and this represents the minimum time needed by process p to produce its output once the minimal set of required inputs to that process are available.  
+3. We assume the processes of the system make use of all their inputs when generating their outputs.
 
+### 7. EdgeX-Resilience Package Implementation
+![image-left](/_pages/assets/resilience_cps/images/edgexFoundry.png){:height="55%" width="55%"}{: .align-right}
+EdgeX Foundry (EdgeX) is a vendor neutral, open sourced software platform that sits at the edge of the network, interacts with the physical devices (sensors, actuators) and other Internet-of-Things. It is a common framework for Industrial IoT Edge Computing. EdgeX provides a magnitude of functionalities. It provides a standard methodology to monitor physical world items, send instructions, collect data and move the data across the fog and up to the cloud where it can be stored, aggregated, analysed, which can then be actuated and acted upon. This is illustrated in the following figure, showing the various components that make up EdgeX Foundry.
+
+The EdgeX-Resilience Package comes with three sub-packages:
+1. **EdgeX-Resilience Toolchain:** Utility that is used for configuring and automating the contract generation process from the AutomationML (AML) file. The tool also generates the source file required to run as the RM on EdgeX (i.e., EdgeX-Resilience Application Service).
+2. **EdgeX OPC-UA Device Service:** Enables OPC-UA communication between EdgeX and the Weintek IIOT Gateway. The gateway is responsible for communicating with the south-bound devices through Modbus TCP.
+3. **EdgeX-Resilience Application Service:** The compiled executable which will be the resilience manager on EdgeX.
+
+![image-left](/_pages/assets/resilience_cps/images/edgexResilience.png){:height="45%" width="45%"}{: .align-left}
+We encapsulate user provided end-to-end requirements, and component capabilities for a given system in a (AML) file. The AML file is fed into our software toolchain, which will decompose the root contract into its sub-contracts. Once the sub-contracts have been refined, as described in Section 5 above, a source file is generated for the application service. The application service represents our Resilience manager in our framework. The resilience manager contains the necessary functions to run the observers required for monitoring the subcontracts on EdgeX. In the source file, a template to perform recovery functions for each observer is also provided. The recovery functions needs to be manually specified by the application engineer.  
+
+For the resilience manager to communicate with the IMPACT line machines (i.e., Smart Transporter, Pick and Place, AOI and Laser Soldering), we’ve also provided a modified OPC-UA device service to communicate with the Weintek IIOT Gateway. This gateway in turn communicates with the IMPACT line machines through Modbus TCP. 
 
 ******
 # Evaluation testbed & demonstration
-{: .align-left}
 {% include video id="bmqxDOJgaz4" provider="youtube" %}
 > Video Caption: Supplementary material for our paper; "Contract-based Hierarchical Resilience Management for Cyber-Physical Systems," published in IEEE Computer. This is a assembly line setup for color-based sorting of tokens. In our implementation, we only use the first 2 bins and white tokens. Under normal operation, the white token would be ejected into the first bin. In case of a fault that requires changes to the conveyor belt speed, the second bin is used temporarily until fault-recovery is completed. When a fault occurs in the system, the following actions are expected.  
 (1) If the fault can be handled at the local resilience manager (color processor & bin selector), the fault information will not be propagated to the higher resilience manager (L1) and vice versa if the fault cannot be handled.  
