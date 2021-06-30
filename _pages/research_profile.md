@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-      			<li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture, 2021.(<a href="https://arxiv.org/abs/2102.01928">arXiv</a>)</li>
+      			<li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture, Volume 15, May 2021.(<a href="https://arxiv.org/abs/2102.01928">arXiv</a>)</li>
 			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum", De Gruyter Methods and Applications of Informatics and Information Technology, Volume 62, Issue 5-6, Pages 241-255, 2020.(<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics (TII), Volume 16, Issue 12, Pages 7510-7520, December 2020.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
 			<li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Springer Real-Time Systems, Volume 56, Pages 452-489, October 2020.(<a href="https://rdcu.be/b6ykG">Springer-SharedIt</a>)</li>  
@@ -115,9 +115,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
-		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "Work Already Published: A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Brief-Presentations Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)}, 2021.</li> 
-		        <li class="a">Michael Yuhas, Yeli Feng, Daniel Jun Xian Ng, Zahra Rahiminasab and Arvind Easwaran, "Embedded Out-of-Distribution Detection on an Autonomous Robot Platform", Design Automation for CPS and IoT (DESTION)}, 2021.</li> 
-		        <li class="a">Yeli Feng and Arvind Easwaran, "WiP Abstract: Robust Out-of-distribution Motion Detection and Localization in Autonomous CPS", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS)}, 2021.</li> 
+		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "Work Already Published: A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Brief-Presentations Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021.</li> 
+		        <li class="a">Michael Yuhas, Yeli Feng, Daniel Jun Xian Ng, Zahra Rahiminasab and Arvind Easwaran, "Embedded Out-of-Distribution Detection on an Autonomous Robot Platform", Design Automation for CPS and IoT (DESTION), 2021.</li> 
+		        <li class="a">Yeli Feng and Arvind Easwaran, "WiP Abstract: Robust Out-of-distribution Motion Detection and Localization in Autonomous CPS", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2021.</li> 
 		        <li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran and Abhishek Dubey, "WIP: Resource Efficient Multi-class Out-of-distribution reasoning for Perception Based Networks", Work-in-Progress Session of the IEEE/ACM International Conference on Embedded Software (EMSOFT), 2020.</li> 
 		        <li class="a">Vijaya Kumar Sundar, Shreyas Ramakrishna, Zahra Rahiminasab, Arvind Easwaran and Abhishek Dubey, "Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of beta-VAE", Workshop on Assured Autonomous Systems (WAAS), 2020.(<a href="http://arxiv.org/abs/2003.08740">arXiv</a>)</li>
 		        <li class="a">Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Poster Abstract: C-Sync: The Resilient Time Synchronization Protocol", Work-in-Progress Session of the ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2020. </li>
