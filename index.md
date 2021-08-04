@@ -9,28 +9,27 @@ sidebar:
   - title: "Research Staff"
     text: "
 Yeli Feng (Postdoc)\n\n
-Heejong Park (Postdoc) \n\n
-Gao Chuanchao (Engineer) \n\n
+Peeterson E. R. Jose (Engineer)\n\n
 Daniel Ng Jun Xian (Engineer)"
 
   - title: "Research Students"
     text: "
+Gao Chuanchao (PhD) \n\n
 Michael Yuhas (PhD)\n\n
-Mainak Dan (PhD)\n\n
+Mainak Dan (PhD) \n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
 Ankita Samaddar (PhD)\n\n
-Zahra Rahimi Nasab (PhD)\n\n
-Sundar Vijayakumar (PhD)\n\n
-Seima Suriyasekaran (MEngg)\n\n
-Gao Chuanchao (MEngg)"
+Zahra Rahimi Nasab (PhD)"
 
   - title: "Former Postdocs/Students"
     text: "
+Sundar Vijayakumar (IIT-M, India) \n\n
+Seima Suriyasekaran (SIT, Singapore) \n\n
 Sriram Vasudevan (SUTD, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
 Omar Al-Bataineh (NUS, Singapore)\n\n
 Chiam Zhonglin (Zyllem, Singapore)\n\n
-Saravanan Ramanathan (TUMCREATE, Singapore)\n\n
+Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (I2R, A*STAR, Singapore)\n\n
 Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
