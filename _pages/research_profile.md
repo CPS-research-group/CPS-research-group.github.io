@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-      			<li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Gabor Karsai, Arvind Easwaran and Abhishek Dubey, "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems", ACM Transactions on Cyber-Physical Systems, 2021.</li>
+      			<li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Gabor Karsai, Arvind Easwaran and Abhishek Dubey, "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems", ACM Transactions on Cyber-Physical Systems, 2021.(<a href="https://arxiv.org/abs/2108.11800">arXiv</a>)</li>
       			<li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture, Volume 15, May 2021.(<a href="https://arxiv.org/abs/2102.01928">arXiv</a>)</li>
 			<li class="a">Saravanan Ramanathan, Nitin Shivaraman, Seima Suryasekaran, Arvind Easwaran, Etienne Borde and Sebastian Steinhorst, "A Survey on Time-Sensitive Resource Allocation in the Cloud Continuum", De Gruyter Methods and Applications of Informatics and Information Technology, Volume 62, Issue 5-6, Pages 241-255, 2020.(<a href="https://arxiv.org/abs/2004.14559">arXiv</a>)</li>
 			<li class="a">Mainak Dan, Seshadhri Srinivasan, Suresh Sundaram, Arvind Easwaran and Luigi Glielmo, "A Scenario-based Branch-and-Bound Approach for MES Scheduling in Urban Buildings", IEEE Transactions on Industrial Informatics, Volume 16, Issue 12, Pages 7510-7520, December 2020.(<a href="http://arxiv.org/abs/2003.03750">arXiv</a>)</li>  
@@ -56,7 +56,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-     		        <li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2021.(<a href="http://arxiv.org/abs/2107.11750">arXiv</a>)</li>
+       			<li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "A Novel Load Distribution Strategy for Aggregators using IoT-Enabled Mobile Devices", IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2021.
+     		   	<li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2021.(<a href="http://arxiv.org/abs/2107.11750">arXiv</a>)</li>
    			<li class="a">Omar Al-Bataineh, Daniel Jun Xian Ng and Arvind Easwaran, "Monitoring Cumulative Cost Properties", IEEE International Conference on Formal Methods in Software Engineering (FORMALISE), 2021.(<a href="https://arxiv.org/abs/2104.11474">arXiv</a>)</li>
    			<li class="a">Chuanchao Gao, Heejong Park and Arvind Easwaran, "An Anomaly Detection Framework for Digital Twin Driven Cyber-Physical Systems", IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2021.(<a href="https://dl.acm.org/doi/pdf/10.1145/3450267.3450533">pdf</a>)</li>
      		        <li class="a">Bai Xue, Miaomiao Zhang, Arvind Easwaran and Qin Li, "PAC Model Checking of Black-Box Continuous-Time Dynamical Systems", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2020 (published in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Volume 39, Issue 11, Pages 3944-3955, November 2020).(<a href="https://arxiv.org/abs/2007.10141">arXiv</a>)</li>	 
