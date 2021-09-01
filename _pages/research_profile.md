@@ -56,7 +56,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-       			<li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "A Novel Load Distribution Strategy for Aggregators using IoT-Enabled Mobile Devices", IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2021.
+       			<li class="a">Nitin Shivaraman, Jakob Fittler, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "A Novel Load Distribution Strategy for Aggregators using IoT-Enabled Mobile Devices", IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2021.</li>
      		   	<li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications", ACM & IEEE International Conference on Embedded Software (EMSOFT), 2021.(<a href="http://arxiv.org/abs/2107.11750">arXiv</a>)</li>
    			<li class="a">Omar Al-Bataineh, Daniel Jun Xian Ng and Arvind Easwaran, "Monitoring Cumulative Cost Properties", IEEE International Conference on Formal Methods in Software Engineering (FORMALISE), 2021.(<a href="https://arxiv.org/abs/2104.11474">arXiv</a>)</li>
    			<li class="a">Chuanchao Gao, Heejong Park and Arvind Easwaran, "An Anomaly Detection Framework for Digital Twin Driven Cyber-Physical Systems", IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2021.(<a href="https://dl.acm.org/doi/pdf/10.1145/3450267.3450533">pdf</a>)</li>
