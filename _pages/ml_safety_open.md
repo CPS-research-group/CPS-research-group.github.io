@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Safety Assurance for Machine Learning in CPS (Open Positions)"
+title: "Safety Assurance for Machine Learning in CPS (Open Position)"
 sitemap: false
 permalink: /ml_safety_open/
 
