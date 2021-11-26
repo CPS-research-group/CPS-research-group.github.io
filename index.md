@@ -8,6 +8,7 @@ sidebar:
 
   - title: "Research Staff"
     text: "
+Melanie Mille (Research Intern)\n\n
 Peeterson E. R. Jose (Engineer)\n\n
 Daniel Ng Jun Xian (Engineer)"
 
