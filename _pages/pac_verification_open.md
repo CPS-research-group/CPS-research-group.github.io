@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Trust to Train and Train to Trust: Agent Training Programs for Safety-Critical Environments"
 sitemap: false
-permalink: /ml_safety_open/
+permalink: /pac_verification_open/
 
 sidebar:
   - title:
