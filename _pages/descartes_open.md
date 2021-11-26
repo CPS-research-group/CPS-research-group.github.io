@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "DesCartes: Augmented Hybrid Engineering"
+title: "DesCartes: Augmented Hybrid Engineering (Open Positions)"
 sitemap: false
 permalink: /descartes_open/
 
@@ -14,25 +14,13 @@ sidebar:
 
 ******
 
-# Research Fellow (Postdoc): Out-of-Distribution (OOD) Data Detection and Reasoning
+DesCartes has several open positions in a wide variety of research topics. For a comprehensive list of current open positions please see [here](https://www.cnrsatcreate.cnrs.fr/descartes/){: .btn .btn--primary}.
 
-__Duration__: 3 years.
+There are two PhD student positions available under my supervision in the DesCartes program. Details about these two positions can be found below.
 
-__Salary range__: Between S$5000 and S$7000 monthly depending on background and experience.
+- [Physics-aware and multi-modal Out-of-Distribution (OOD) Data Detection and Reasoning with Probabilistic Guarantees](/_pages/assets/descartes/ood_phd.pdf){: .btn .btn--primary}
 
-In this task we will explore the problem of achieving safety assurance for learning enabled components in safety-critical cyber-physical systems. A classic example is the object detection and classification component in an autonomous vehicle. We specifically focus on two research problems in this area: 1) Robust and predictable Out-of-Distribution (OOD) data detection for Deep Neural Network (DNN) models with high-dimensional and multi-modal inputs. By detecting such OOD data efficiently at runtime, appropriate fail-safe operations can be performed when data outside of the training space are encountered. 2) Explore probabilistic black-box and grey-box verification techniques for the safety assurance of such OOD detection framework.
+- [Distributed Optimal Control for Complex Systems](/_pages/assets/descartes/optimization_phd.pdf){: .btn .btn--primary}
 
-__Expected qualifications__:
-
-  <ul>
-    <li>PhD in Computer Science or related fields</li>
-    <li>Research background and experience in Out-of-Distribution (OOD) data detection and reasoning</li>
-    <li>Desired: Research experience in probabilistic techniques for verification and validation of DNNs</li>
-  </ul>
-
-__Research environment__:
-
-In this position, you are expected to manage a team of PhD students and research assistants, as well as collaborate with our research partners from other institutions. Opportunities for hands-on implementation experience in the form of simulation platforms and embedded test beds are also available. Opportunities for teaching can also be facilitated depending on interest.
-
-If interested, please send an email along with a detailed CV to Arvind Easwaran (arvinde@ntu.edu.sg).
+If you are interested in any of these two PhD positions, please send an email along with a detailed CV to Arvind Easwaran (arvinde@ntu.edu.sg).
 

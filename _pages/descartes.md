@@ -22,7 +22,9 @@ One of the main challenges in a people-centric smart city is to develop a new ph
 
 - First, it embraces “analog” and “digital” worlds, combining physics knowledge with AI-based data-driven models, giving rise to the novel Hybrid Twins concept within physics-aware AI, that will be the main building block of intelligent modelling. 
 - Second, it combines reasoning (if, then...), using high level concepts (e.g. colors, shape…), with the more traditional machine-learning approach. This “hybrid” paradigm enables reducing the need for big data and other resources, in particular to produce intelligent modelling that empowers decision-making technologies, as well as making trustworthy AI easier to achieve, and more generally leads to a responsible Hybrid AI. 
-- Last but not least, a key aspect of DesCartes is to bridge Hybrid AI with Humans as observers, players and decision-makers, to realize the people-centric vision of smart cities. In summary, HAI will help us to support smart city critical infrastructures:
+- Last but not least, a key aspect of DesCartes is to bridge Hybrid AI with Humans as observers, players and decision-makers, to realize the people-centric vision of smart cities. 
+
+In summary, HAI will help us to support smart city critical infrastructures:
 - smartly, with less data (knowledge/physics-AI)
 - safely, certified and regulated (trustworthy-AI)
 - carefully, in a human-centric way (human-AI)
