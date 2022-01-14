@@ -118,6 +118,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
+		        <li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "A Unified Perspective on Adversarial and Out-of-Distribution Detection in the Open World", Engineering Dependable and Secure Machine Learning Systems (EDSMLS) - co-located with AAAI, 2022.</li> 
 		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "Work Already Published: A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Brief-Presentations Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021.</li> 
 		        <li class="a">Michael Yuhas, Yeli Feng, Daniel Jun Xian Ng, Zahra Rahiminasab and Arvind Easwaran, "Embedded Out-of-Distribution Detection on an Autonomous Robot Platform", Design Automation for CPS and IoT (DESTION), 2021.(<a href="http://arxiv.org/abs/2106.15965">arXiv</a>)</li> 
 		        <li class="a">Yeli Feng and Arvind Easwaran, "WiP Abstract: Robust Out-of-distribution Motion Detection and Localization in Autonomous CPS", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2021.(<a href="http://arxiv.org/abs/2107.11736">arXiv</a>)</li> 
