@@ -8,7 +8,7 @@ sidebar:
 
   - title: "Research Staff"
     text: "
-Yeli Feng (Postdoc)\n\n
+Melanie Mille (Research Intern)\n\n
 Peeterson E. R. Jose (Engineer)\n\n
 Daniel Ng Jun Xian (Engineer)"
 
@@ -23,6 +23,7 @@ Zahra Rahimi Nasab (PhD)"
 
   - title: "Former Postdocs/Students"
     text: "
+Yeli Feng (ST Engineering, Singapore) \n\n    
 Sundar Vijayakumar (IIT-M, India) \n\n
 Seima Suriyasekaran (SIT, Singapore) \n\n
 Sriram Vasudevan (SUTD, Singapore) \n\n
@@ -45,9 +46,8 @@ Cyber-Physical Systems (CPS) encompass systems in which the cyber world of compu
 Primary interests of the CPS Research Group @SCSE,NTU are in the design and analysis of safety-critical and time-critical CPS, with a particular focus on cyber-resource management and safety assurance. The current research themes can be broadly classified as follows:
 
 <ol>
-<li>Resource Management in IoT and Edge</li>
+<li>Resource Management and Scheduling</li>
 <li>Safety Assurance in Learning Enabled Components</li>
-<li>Model-driven Operational Optimization</li>
 </ol>
 ******
 
@@ -55,21 +55,33 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 
 ******
 
-## Optimization Frameworks for Energy Management Systems
+## DesCartes: Intelligent Modelling for Decision-making in Critical Urban Systems
 
-![image-right](/assets/graphics/controlHeating.png){:height="40%" width="40%"}{: .align-right}
+![image-right](/assets/graphics/descartes.png){:height="50%" width="50%"}{: .align-right}
+A new Hybrid Artificial Intelligence (HAI) program has been launched through an international collaboration involving the French National Centre for Scientific Research (CNRS), the Agency for Science, Technology and Research (A*STAR), Nanyang Technological University (NTU) and the National University of Singapore (NUS). This program will develop solutions that support the creation of "Smart Cities", including development of hybrid AI methods that aim to enhance real-time decision-making in urban-critical systems, with a focus on individuals and society at large. It will also adopt a holistic and multidisciplinary approach that combines AI with existing subject-based models from physics and engineering.
 
-In Singapore, the operation of buildings consumes about a third of total electricity, making them one of the largest consumers of primary energy. A significant portion of this energy is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy in buildings will provide a large leverage for climate change mitigation. Orthogonally, given its geographical constraints, access to renewable sources of energy such as solar and wind will be minimal relative to its needs. Hence a significant focus is also expected on the electrification of its automotive fleet to reduce reliance on traditional sources of energy. In this work, we develop IoT methodologies and optimization frameworks for decentralized monitoring of energy use in urban environments as well as for the operational optimization of such interconnected and complex energy systems.           
+Within this large program, our research will focus on the "Augmented Hybrid Engineering" work package, that brings  the  engineering,  technological,  and  application dimensions to the concept of HAI. It aims at proposing operational methodology and architecture, from smart sensing and predictive diagnostics to robust and scalable control, for critical and complex system-of-systems. This implies a multi-disciplinary  consortium  with complementary expertise between France and Singapore. The   disruptive engineering developments, implementations and integrations performed in this work package will permit to reach the project final objectives in terms of  relevant and reliable technologies that are fully integrated and validated on representative proofs-of-concept and real-life systems.
 
-*Continental-NTU Corporate Lab (National Research Foundation, Singapore and Continental Automotive, Singapore)*
+*CNRS@CREATE (National Research Foundation, Singapore)*
 
-*Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
+[Program Overview (external link)](https://www.cnrsatcreate.cnrs.fr/descartes/){: .btn .btn--primary}
 
-*PhD Grant (ERI@N, NTU)*
+[Read More (Augmented Hybrid Engineering)](/descartes){: .btn .btn--primary}
 
-*Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
+## Trust to Train and Train to Trust: Agent Training Programs for Safety-Critical Environments
 
-[Read More](/energy_optimization){: .btn .btn--primary}
+![image-right](/assets/graphics/atp.png){:height="40%" width="40%"}{: .align-right}
+Over the last few years, Artificial Intelligence (AI) systems have achieved super-human performance in specific yet complex tasks across diverse environments (e.g., image recognition, language translation, complex games like Go). Given their effectiveness, we aim to employ AI (or Agent) Training Programs (ATPs) to generate scenarios automatically for training (on specific tasks) in safety-critical applications while addressing the issue of trust to improve adoption:
+
+- Trust to Train: Gain trust of organizations employing ATPs through guarantees on training outcomes (safety), equality in training for all trainees (fairness), and training for unexpected situations (robustness).  
+
+- Train to Trust: Explainable (understandable) and effective feedback interface in training to gain trust of trainees.  
+
+We intend to develop and assess Explainable and tRustworthy (ExpeRt) ATPs with feedback interfaces to adaptively train human(s) for safety-critical applications with show-case projects on emergency response and maritime navigation. This project is a collaboration between faculty at Singapore Management University (SMU), National University of Singapore (NUS) and Nanyang Technological University (NTU). Within the trustworthiness assurance research track in the above project, in our research we will be exploring techniques for assessing the safety, robustness and fairness properties in deep reinforcement learning (dRL) frameworks used in the ATPs.
+
+*AI Singapore Research Programme (AI Singapore, Singapore)*
+
+[Read More](/pac_verification){: .btn .btn--primary}
 
 ## Assured-Safety Architecture for Machine Learning based CPS
 
@@ -84,6 +96,26 @@ Machine learning (ML) techniques are increasingly applied to decision-making and
 
 [Read More](/ml_safety){: .btn .btn--primary}
 
+******
+
+# Past Projects
+
+******
+
+## Operational Optimization for Energy Management Systems
+
+![image-right](/assets/graphics/controlHeating.png){:height="40%" width="40%"}{: .align-right}
+
+In Singapore, the operation of buildings consumes about a third of total electricity, making them one of the largest consumers of primary energy. A significant portion of this energy is consumed by space cooling and dehumidification. Thus, the reduction and more efficient use of energy in buildings will provide a large leverage for climate change mitigation. Orthogonally, given its geographical constraints, access to renewable sources of energy such as solar and wind will be minimal relative to its needs. Hence a significant focus is also expected on the electrification of its automotive fleet to reduce reliance on traditional sources of energy. In this work, we develop IoT methodologies and optimization frameworks for decentralized monitoring of energy use in urban environments as well as for the operational optimization of such interconnected and complex energy systems.           
+
+*Industrial PhD Grant (Economic Development Board, Singapore and Veolia City Modelling Center)*
+
+*PhD Grant (ERI@N, NTU)*
+
+*Intra-CREATE Seed Grant (National Research Foundation, Singapore and TU Munich)*
+
+[Read More](/energy_optimization){: .btn .btn--primary}
+
 ## Model-in-the-Loop Framework for Manufacturing
 
 ![image-left](/assets/graphics/cpsModellingLogo.png){:height="40%" width="40%"}{: .align-left}
@@ -92,12 +124,6 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
 
 [Read More](/digital_twin){: .btn .btn--primary}
-
-******
-
-# Past Projects
-
-******
 
 ## Resilient Cyber-Infrastructure for Manufacturing
 
