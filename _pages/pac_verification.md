@@ -11,6 +11,7 @@ sidebar:
   - title:
     text: "[Open Positions](/pac_verification_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
+    text: "Mohit Prashant (PhD)"
 ---
 
 ******

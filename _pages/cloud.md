@@ -8,8 +8,6 @@ permalink: /cloud/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title:
-    text: "[Open Positions](/cloud_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
     text: "Gao Chuanchao (PhD)"
 ---
@@ -24,3 +22,5 @@ The general objective of this project is to minimize the power consumption of en
 
 ![image-right](/_pages/assets/cloud/architecture.png){:height="60%" width="60%"}{: .align-right}
 In the past, due to limitations in wireless protocols and reliance on public cloud infrastructures, mainly non time-sensitive applications were deployed on edge and cloud architectures. This trend is changing however, both due to the proliferation of private cloud infrastructures as well as the development of reliable time-sensitive wireless protocols such as LoRa and 5G. Thus, there is a growing need for the deployment of time-sensitive applications on such architectures, which this project aims to facilitate. In a recent report titled “5G for business: a 2030 market compass” released by Ericsson, the global 5G-enabled market is projected to be USD 700 billion by 2030, with several potential time-sensitive applications in the key domains of manufacturing, energy and utilities, and automotive. Example applications include the following. 1) Running flexible production lines with remote operations through digital twins to accommodate reconfigurability for low-volume-high-mix production. 2) Collaborative robotics ensuring safe human-robot interactions. 3) Real-time operations and monitoring of distributed resources in urban energy systems. 4) Addressing safety concerns in driving automation systems like vision-based localization and perception through the use of reliable and low latency V2I (Vehicle-to- Infrastructure) communications. The results from this project are expected to be an enabling technology for the deployment of such safety-critical and time-sensitive applications across various domains.
+
+There are several open positions in this project, including Research Fellow (Postdoc), Research Assistant and PhD. If interested, please send email with CV and other details. 
