@@ -143,7 +143,6 @@ a.a:active {color:#0000FF; text-decoration:none;}
 			<li class="a">Xiaozhe Gu and Arvind Easwaran, "Optimal Speed-up Bound for 2-level Mixed-Criticality Arbitrary Deadline Systems", Real-Time Scheduling Open Problems Seminar (RTSOPS), 2014.</li>
 			<li class="a">Linh T.X. Phan, Jaewoo Lee, Arvind Easwaran, Vinay Ramaswamy, Insup Lee and Oleg Sokolsky, "CARTS: A Tool for Compositional Analysis of Real-Time Systems", ACM SIGBED Review, Volume 8, Number 1, 2011: Publication of Workshop on Compositional Theory and Technology for Real-Time Embedded Systems (CRTS), 2010.</li>
 			<li class="a">Arvind Easwaran, "Hardness of Compositional Schedulability Analysis", Scheduling (Dagstuhl Seminar 10071 Report), 2010.</li>
-
  			<li class="a">Jinkyu Lee, Arvind Easwaran, Insik Shin and Insup Lee, "Multiprocessor Real-Time Scheduling Considering Concurrency and Urgency", ACM SIGBED Review, Volume 7, Number 1, January 2010: Special Issue on the Work-in-Progress Session at RTSS 2009 (<font color="FF0000"><B>Selected among the top 5 out of 24</B></font>).</li>
  			<li class="a">Jinkyu Lee, Bj&ouml;rn Andersson and Arvind Easwaran, "Finding an Upper Bound on the Increase in Execution Time Due to Contention on the Memory Bus in COTS-Based Multicore Systems", ACM SIGBED Review, Volume 7, Number 1, January 2010: Special Issue on the Work-in-Progress Session at RTSS 2009 (<font color="FF0000"><B>Selected among the top 5 out of 24</B></font>)</li>
 			<li class="a">Arvind Easwaran, Madhukar Anand, Insup Lee, Linh T.X. Phan and Oleg Sokolsky, "Simulation Relations, Interface Complexity, and Resource Optimality for Real-Time Hierarchical Systems", Workshop on Reconciling Performance with Predictability (RePP), 2009.</li>
@@ -159,10 +158,11 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Patents
 
 <ol>
-		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam, Jeffrey Soon, "Decentralized Monitoring Framework for Cyber-Physical Systems", Patent application filed through Delta Research Center, Singapore.</li>
-		        <li class="a">Arvind Easwaran, Srivatsan Varadarajan, "Systems and methods generating inter-group and intra-group execution schedules for instruction entity allocation and scheduling on multi-processors", US Patent Number: 9612868, Issued: 04-Apr-2017.</li>
-		        <li class="a">Arvind Easwaran, Larry James Miller, "Systems and methods for task grouping on multi-processors", US Patent Number: 9207977, Issued: 08-Dec-2015.</li>
-			<li class="a">Arvind Easwaran, Gabor Madl, David V. Oglesby, Devesh Bhatt, "Systems and methods for verifying expression folding", US Patent Number: 9027001, Issued:05-May-2015.</li>
+		        <li class="a">Heejong Park, Gao Chuanchao, Arvind Easwaran, Cheng Chia Loon and Joseph Lee Yuan Sheng, "Digital Twin Driven Automated Mobile SMT Material Transfer System", Patent application filed through NTU and Delta Research Center, Singapore.</li>
+		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam and Jeffrey Soon, "Decentralized Monitoring Framework for Cyber-Physical Systems", Patent application filed through Delta Research Center, Singapore.</li>
+		        <li class="a">Arvind Easwaran and Srivatsan Varadarajan, "Systems and methods generating inter-group and intra-group execution schedules for instruction entity allocation and scheduling on multi-processors", US Patent Number: 9612868, Issued: 04-Apr-2017.</li>
+		        <li class="a">Arvind Easwaran and Larry James Miller, "Systems and methods for task grouping on multi-processors", US Patent Number: 9207977, Issued: 08-Dec-2015.</li>
+			<li class="a">Arvind Easwaran, Gabor Madl, David V. Oglesby and Devesh Bhatt, "Systems and methods for verifying expression folding", US Patent Number: 9027001, Issued:05-May-2015.</li>
 		</ol>
 
 ## Thesis
