@@ -11,7 +11,7 @@ sidebar:
   - title:
     text: "[Open Positions](/descartes_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Melanie Mille (Research Intern)"
+    text: "Subrat Prasad Panda (Engineer) \n \n Melanie Mille (Research Intern)"
 ---
 
 ******

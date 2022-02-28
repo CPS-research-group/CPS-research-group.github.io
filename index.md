@@ -8,15 +8,18 @@ sidebar:
 
   - title: "Research Staff"
     text: "
+Mainak Dan (Postdoc) \n\n
+Subrat Prasad Panda (Engineer)\n\n
 Melanie Mille (Research Intern)\n\n
 Peeterson E. R. Jose (Engineer)\n\n
 Daniel Ng Jun Xian (Engineer)"
 
   - title: "Research Students"
     text: "
+Mohit Prashant (PhD) \n\n
+Sirisoma Chinthani Sugandhika (PhD) \n\n
 Gao Chuanchao (PhD) \n\n
 Michael Yuhas (PhD)\n\n
-Mainak Dan (PhD) \n\n
 Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
 Ankita Samaddar (PhD)\n\n
 Zahra Rahimi Nasab (PhD)"
@@ -24,12 +27,12 @@ Zahra Rahimi Nasab (PhD)"
   - title: "Former Postdocs/Students"
     text: "
 Yeli Feng (ST Engineering, Singapore) \n\n    
-Sundar Vijayakumar (IIT-M, India) \n\n
-Seima Suriyasekaran (SIT, Singapore) \n\n
+Sundar Vijayakumar \n\n
+Seima Suriyasekaran \n\n
 Sriram Vasudevan (SUTD, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
 Omar Al-Bataineh (NUS, Singapore)\n\n
-Chiam Zhonglin (Zyllem, Singapore)\n\n
+Chiam Zhonglin (Sembcorp, Singapore)\n\n
 Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (I2R, A*STAR, Singapore)\n\n
@@ -54,6 +57,15 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 # Ongoing Projects
 
 ******
+
+## Allocation of Edge and Wireless Resources for Time-Sensitive Applications
+
+![image-right](/assets/graphics/cloud.png){:height="50%" width="50%"}{: .align-right}
+Cloud computing has become the default architecture of choice in many domains, primarily driven by the proliferation of compute-intensive Artificial Intelligence technologies. Orthogonally, with the increasing popularity of Internet-of-Things, decentralization of cloud computing in the form of edge and mobile computing is also happening. Although applications with time-critical functions have not yet been deployed on such architectures, this is rapidly changing with the advent of next-generation wireless technology like LoRa and 5G. For example, such applications can be found in manufacturing (real-time robotic controls), driving automation (localization using vehicle-to-infrastructure communication) and energy management (managing energy flexibilities in urban energy systems). In this project, we address the problem of resource (computation and communication) allocations in such architectures, considering a mixed deployment of time-critical as well as non time-critical applications, with the objective to minimize the energy consumption of low power end devices. We aim to solve the problem holistically taking into account all the relevant resources, and focus on decentralized online solutions with analytical performance guarantees.
+
+*Tier-2 Research Grant (Ministry of Education, Singapore)*
+
+[Read More](/cloud){: .btn .btn--primary}
 
 ## DesCartes: Intelligent Modelling for Decision-making in Critical Urban Systems
 

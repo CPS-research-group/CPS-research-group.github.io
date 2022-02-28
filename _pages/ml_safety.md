@@ -8,13 +8,12 @@ permalink: /ml_safety/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title:
-    text: "[Open Positions](/ml_safety_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Zahra RahimiNasab (PhD) \n \n Yeli Feng (Postdoc) \n \n Daniel Ng Jun Xian (Engineer)"
+    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas (PhD) \n \n Daniel Ng Jun Xian (Engineer)"
 
   - title: "Former Staff/Students"
-    text: "Xiaozhe Gu (Postdoc)"
+    text: "Xiaozhe Gu (Postdoc) \n \n
+    	   Yeli Feng (Postdoc)"
 ---
 
 ******
