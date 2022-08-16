@@ -58,6 +58,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   		  <li class="a">Chuanchao Gao, Shaan Aryaman and Arvind Easwaran, "Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems", IEEE Global Communications Conference (GLOBECOM), 2022.</li>
+   		  <li class="a">Mohit Prashant and Arvind Easwaran, "PAC-Based Formal Verification for Out-of-Distribution Data Detection", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
+   		  <li class="a">Zahra Rahiminasab, Michael Yuhas and Arvind Easwaran, "Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
 		  <li class="a">Jose Peeterson and Arvind Easwaran, "Event-Driven Real-Time Multi-Objective Charging Schedule Optimization For Electric Vehicle Fleets", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022.</li>
 	    	  <li class="a">Michael Yuhas, Daniel Jun Xian Ng and Arvind Easwaran, "Design Methodology for Deep Out-of-Distribution Detectors in Real-Time Cyber-Physical Systems", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2022.</li>
 	    	  <li class="a">Nitin Shivaraman, Patrick Schuster, Saravanan Ramanathan, Arvind Easwaran and Sebastian Steinhorst, "Cluster-based Network Time Synchronization for Resilience with Energy Efficiency", IEEE Real-Time Systems Symposium (RTSS), 2021.</li>
