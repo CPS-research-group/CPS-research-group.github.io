@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-  	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, 2022.</li>
+  	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, 2022.(<a href="https://rdcu.be/cT2T9">Springer-SharedIt</a>)</li>
       <li class="a">Zhonglin Chiam, Elias Papas, Arvind Easwaran, Corinne Alonso and Bruno Estibals, "Holistic optimization of the operation of a GCHP system: A case study on the ADREAM building in Toulouse, France", Applied Energy, 2022.</li>
       <li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Gabor Karsai, Arvind Easwaran and Abhishek Dubey, "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems", ACM Transactions on Cyber-Physical Systems, Volume 6, Issue 2, Pages 15:1-15:34, April 2022.(<a href="https://arxiv.org/abs/2108.11800">arXiv</a>)</li>
       <li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture, Volume 15, May 2021.(<a href="https://arxiv.org/abs/2102.01928">arXiv</a>)</li>
@@ -58,7 +58,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-   		  <li class="a">Chuanchao Gao, Shaan Aryaman and Arvind Easwaran, "Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems", IEEE Global Communications Conference (GLOBECOM), 2022.</li>
+   		  <li class="a">Chuanchao Gao, Shaan Aryaman and Arvind Easwaran, "Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems", IEEE Global Communications Conference (GLOBECOM), 2022.(<a href="https://arxiv.org/abs/2206.05950">arXiv</a>)</li>
    		  <li class="a">Mohit Prashant and Arvind Easwaran, "PAC-Based Formal Verification for Out-of-Distribution Data Detection", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
    		  <li class="a">Zahra Rahiminasab, Michael Yuhas and Arvind Easwaran, "Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
 		  <li class="a">Jose Peeterson and Arvind Easwaran, "Event-Driven Real-Time Multi-Objective Charging Schedule Optimization For Electric Vehicle Fleets", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022.</li>

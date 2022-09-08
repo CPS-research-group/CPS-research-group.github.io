@@ -8,37 +8,37 @@ sidebar:
 
   - title: "Research Staff"
     text: "
-Mainak Dan (Postdoc) \n\n
+Mainak Dan (Postdoc)\n\n
+Ankita Samaddar (Postdoc)\n\n
+Suman Das (Postdoc)\n\n
 Subrat Prasad Panda (Engineer)\n\n
-Melanie Mille (Research Intern)\n\n
-Peeterson E. R. Jose (Engineer)\n\n
-Daniel Ng Jun Xian (Engineer)"
+Sharath Ram Kumar (Engineer)"
 
   - title: "Research Students"
     text: "
 Mohit Prashant (PhD) \n\n
-Sirisoma Chinthani Sugandhika (PhD) \n\n
+Xiang Fang (PhD) \n\n
 Gao Chuanchao (PhD) \n\n
 Michael Yuhas (PhD)\n\n
-Nitin Shivaraman (PhD, joint with Sebastian Steinhorst - TUM)\n\n
-Ankita Samaddar (PhD)\n\n
 Zahra Rahimi Nasab (PhD)"
 
   - title: "Former Postdocs/Students"
     text: "
+Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
+Nitin Shivaraman (A*STAR, Singapore) \n\n
 Yeli Feng (ST Engineering, Singapore) \n\n    
-Sundar Vijayakumar \n\n
-Seima Suriyasekaran \n\n
-Sriram Vasudevan (SUTD, Singapore) \n\n
+Sundar Vijayakumar (Amrita University, India) \n\n
+Seima Suriyasekaran (ApplyBoard, Canada) \n\n
+Sriram Vasudevan (NTU, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
 Omar Al-Bataineh (NUS, Singapore)\n\n
 Chiam Zhonglin (Sembcorp, Singapore)\n\n
 Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
-Shihabul Haque (I2R, A*STAR, Singapore)\n\n
+Shihabul Haque (A*STAR, Singapore)\n\n
 Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
 Bai Xue (Chinese Academy of Sciences, China)\n\n
-Arpita Bhattacharjee (Mercedes Benz R&D, India)"
+Arpita Bhattacharjee (Veoneer, India)"
 ---
 
 ******
