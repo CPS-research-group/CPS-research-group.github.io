@@ -58,6 +58,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   		  <li class="a">Michael Yuhas and Arvind Easwaran, "Demo Abstract: Real-Time Out-of-Distribution Detection on a Mobile Robot", RTSS@Work Session of IEEE Real-Time Systems Symposium (RTSS), 2022.</li> 
    		  <li class="a">Chuanchao Gao, Shaan Aryaman and Arvind Easwaran, "Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems", IEEE Global Communications Conference (GLOBECOM), 2022.(<a href="https://arxiv.org/abs/2206.05950">arXiv</a>)</li>
    		  <li class="a">Mohit Prashant and Arvind Easwaran, "PAC-Based Formal Verification for Out-of-Distribution Data Detection", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
    		  <li class="a">Zahra Rahiminasab, Michael Yuhas and Arvind Easwaran, "Out of Distribution Reasoning by Weakly-Supervised Disentangled Logic Variational Autoencoder", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
@@ -126,7 +127,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
-		        <li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "A Unified Perspective on Adversarial and Out-of-Distribution Detection in the Open World", Engineering Dependable and Secure Machine Learning Systems (EDSMLS) - co-located with AAAI, 2022.</li> 
+		        <li class="a">Chuanchao Gao and Arvind Easwaran, "Work-in-Progress: Deadline-Constrained Multi-Resource Allocation in Edge-Cloud System", Brief-Presentations Session of IEEE Real-Time Systems Symposium (RTSS), 2022.</li>
+		        <li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Remy Rigo-Mariani, "Behavioural Cloning based RL Agents for District Energy Management", ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings and Cities (RLEM), 2022.</li>
+<li class="a">Yeli Feng, Daniel Jun Xian Ng and Arvind Easwaran, "A Unified Perspective on Adversarial and Out-of-Distribution Detection in the Open World", Engineering Dependable and Secure Machine Learning Systems (EDSMLS) - co-located with AAAI, 2022.</li> 
 		        <li class="a">Ankita Samaddar, Arvind Easwaran and Rui Tan, "Work Already Published: A Schedule Randomization Policy to Mitigate Timing Attacks in WirelessHART Networks", Brief-Presentations Session of IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021.</li> 
 		        <li class="a">Michael Yuhas, Yeli Feng, Daniel Jun Xian Ng, Zahra Rahiminasab and Arvind Easwaran, "Embedded Out-of-Distribution Detection on an Autonomous Robot Platform", Design Automation for CPS and IoT (DESTION), 2021.(<a href="http://arxiv.org/abs/2106.15965">arXiv</a>)</li> 
 		        <li class="a">Yeli Feng and Arvind Easwaran, "WiP Abstract - Robust Out-of-distribution Motion Detection and Localization in Autonomous CPS", Work-in-Progress Session of the IEEE/ACM International Conference on Cyber-Physical Systems (ICCPS), 2021.(<a href="http://arxiv.org/abs/2107.11736">arXiv</a>)</li> 
