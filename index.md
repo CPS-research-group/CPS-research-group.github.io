@@ -12,10 +12,11 @@ Mainak Dan (Postdoc)\n\n
 Ankita Samaddar (Postdoc)\n\n
 Suman Das (Postdoc)\n\n
 Subrat Prasad Panda (Engineer)\n\n
-Sharath Ram Kumar (Engineer)"
+Xinwei Gao (Engineer)"
 
   - title: "Research Students"
     text: "
+Sharath Ram Kumar (PhD) \n\n
 Mohit Prashant (PhD) \n\n
 Xiang Fang (PhD) \n\n
 Gao Chuanchao (PhD) \n\n

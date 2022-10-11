@@ -36,29 +36,3 @@ In this position, you are expected to manage a team of PhD students and research
 
 If interested, please send an email along with a detailed CV to Arvind Easwaran (arvinde@ntu.edu.sg).
 
-******
-
-# Research Engineer
-
-__Duration__: 3 years.
-
-__Salary range__: Between S$4000 and S$6000 monthly depending on background and experience.
-
-In this project, we are also looking for a research engineer to assist the team with various implementation activities related to the development of the framework for black-box and grey-box testing of deep reinforcement learning (dRL) architectures. The implementation activities will also include integration effort to develop unified game-based case-studies that showcase the various capabilities developed by the different collaborators in this project.
-
-__Expected qualifications__:
-
-  <ul>
-    <li>Bachelor's or Master's degree in Computer Science or related fields</li>
-    <li>Implementation background and experience in Deep Neural Network (DNN) based architectures</li>
-    <li>Desired: Implementation background and experience in Deep Reinforcement Learning (dRL) based architectures</li>
-  </ul>
-
-__Research environment__:
-
-In this position, you are expected to conduct research activities in collaboration with PhD students and postdoctoral fellows. Ample opportunities for hands-on experience with the implementation of developed research ideas, including their integration in case-studies in collaboration with partner institutions, will be available.
-
-If interested, please send an email along with a detailed CV to Arvind Easwaran (arvinde@ntu.edu.sg).
-
-
-
