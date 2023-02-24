@@ -28,6 +28,7 @@ Zahra Rahimi Nasab (PhD)"
 
   - title: "Former Staff/Students"
     text: "
+Heejong Park (DNV, Norway) \n\n
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
 Yeli Feng (ST Engineering, Singapore) \n\n    
@@ -35,11 +36,11 @@ Sundar Vijayakumar (Amrita University, India) \n\n
 Seima Suriyasekaran (ApplyBoard, Canada) \n\n
 Sriram Vasudevan (NTU, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
-Omar Al-Bataineh (NUS, Singapore)\n\n
+Omar Al-Bataineh (Simula, Norway)\n\n
 Chiam Zhonglin (Sembcorp, Singapore)\n\n
 Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
-Shihabul Haque (A*STAR, Singapore)\n\n
+Shihabul Haque (Wavelink, Australia)\n\n
 Bibin Nair (Dyson, Singapore) \n\n
 Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
 Bai Xue (Chinese Academy of Sciences, China)\n\n
