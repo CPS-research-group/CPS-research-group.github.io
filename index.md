@@ -26,7 +26,7 @@ Gao Chuanchao (PhD) \n\n
 Michael Yuhas (PhD)\n\n
 Zahra Rahimi Nasab (PhD)"
 
-  - title: "Former Postdocs/Students"
+  - title: "Former Staff/Students"
     text: "
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
@@ -40,6 +40,7 @@ Chiam Zhonglin (Sembcorp, Singapore)\n\n
 Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (A*STAR, Singapore)\n\n
+Bibin Nair (Dyson, Singapore) \n\n
 Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
 Bai Xue (Chinese Academy of Sciences, China)\n\n
 Arpita Bhattacharjee (Veoneer, India)"
