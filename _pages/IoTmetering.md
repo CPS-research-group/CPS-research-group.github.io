@@ -7,7 +7,7 @@ permalink: /IoTmetering/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Students"
+  - title: "Former Students"
     text: "Nitin Shivaraman (PhD) \n \n Seima Suriyasekaran (MEngg)"
 ---
 

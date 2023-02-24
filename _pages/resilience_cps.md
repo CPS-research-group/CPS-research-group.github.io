@@ -8,12 +8,8 @@ permalink: /resilience_cps/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Staff"
-    text: "Daniel Ng Jun Xian (Engineer)"
-  - title: "Research Students"
-    text: "Ankita Samaddar (PhD)"
-  - title: "Former Staff"
-    text: "Sidharta Andalam (Postdoc) \n\n Mohammad Shihabul Haque (Postdoc) \n \n Omar Al-Bataineh (Postdoc)"
+  - title: "Former Staff\Students"
+    text: "Sidharta Andalam (Postdoc) \n\n Mohammad Shihabul Haque (Postdoc) \n \n Omar Al-Bataineh (Postdoc) \n \n Daniel Ng Jun Xian (Engineer) \n \n Ankita Samaddar (PhD)"
 ---
 
 ******

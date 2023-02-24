@@ -7,8 +7,8 @@ permalink: /energy_optimization/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Students"
-    text: "Mainak Dan (PhD)"
+  - title: "Former Students"
+    text: "Mainak Dan (PhD) \n \n Chiam Zhongling (PhD)"
 ---
 
 ******

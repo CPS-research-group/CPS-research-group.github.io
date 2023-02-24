@@ -11,7 +11,7 @@ sidebar:
   - title:
     text: "[Open Positions](/cloud_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Gao Chuanchao (PhD)"
+    text: "Gao Chuanchao (PhD) \n \n Niraj Kumar (Postdoc)"
 ---
 
 ******

@@ -9,11 +9,11 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas (PhD) \n \n Daniel Ng Jun Xian (Engineer)"
-
+    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas John (PhD) \n \n Suman Das (Postdoc) \n \n Xinwei Gao (Engineer)"
   - title: "Former Staff/Students"
     text: "Xiaozhe Gu (Postdoc) \n \n
-    	   Yeli Feng (Postdoc)"
+    	   Yeli Feng (Postdoc) \n \n
+	   Daniel Ng Jun Xian (Engineer)"
 ---
 
 ******

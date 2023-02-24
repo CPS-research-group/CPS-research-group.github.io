@@ -8,10 +8,8 @@ permalink: /pac_verification/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title:
-    text: "[Open Positions](/pac_verification_open){: .btn .btn--primary}"
   - title: "Research Staff/Students"
-    text: "Mohit Prashant (PhD) \n \n Xinwei Gao (Engineer)"
+    text: "Mohit Prashant (PhD) \n \n Xinwei Gao (Engineer) \n \n James Arambam (Postdoc)"
 ---
 
 ******
