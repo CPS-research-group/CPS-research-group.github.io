@@ -11,12 +11,15 @@ sidebar:
 Mainak Dan (Postdoc)\n\n
 Ankita Samaddar (Postdoc)\n\n
 Suman Das (Postdoc)\n\n
-Subrat Prasad Panda (Engineer)\n\n
+James Arambam (Postdoc)\n\n
+Niraj Kumar (Postdoc)\n\n
 Xinwei Gao (Engineer)"
 
   - title: "Research Students"
     text: "
-Sharath Ram Kumar (PhD) \n\n
+Eduardo de Conto (PhD) \n\n
+Subrat Prasad Panda (PhD) \n\n
+Sharath Ramkumar (PhD) \n\n
 Mohit Prashant (PhD) \n\n
 Xiang Fang (PhD) \n\n
 Gao Chuanchao (PhD) \n\n
