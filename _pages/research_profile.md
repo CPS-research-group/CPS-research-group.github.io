@@ -23,8 +23,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-  			<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications", ACM Transactions on Sensor Networks (TOSN), To appear.</li>  
-  	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, 2022.(<a href="https://rdcu.be/cT2T9">Springer-SharedIt</a>)</li>
+  			<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications", ACM Transactions on Sensor Networks (TOSN), Volume 19, Issue 4, Pages 1-26, July 2023.</li>  
+  	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, Volume 59, Pages 69-121, August 2022.(<a href="https://rdcu.be/cT2T9">Springer-SharedIt</a>)</li>
       <li class="a">Zhonglin Chiam, Elias Papas, Arvind Easwaran, Corinne Alonso and Bruno Estibals, "Holistic optimization of the operation of a GCHP system: A case study on the ADREAM building in Toulouse, France", Applied Energy, Volume 321, September 2022.</li>
       <li class="a">Shreyas Ramakrishna, Zahra Rahiminasab, Gabor Karsai, Arvind Easwaran and Abhishek Dubey, "Efficient Out-of-Distribution Detection Using Latent Space of β-VAE for Cyber-Physical Systems", ACM Transactions on Cyber-Physical Systems, Volume 6, Issue 2, Pages 15:1-15:34, April 2022.(<a href="https://arxiv.org/abs/2108.11800">arXiv</a>)</li>
       <li class="a">Heejong Park, Arvind Easwaran and Etienne Borde, "Online Cycle Detection for Models with Mode-Dependent Input and Output Dependencies", Elsevier Journal of Systems Architecture, Volume 15, May 2021.(<a href="https://arxiv.org/abs/2102.01928">arXiv</a>)</li>
