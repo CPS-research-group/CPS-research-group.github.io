@@ -59,6 +59,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   		  <li class="a">Michael Yuhas and Arvind Easwaran, "Co-Design of Out-of-Distribution Detectors for Autonomous Emergency Braking Systems", IEEE  International Conference on Intelligent Transportation Systems (ITSC), 2023.</li> 
    		  <li class="a">Michael Yuhas and Arvind Easwaran, "Demo Abstract: Real-Time Out-of-Distribution Detection on a Mobile Robot", RTSS@Work Session of IEEE Real-Time Systems Symposium (RTSS), 2022.</li> 
    		  <li class="a">Chuanchao Gao, Shaan Aryaman and Arvind Easwaran, "Deadline-constrained Multi-resource Task Mapping and Allocation for Edge-Cloud Systems", IEEE Global Communications Conference (GLOBECOM), 2022.(<a href="https://arxiv.org/abs/2206.05950">arXiv</a>)</li>
    		  <li class="a">Mohit Prashant and Arvind Easwaran, "PAC-Based Formal Verification for Out-of-Distribution Data Detection", IEEE International Conference on System Reliability and Safety (ICSRS), 2022.</li>
