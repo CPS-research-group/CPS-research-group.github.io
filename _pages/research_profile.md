@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-  			<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Distributed Schedule Randomization to Mitigate Timing Attacks in Industrial Control Systems", ACM Transactions on Embedded Computing Systems (TECS), to appear.</li>  
+  			<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Distributed Schedule Randomization to Mitigate Timing Attacks in Industrial Control Systems", ACM Transactions on Embedded Computing Systems (TECS), Volume 22, Issue 6, Pages 1-39, November 2023.(<a href="https://dl.acm.org/doi/10.1145/3624584">ACM Digital Library</a>)</li>
   			<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications", ACM Transactions on Sensor Networks (TOSN), Volume 19, Issue 4, Pages 1-26, July 2023.</li>  
   	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, Volume 59, Pages 69-121, August 2022.(<a href="https://rdcu.be/cT2T9">Springer-SharedIt</a>)</li>
       <li class="a">Zhonglin Chiam, Elias Papas, Arvind Easwaran, Corinne Alonso and Bruno Estibals, "Holistic optimization of the operation of a GCHP system: A case study on the ADREAM building in Toulouse, France", Applied Energy, Volume 321, September 2022.</li>
