@@ -9,14 +9,16 @@ sidebar:
   - title: "Research Staff"
     text: "
 Mainak Dan (Postdoc)\n\n
-Ankita Samaddar (Postdoc)\n\n
 Suman Das (Postdoc)\n\n
 James Arambam (Postdoc)\n\n
 Niraj Kumar (Postdoc)\n\n
-Xinwei Gao (Engineer)"
+Xinwei Gao (Engineer)\n\n
+Amalinda Jathun Gamage Isuru (Engineer)"
 
   - title: "Research Students"
     text: "
+Kai Bing Chua (PhD) \n\n 
+Soumya Ranjan Sahoo (PhD) \n\n
 Eduardo de Conto (PhD) \n\n
 Subrat Prasad Panda (PhD) \n\n
 Sharath Ramkumar (PhD) \n\n
@@ -28,10 +30,11 @@ Zahra Rahimi Nasab (PhD)"
 
   - title: "Former Staff/Students"
     text: "
+Ankita Samaddar () \n\n
 Heejong Park (DNV, Norway) \n\n
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
-Yeli Feng (ST Engineering, Singapore) \n\n    
+Yeli Feng (Amplify Health, Singapore) \n\n    
 Sundar Vijayakumar (Amrita University, India) \n\n
 Seima Suriyasekaran (ApplyBoard, Canada) \n\n
 Sriram Vasudevan (NTU, Singapore) \n\n
@@ -66,7 +69,7 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 
 ## Allocation of Edge and Wireless Resources for Time-Sensitive Applications
 
-![image-right](/assets/graphics/cloud.png){:height="50%" width="50%"}{: .align-right}
+![image-right](/assets/graphics/cloud.png){:height="40%" width="40%"}{: .align-right}
 Cloud computing has become the default architecture of choice in many domains, primarily driven by the proliferation of compute-intensive Artificial Intelligence technologies. Orthogonally, with the increasing popularity of Internet-of-Things, decentralization of cloud computing in the form of edge and mobile computing is also happening. Although applications with time-critical functions have not yet been deployed on such architectures, this is rapidly changing with the advent of next-generation wireless technology like LoRa and 5G. For example, such applications can be found in manufacturing (real-time robotic controls), driving automation (localization using vehicle-to-infrastructure communication) and energy management (managing energy flexibilities in urban energy systems). In this project, we address the problem of resource (computation and communication) allocations in such architectures, considering a mixed deployment of time-critical as well as non time-critical applications, with the objective to minimize the energy consumption of low power end devices. We aim to solve the problem holistically taking into account all the relevant resources, and focus on decentralized online solutions with analytical performance guarantees.
 
 *Tier-2 Research Grant (Ministry of Education, Singapore)*
@@ -75,7 +78,7 @@ Cloud computing has become the default architecture of choice in many domains, p
 
 ## DesCartes: Intelligent Modelling for Decision-making in Critical Urban Systems
 
-![image-right](/assets/graphics/descartes.png){:height="50%" width="50%"}{: .align-right}
+![image-right](/assets/graphics/descartes.png){:height="50%" width="50%"}{: .align-left}
 A new Hybrid Artificial Intelligence (HAI) program has been launched through an international collaboration involving the French National Centre for Scientific Research (CNRS), the Agency for Science, Technology and Research (A*STAR), Nanyang Technological University (NTU) and the National University of Singapore (NUS). This program will develop solutions that support the creation of "Smart Cities", including development of hybrid AI methods that aim to enhance real-time decision-making in urban-critical systems, with a focus on individuals and society at large. It will also adopt a holistic and multidisciplinary approach that combines AI with existing subject-based models from physics and engineering.
 
 Within this large program, our research will focus on the "Augmented Hybrid Engineering" work package, that brings  the  engineering,  technological,  and  application dimensions to the concept of HAI. It aims at proposing operational methodology and architecture, from smart sensing and predictive diagnostics to robust and scalable control, for critical and complex system-of-systems. This implies a multi-disciplinary  consortium  with complementary expertise between France and Singapore. The   disruptive engineering developments, implementations and integrations performed in this work package will permit to reach the project final objectives in terms of  relevant and reliable technologies that are fully integrated and validated on representative proofs-of-concept and real-life systems.
@@ -103,7 +106,7 @@ We intend to develop and assess Explainable and tRustworthy (ExpeRt) ATPs with f
 
 ## Assured-Safety Architecture for Machine Learning based CPS
 
-![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-right}
+![image-right](/assets/graphics/mlsafety.png){:height="40%" width="40%"}{: .align-left}
 Machine learning (ML) techniques are increasingly applied to decision-making and control problems in CPS among which many are safety-critical, e.g., chemical plants, robotics, autonomous vehicles. Despite the significant benefits brought by ML techniques, there are various factors  that can impede the achievement of ML safety. For example, 1) expressive ML models such as deep neural networks (DNN) are typically considered to be non-transparent, behaving as a “black-box” and lacking interpretable knowledge representation; 2) The empirical risk minimization approach used to train ML models reduces the probability of false prediction on the assumption that the training samples are drawn from the actual underlying probability distribution of the population; 3) Formal verification requires a specification of the property of interest, i.e., a precise, mathematical statement of what the system is supposed to or not supposed to do. However, it is difficult to come up with such a formal specification for ML-CPS. In this work, we focus on the design of novel techniques to improve the safety of ML-CPS. In particular, we develop online and robust detection techniques for Out-of-Distribution (OOD) data and Probably Approximately Correct (PAC) techniques for deriving probabilistic testing guarantees in ML-CPS.
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
@@ -145,7 +148,7 @@ With sensing technology becoming pervasive in manufacturing plants, large amount
 
 ## Resilient Cyber-Infrastructure for Manufacturing
 
-![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-left}
+![image-left](/assets/graphics/resilienceLogo.png){:height="40%" width="40%"}{: .align-right}
 Sensor proliferation and large-scale connectivity have enabled a variety of functionalities in CPS. However, connectivity also means that these systems operate in unreliable open environments, and hence resiliency to faults become important. This resiliency is fundamentally dependent on the resiliency of the cyber-infrastructure (communication network and computation nodes), which plays a central role of data delivery and execution of control. The objective of this work is to design a scalable and runtime-configurable resilience management framework for fault-handling in such emerging CPS. We also aim to demonstrate these capabilities through case studies in the application domain of smart manufacturing.
 
 *Delta-NTU Cyber-Physical Systems Corporate Lab (National Research Foundation, Singapore and Delta Electronics Inc.)*
@@ -154,7 +157,7 @@ Sensor proliferation and large-scale connectivity have enabled a variety of func
 
 ## Mixed-Criticality Scheduling Algorithms
 
-![image-right](/assets/graphics/time2task.png){:height="40%" width="40%"}{: .align-right}
+![image-right](/assets/graphics/time2task.png){:height="40%" width="40%"}{: .align-left}
 With increasing functionality and automation in real-time systems, the computational demand is steadily increasing, while resources available for servicing this demand are limited due to size, weight and power restrictions. As a result a module integration trend has emerged, so that many different applications are being cohosted on the same processing unit. Some of these applications are extremely critical for the correct behavior of the system (e.g., collision avoidance in automotive), while some others are relatively less critical (e.g., hill assist in automotive), thus giving rise to mixed-criticality real-time systems. In this work, we focus on the design of single-core as well as multi-core scheduling algorithms for such systems. We also develop practical workload models to characterize such systems, and evalute the same using an automotive testbed.
 
 *Tier-2 Grant (Ministry of Education, Singapore)*
