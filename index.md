@@ -35,7 +35,7 @@ Heejong Park (DNV, Norway) \n\n
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
 Yeli Feng (Amplify Health, Singapore) \n\n    
-Sundar Vijayakumar (Amrita University, India) \n\n
+Sundar Vijayakumar (Amrita Univ., India) \n\n
 Seima Suriyasekaran (ApplyBoard, Canada) \n\n
 Sriram Vasudevan (NTU, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
@@ -45,8 +45,8 @@ Saravanan Ramanathan (NTU, Singapore)\n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (Wavelink, Australia)\n\n
 Bibin Nair (Dyson, Singapore) \n\n
-Sidharta Andalam (Bosch Corporate Research, Singapore)\n\n
-Bai Xue (Chinese Academy of Sciences, China)\n\n
+Sidharta Andalam (Bosch, Singapore)\n\n
+Bai Xue (Inst. of Software, CAS, China)\n\n
 Arpita Bhattacharjee (Veoneer, India)"
 ---
 
