@@ -9,7 +9,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
 
-  - title: "Former Staff/Students"
+  - title: "Staff/Students"
     text: "Xiaozhe  Gu (PhD) \n\n Bibin Nair (Engineer) \n\n Saravanan Ramanathan (PhD) \n\n Sundar Vijayakumar (PhD)"
 ---
 
@@ -21,7 +21,7 @@ A Mixed-Criticality System (MCS) is a real-time system that comprises tasks havi
 
 ****** 
 
-# Our Solutions
+# Contributions
 
 ### 1. Execution support for less critical tasks
 

@@ -8,10 +8,10 @@ permalink: /cloud/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title:
-    text: "[Open Positions](/cloud_open){: .btn .btn--primary}"
-  - title: "Research Staff/Students"
-    text: "Gao Chuanchao (PhD) \n \n Niraj Kumar (Postdoc)"
+[//]: #  - title:
+[//]: #    text: "[Open Positions](/cloud_open){: .btn .btn--primary}"
+  - title: "Staff/Students"
+    text: "Gao Chuanchao (PhD) \n \n Niraj Kumar (Postdoc) \n\n Soumya Ranjan Sahoo (PhD) \n\n Amalinda Jathun Gamage Isuru (Engineer)"
 ---
 
 ******

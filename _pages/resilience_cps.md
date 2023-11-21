@@ -8,7 +8,7 @@ permalink: /resilience_cps/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Former Staff\Students"
+  - title: "Staff\Students"
     text: "Sidharta Andalam (Postdoc) \n\n Mohammad Shihabul Haque (Postdoc) \n \n Omar Al-Bataineh (Postdoc) \n \n Daniel Ng Jun Xian (Engineer) \n \n Ankita Samaddar (PhD)"
 ---
 
@@ -22,7 +22,7 @@ Industry 4.0 has the potential to radically improve the productivity of manufact
 
 ******
 
-# Our Approach
+# Contributions
 
 To enable a resilient cyber-infrastructure for Industry 4.0, we have presented a new contract-based methodology called CLAIR. Applications are described as a set of modular components that are distributed over a network. Contracts are used for describing the component’s interaction with other components (within and across layers). Finally, the contracts are monitored using runtime observers. We detect failures (contract violation) and react (change of contracts) to the disturbances, providing resiliency. Finally, using an industrial case study we validate the proposed architecture.
 

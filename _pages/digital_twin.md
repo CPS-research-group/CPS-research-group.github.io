@@ -8,7 +8,7 @@ permalink: /digital_twin/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Former Staff\Students"
+  - title: "Staff\Students"
     text: "Zhiheng Xu (Postdoc) \n \n Heejong Park (Postdoc) \n \n Gao Chuanchao (MEngg)"
 ---
 
@@ -25,11 +25,11 @@ The era of Industry 4.0 brings increased connectivity among devices, predictabil
 
 ******
 
-# Our Approach
+# Contributions
 
 To build an accurate view of the physical system via a digital twin, the software architecture should support the utilization of different modeling strategies for creating the twin, where each model specializes in certain application domains. Furthermore, it is essential to support a method to combine such heterogeneous models in a consistent manner and utilize gathered online data from a physical system to provide a holistic understanding of the physical system’s state.
 
-### The Architecture
+### 1. The Architecture
 
 {::options parse_block_html="true" /}
 
@@ -42,7 +42,7 @@ Our digital twin architecture consists of three layers. Each layer has a number 
 </div>
 {: .align-left}
 
-### Globally Asynchronous Locally Synchronous Semantics for Digital Twin
+### 2. Globally Asynchronous Locally Synchronous Semantics for Digital Twin
 
 <div>
 ![gals](/_pages/assets/digital_twin/images/gals.jpg){:style="max-width: 40%"}{: .align-right}
@@ -54,7 +54,7 @@ Intuitively, plants and controllers in our digital twin are heterogeneous models
 </div>
 {: .align-left}
 
-### Case Study 1: Fault Monitoring and Analysis for the Manufacturing System
+### 3. Case Study 1: Fault Monitoring and Analysis for the Manufacturing System
 
 <div>
 ![fm-arch](/_pages/assets/digital_twin/images/fm-arch.jpg){:style="max-width: 30%"}{: .align-right}
@@ -67,7 +67,7 @@ The role of the fault monitoring and analysis application is to find the root ca
 </div>
 {: .align-left}
 
-### Anomaly Detection Framework for Digital Twin
+### 4. Anomaly Detection Framework for Digital Twin
 
 <div>
 ![anomaly_detection](/_pages/assets/digital_twin/images/anomaly_detection.png){:style="max-width: 40%"}{: .align-right}
@@ -80,7 +80,7 @@ The anomaly detection framework aims to detect the online process anomalies and 
 </div>
 {: .align-left}
 
-### Case Study 2: Anomaly Detection for Tennessee Eastman Process
+### 5. Case Study 2: Anomaly Detection for Tennessee Eastman Process
 <div>
 ![tennessee_eastman](/_pages/assets/digital_twin/images/tennessee_eastman.png){:style="max-width: 40%"}{: .align-right}
 

@@ -7,7 +7,7 @@ permalink: /IoTmetering/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Former Students"
+  - title: "Staff/Students"
     text: "Nitin Shivaraman (PhD) \n \n Seima Suriyasekaran (MEngg)"
 ---
 
@@ -26,9 +26,9 @@ Demand-Supply infrastructure in the present day distribution grid does not have 
 
 ****** 
 
-# Proposed methodology
+# Contributions
 
-Our approach involves introducing metering at a device level and enable communication by using IoT technology. Since IoT is inherently decentralized, the devices operate independently and measure their power consumption. The consumption is communicated among the devices using which devices know the overall load and utilization. The utilization also provides information on the schedules.
+Our approach involves introducing metering at a device level and enabling communication by using IoT technology. Since IoT is inherently decentralized, the devices operate independently and measure their power consumption. The consumption is communicated among the devices using which devices know the overall load and utilization. The utilization also provides information on the schedules.
 
 ## Hardware Architecture
 

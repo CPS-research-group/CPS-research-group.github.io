@@ -8,7 +8,7 @@ permalink: /descartes/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Staff/Students"
+  - title: "Staff/Students"
     text: "Subrat Prasad Panda (PhD) \n \n Sharath Ramkumar (PhD) \n \n Xiang Fang (PhD) \n \n Eduardo de Conto (PhD)"
 ---
 

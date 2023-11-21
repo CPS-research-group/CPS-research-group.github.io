@@ -8,12 +8,8 @@ permalink: /ml_safety/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Research Staff/Students"
-    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas John (PhD) \n \n Suman Das (Postdoc) \n \n Xinwei Gao (Engineer)"
-  - title: "Former Staff/Students"
-    text: "Xiaozhe Gu (Postdoc) \n \n
-    	   Yeli Feng (Postdoc) \n \n
-	   Daniel Ng Jun Xian (Engineer)"
+  - title: "Staff/Students"
+    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas John (PhD) \n \n Suman Das (Postdoc) \n \n Xinwei Gao (Engineer) \n \n Xiaozhe Gu (Postdoc) \n \n Yeli Feng (Postdoc) \n \n Daniel Ng Jun Xian (Engineer)"
 ---
 
 ******
@@ -26,7 +22,7 @@ Addressing the above two open problems, in this project we aim to develop a soft
 
 ******
 
-# Our Solutions
+# Contributions
 
 ### 1. Out-of-Distribution Detection
 
