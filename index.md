@@ -61,6 +61,7 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 <li>Resource Management and Scheduling</li>
 <li>Safety Assurance in Learning Enabled Components</li>
 </ol>
+
 ******
 
 # Ongoing Projects
@@ -75,6 +76,8 @@ Cloud computing has become the default architecture of choice in many domains, p
 *Tier-2 Research Grant (Ministry of Education, Singapore)*
 
 [Read More](/cloud){: .btn .btn--primary}
+
+******
 
 ## DesCartes: Intelligent Modelling for Decision-making in Critical Urban Systems
 
