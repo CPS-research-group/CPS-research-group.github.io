@@ -60,6 +60,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">James Arambam Singh and Arvind Easwaran, "PAS: Probably Approximate Safety Verification of Reinforcement Learning Policy Using Scenario Optimization", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.</li>
    			<li class="a">Niraj Kumar, Chuanchao Gao and Arvind Easwaran, "Optimal Fixed Priority Scheduling in Multi-Stage Multi-Resource Distributed Real-Time Systems", Design Automation and Test in Europe (DATE), 2024.</li>
    			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Remy Rigo-Mariani, "Towards Safe Model-Free Building Energy Management using Masked Reinforcement Learning", IEEE PES Conference on Innovative Smart Grid Technologies (ISGT Europe), 2023.</li>
    		  <li class="a">Michael Yuhas and Arvind Easwaran, "Co-Design of Out-of-Distribution Detectors for Autonomous Emergency Braking Systems", IEEE  International Conference on Intelligent Transportation Systems (ITSC), 2023.</li> 
