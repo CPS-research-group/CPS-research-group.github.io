@@ -9,7 +9,6 @@ sidebar:
   - title: "Research Staff"
     text: "
 Mainak Dan (Postdoc)\n\n
-Suman Das (Postdoc)\n\n
 James Arambam (Postdoc)\n\n
 Niraj Kumar (Postdoc)\n\n
 Xinwei Gao (Engineer)\n\n
@@ -19,29 +18,30 @@ Amalinda Jathun Gamage Isuru (Engineer)"
     text: "
 Kai Bing Chua (PhD) \n\n 
 Soumya Ranjan Sahoo (PhD) \n\n
-Eduardo de Conto (PhD) \n\n
+Eduardo de Conto Fernandes (PhD) \n\n
 Subrat Prasad Panda (PhD) \n\n
 Sharath Ramkumar (PhD) \n\n
 Mohit Prashant (PhD) \n\n
 Xiang Fang (PhD) \n\n
 Gao Chuanchao (PhD) \n\n
-Michael Yuhas (PhD)\n\n
-Zahra Rahimi Nasab (PhD)"
+Michael Yuhas (PhD)"
 
   - title: "Former Staff/Students"
     text: "
-Ankita Samaddar () \n\n
+Zahra Rahimi Nasab \n\n
+Suman Das \n\n
+Ankita Samaddar (Vanderbilt University, USA) \n\n
 Heejong Park (DNV, Norway) \n\n
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
 Yeli Feng (Amplify Health, Singapore) \n\n    
 Sundar Vijayakumar (Amrita Univ., India) \n\n
-Seima Suriyasekaran (ApplyBoard, Canada) \n\n
+Seima Suriyasekaran (Caylent, Canada) \n\n
 Sriram Vasudevan (NTU, Singapore) \n\n
 Zhiheng Xu (Dyson, Singapore)\n\n
-Omar Al-Bataineh (Simula, Norway)\n\n
+Omar Al-Bataineh \n\n
 Chiam Zhonglin (Sembcorp, Singapore)\n\n
-Saravanan Ramanathan (NTU, Singapore)\n\n
+Saravanan Ramanathan \n\n
 Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
 Shihabul Haque (Wavelink, Australia)\n\n
 Bibin Nair (Dyson, Singapore) \n\n
