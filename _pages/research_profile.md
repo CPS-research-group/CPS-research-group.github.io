@@ -175,8 +175,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Patents
 
 <ol>
-		        <li class="a">Heejong Park, Gao Chuanchao, Arvind Easwaran, Cheng Chia Loon and Joseph Lee Yuan Sheng, "Digital Twin Driven Automated Mobile SMT Material Transfer System", Patent application filed through NTU and Delta Research Center, Singapore.</li>
-		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam and Jeffrey Soon, "Decentralized Monitoring Framework for Cyber-Physical Systems", Patent application filed through Delta Research Center, Singapore.</li>
+			      <li class="a">Mainak Dan, Jose Peeterson Emerson Raja, Arvind Easwaran and Avalpreet Singh Brar, "A System and Method for Determining a Charging Schedule for a Plurality of Vehicles", Patent application filed through NTU and Continental, Singapore.</li>
+		        <li class="a">Heejong Park, Gao Chuanchao, Arvind Easwaran and Cheng Chia Loon, "Digital Twin Driven Automated Mobile SMT Material Transfer System", Patent application filed through NTU and Delta Research Center, Singapore.</li>
+		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam and Jeffrey Soon, "Decentralized Cyber-Physical System", US Patent Number: 11307917, Issued: 19-Apr-2022.</li>
 		        <li class="a">Arvind Easwaran and Srivatsan Varadarajan, "Systems and methods generating inter-group and intra-group execution schedules for instruction entity allocation and scheduling on multi-processors", US Patent Number: 9612868, Issued: 04-Apr-2017.</li>
 		        <li class="a">Arvind Easwaran and Larry James Miller, "Systems and methods for task grouping on multi-processors", US Patent Number: 9207977, Issued: 08-Dec-2015.</li>
 			<li class="a">Arvind Easwaran, Gabor Madl, David V. Oglesby and Devesh Bhatt, "Systems and methods for verifying expression folding", US Patent Number: 9027001, Issued:05-May-2015.</li>
