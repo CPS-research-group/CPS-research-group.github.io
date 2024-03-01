@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-
+  		<li class="a">Suman Das, Michael Yuhas and Arvind Easwaran, "Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision", ACM Transactions on Cyber-Physical Systems (TCPS), accepted.</li>
   		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, Rémy Rigo-Mariani and PengFeng Lin, "Methods for Mitigating Uncertainty in Real-Time Operations of a Connected Microgrid", Elsevier Sustainable Energy, Grids and Networks (SEGAN), accepted.</li>
   		<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Distributed Schedule Randomization to Mitigate Timing Attacks in Industrial Control Systems", ACM Transactions on Embedded Computing Systems (TECS), Volume 22, Issue 6, Pages 1-39, November 2023.(<a href="https://dl.acm.org/doi/10.1145/3624584">ACM Digital Library</a>)</li>
   		<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications", ACM Transactions on Sensor Networks (TOSN), Volume 19, Issue 4, Pages 1-26, July 2023.</li>  
