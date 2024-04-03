@@ -175,6 +175,12 @@ a.a:active {color:#0000FF; text-decoration:none;}
  			<li class="a">Usa Sammapun, Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Simulation of Simultaneous Events in Regular Expressions", Electronic Notes in Theoretical Computer Science, Volume 113, Pages 123-143, 2005: Publication of International Workshop on Runtime Verification (RV), 2004.</li>
 		</ol>
 
+## Book Chapters
+
+<ol>
+ 	  	 <li class="a">Arvind Easwaran, Michael Yuhas, Saravanan Ramanathan and Ankita Samaddar, "Real-Time Scheduling for Computing Architectures", Handbook of Computer Architecture, Springer, 2024.</li>
+		</ol>
+
 ## Patents
 
 <ol>
