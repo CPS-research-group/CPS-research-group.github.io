@@ -62,6 +62,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Eduardo de Conto, Blaise Genest and Arvind Easwaran, "Function+Data Flow: A Framework to Specify Machine Learning  Pipelines for Digital Twinning", ACM International Conference on AI-powered Software (AIware), 2024.</li>
    			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Real-time Retail Electricity Pricing Using Offline Reinforcement Learning", ACM International Conference on Future and Sustainable Energy Systems (e-Energy), 2024.</li>
    			<li class="a">James Arambam Singh and Arvind Easwaran, "PAS: Probably Approximate Safety Verification of Reinforcement Learning Policy Using Scenario Optimization", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.</li>
    			<li class="a">Niraj Kumar, Chuanchao Gao and Arvind Easwaran, "Optimal Fixed Priority Scheduling in Multi-Stage Multi-Resource Distributed Real-Time Systems", Design Automation and Test in Europe (DATE), 2024.</li>
