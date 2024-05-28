@@ -62,6 +62,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+	    	<li class="a">Xiang Fang, Blaise Genest and Arvind Easwaran, "Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection", IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.</li>   	
+	    	<li class="a">Aditya Bansal, Michael Yuhas and Arvind Easwaran, "Compressing VAE-Based Out-of-Distribution Detectors for Embedded Deployment", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2024.</li>
    			<li class="a">Eduardo de Conto, Blaise Genest and Arvind Easwaran, "Function+Data Flow: A Framework to Specify Machine Learning  Pipelines for Digital Twinning", ACM International Conference on AI-powered Software (AIware), 2024.</li>
    			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Real-time Retail Electricity Pricing Using Offline Reinforcement Learning", ACM International Conference on Future and Sustainable Energy Systems (e-Energy), 2024.</li>
    			<li class="a">James Arambam Singh and Arvind Easwaran, "PAS: Probably Approximate Safety Verification of Reinforcement Learning Policy Using Scenario Optimization", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024.</li>
