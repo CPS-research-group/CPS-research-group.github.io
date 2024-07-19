@@ -62,6 +62,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Subrat Panda, Blaise Genest, Arvind Easwaran and Ponnuthurai Suganthan, "Vanilla Gradient Descent for Oblique Decision Trees", European Conference on Artificial Intelligence (ECAI), 2024.</li>
+   			<li class="a">Mainak Dan and Arvind Easwaran, "A Cooperative Bargaining Game Framework for Vehicle-to-Vehicle Energy Sharing and Trading at Charging Stations", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024.</li>
+   			<li class="a">Ankita Samaddar and Arvind Easwaran, "A Location Validation Technique to Mitigate GPS Spoofing Attacks in IEEE 802.11p based Fleet Operator's Network of Electric Vehicles", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024.</li>
 	    	<li class="a">Xiang Fang, Blaise Genest and Arvind Easwaran, "Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection", IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.</li>   	
 	    	<li class="a">Aditya Bansal, Michael Yuhas and Arvind Easwaran, "Compressing VAE-Based Out-of-Distribution Detectors for Embedded Deployment", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2024.</li>
    			<li class="a">Eduardo de Conto, Blaise Genest and Arvind Easwaran, "Function+Data Flow: A Framework to Specify Machine Learning  Pipelines for Digital Twinning", ACM International Conference on AI-powered Software (AIware), 2024.</li>
