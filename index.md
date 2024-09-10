@@ -10,9 +10,8 @@ sidebar:
     text: "
 Mainak Dan (Postdoc)\n\n
 James Arambam (Postdoc)\n\n
-Niraj Kumar (Postdoc)\n\n
 Xinwei Gao (Engineer)\n\n
-Amalinda Jathun Gamage Isuru (Engineer)"
+Amalinda Jathun Gamage Isuru"
 
   - title: "Research Students"
     text: "
@@ -28,6 +27,7 @@ Michael Yuhas (PhD)"
 
   - title: "Former Staff/Students"
     text: "
+Niraj Kumar (IIT-Goa, India) \n\n
 Zahra Rahimi Nasab \n\n
 Suman Das \n\n
 Ankita Samaddar (Vanderbilt University, USA) \n\n

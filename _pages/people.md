@@ -12,6 +12,10 @@ sidebar:
 
 ******
 
+# June 2024 (Dinner @ Arab Street)
+
+{% include figure image_path="/assets/graphics/group_24.jpeg" alt="Group image" caption="(left-to-right) Amine, Mainak, James, Arvind, Niraj, Amalinda, Chuanchao, Eduardo, Subrat, Soumya, Xinwei, Xiang, Kai Bing." %}
+
 # November 2023 (Dinner @ Arab Street)
 
 {% include figure image_path="/assets/graphics/group_23a.jpeg" alt="Group image" caption="(left-to-right) Xinwei, Michael, Amalinda, James, Suman,  Niraj, Arvind, Soumya, Chuanchao." %}
