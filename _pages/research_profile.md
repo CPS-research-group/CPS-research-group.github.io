@@ -23,8 +23,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
+		<li class="a">Xiang Fang, Blaise Genest and Arvind Easwaran, "Your Data Is Not Perfect: Towards Cross-Domain Out-of-Distribution Detection in Class-Imbalanced Data", Elsevier Expert Systems with Applications (ESWA), to appear.</li>   	
   		<li class="a">Suman Das, Michael Yuhas, Rachel Koh and Arvind Easwaran, "Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision", ACM Transactions on Cyber-Physical Systems (TCPS), Volume 8, Issue 2, Pages 1-26, May 2024.</li>
-  		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, Rémy Rigo-Mariani and PengFeng Lin, "Methods for Mitigating Uncertainty in Real-Time Operations of a Connected Microgrid", Elsevier Sustainable Energy, Grids and Networks (SEGAN), accepted.(<a href="https://arxiv.org/abs/2409.19568">arXiv</a>)</li>
+  		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, Rémy Rigo-Mariani and PengFeng Lin, "Methods for Mitigating Uncertainty in Real-Time Operations of a Connected Microgrid", Elsevier Sustainable Energy, Grids and Networks (SEGAN), Volume 38, Article No. 101334, June 2024.(<a href="https://arxiv.org/abs/2409.19568">arXiv</a>)</li>
   		<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Distributed Schedule Randomization to Mitigate Timing Attacks in Industrial Control Systems", ACM Transactions on Embedded Computing Systems (TECS), Volume 22, Issue 6, Pages 1-39, November 2023.(<a href="https://dl.acm.org/doi/10.1145/3624584">ACM Digital Library</a>)</li>
   		<li class="a">Ankita Samaddar and Arvind Easwaran, "Online Schedule Randomization to Mitigate Timing Attacks in 5G Periodic URLLC Communications", ACM Transactions on Sensor Networks (TOSN), Volume 19, Issue 4, Pages 1-26, July 2023.</li>  
   	  <li class="a">Sundar Vijayakumar, Saravanan Ramanathan and Arvind Easwaran, "Design and Analyses of Functional Mode Changes for Mixed-Criticality Systems", Springer Real-Time Systems, Volume 59, Pages 69-121, August 2022.(<a href="https://rdcu.be/cT2T9">Springer-SharedIt</a>)</li>
