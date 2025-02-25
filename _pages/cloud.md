@@ -11,7 +11,7 @@ sidebar:
 [//]: #  - title:
 [//]: #    text: "[Open Positions](/cloud_open){: .btn .btn--primary}"
   - title: "Staff/Students"
-    text: "Gao Chuanchao (PhD) \n \n Niraj Kumar (Postdoc) \n\n Soumya Ranjan Sahoo (PhD) \n\n Amalinda Jathun Gamage Isuru (Engineer)"
+    text: "Gao Chuanchao (PhD) \n \n Soumya Ranjan Sahoo (PhD) \n\n Manoj Kumar Lenka (PhD) \n\n Yagneshwar Dharmalingam (Engineer)"
 ---
 
 ******

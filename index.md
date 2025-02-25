@@ -8,43 +8,45 @@ sidebar:
 
   - title: "Research Staff"
     text: "
-Mainak Dan (Postdoc)\n\n
-James Arambam (Postdoc)\n\n
+Rajesh Ahir (Postdoc)\n\n
+Michael Yuhas (Engineer)\n\n
 Xinwei Gao (Engineer)\n\n
-Amalinda Jathun Gamage Isuru"
+Yagneshwar Dharmalingam (Engineer)"
 
   - title: "Research Students"
     text: "
+Manoj Kumar Lenka (PhD) \n\n
 Kai Bing Chua (PhD) \n\n 
 Soumya Ranjan Sahoo (PhD) \n\n
 Eduardo de Conto Fernandes (PhD) \n\n
 Subrat Prasad Panda (PhD) \n\n
-Sharath Ramkumar (PhD) \n\n
+Sharath Ram Kumar (PhD) \n\n
 Mohit Prashant (PhD) \n\n
 Xiang Fang (PhD) \n\n
-Gao Chuanchao (PhD) \n\n
-Michael Yuhas (PhD)"
+Gao Chuanchao (PhD)"
 
   - title: "Former Staff/Students"
     text: "
+Mainak Dan (Univ. of Grenoble, France) \n\n
+Amalinda Jathun (NUS, Singapore) \n\n
+James Singh (IIT-Delhi, India) \n\n
 Niraj Kumar (IIT-Goa, India) \n\n
-Zahra Rahimi Nasab \n\n
-Suman Das \n\n
-Ankita Samaddar (Vanderbilt University, USA) \n\n
+Zahra Rahimi Nasab (Aalto Univ., Finland) \n\n
+Suman Das (NIT Bhopal, India) \n\n
+Ankita Samaddar (Vanderbilt Univ., USA) \n\n
 Heejong Park (DNV, Norway) \n\n
 Daniel Ng Jun Xian (Hyundai, Singapore) \n\n
 Nitin Shivaraman (A*STAR, Singapore) \n\n
 Yeli Feng (Amplify Health, Singapore) \n\n    
-Sundar Vijayakumar (Amrita Univ., India) \n\n
+Vijayakumar Sundar (IIIT-Kancheepuram, India) \n\n
 Seima Suriyasekaran (Caylent, Canada) \n\n
-Sriram Vasudevan (NTU, Singapore) \n\n
-Zhiheng Xu (Dyson, Singapore)\n\n
+Sriram Vasudevan (Continental, Singapore) \n\n
+Zhiheng Xu (Shenzhen 3iRobotix, China)\n\n
 Omar Al-Bataineh \n\n
 Chiam Zhonglin (Sembcorp, Singapore)\n\n
 Saravanan Ramanathan \n\n
-Xiaozhe Gu (CUHK, Shenzhen, China)\n\n
+Xiaozhe Gu (Zhejiang Wanli Univ., China)\n\n
 Shihabul Haque (Wavelink, Australia)\n\n
-Bibin Nair (Dyson, Singapore) \n\n
 Sidharta Andalam (Bosch, Singapore)\n\n
 Bai Xue (Inst. of Software, CAS, China)\n\n
 Arpita Bhattacharjee (Veoneer, India)"

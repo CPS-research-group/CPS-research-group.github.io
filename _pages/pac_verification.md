@@ -9,7 +9,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Staff/Students"
-    text: "Mohit Prashant (PhD) \n \n Xinwei Gao (Engineer) \n \n James Arambam (Postdoc)"
+    text: "Mohit Prashant (PhD) \n \n Xinwei Gao (Engineer)"
 ---
 
 ******

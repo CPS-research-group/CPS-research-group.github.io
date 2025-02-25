@@ -8,8 +8,6 @@ permalink: /ml_safety/
 sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
-  - title: "Staff/Students"
-    text: "Zahra RahimiNasab (PhD) \n \n Michael Yuhas John (PhD) \n \n Suman Das (Postdoc) \n \n Xinwei Gao (Engineer) \n \n Xiaozhe Gu (Postdoc) \n \n Yeli Feng (Postdoc) \n \n Daniel Ng Jun Xian (Engineer)"
 ---
 
 ******

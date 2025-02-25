@@ -9,7 +9,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Staff/Students"
-    text: "Subrat Prasad Panda (PhD) \n \n Sharath Ramkumar (PhD) \n \n Xiang Fang (PhD) \n \n Eduardo de Conto (PhD)"
+    text: "Subrat Prasad Panda (PhD) \n \n Sharath Ram Kumar (PhD) \n \n Xiang Fang (PhD) \n \n Eduardo de Conto (PhD)"
 ---
 
 ******

@@ -8,7 +8,7 @@ sidebar:
   - title:
     text: "[Return @CPSGroup](/){: .btn .btn--primary}"
   - title: "Staff/Students"
-    text: "Mainak Dan (PhD) \n\n Chua Kai Bing (PhD) \n\n Chiam Zhongling (PhD)"
+    text: "Chua Kai Bing (PhD) \n\n Michael Yuhas (Engineer) \n\n Rajesh Ahir (Postdoc)"
 ---
 
 ******
