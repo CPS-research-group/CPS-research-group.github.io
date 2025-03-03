@@ -23,6 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
+		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Adaptive Hierarchical Graph Cut for Multi-granularity Out-of-distribution Detection", IEEE Transactions on Artificial Intelligence (TAI), to appear.</li>   	
 		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Your Data Is Not Perfect: Towards Cross-Domain Out-of-Distribution Detection in Class-Imbalanced Data", Elsevier Expert Systems with Applications (ESWA), Volume 267, April 2025.</li>   	
   		<li class="a">Suman Das, Michael Yuhas, Rachel Koh and Arvind Easwaran, "Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision", ACM Transactions on Cyber-Physical Systems (TCPS), Volume 8, Issue 2, Pages 1-26, May 2024.</li>
   		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, Rémy Rigo-Mariani and PengFeng Lin, "Methods for Mitigating Uncertainty in Real-Time Operations of a Connected Microgrid", Elsevier Sustainable Energy, Grids and Networks (SEGAN), Volume 38, Article No. 101334, June 2024.(<a href="https://arxiv.org/abs/2409.19568">arXiv</a>)</li>
