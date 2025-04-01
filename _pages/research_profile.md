@@ -64,7 +64,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-   			<li class="a">Xinwei Gao, James Arambam Singh, Sai Prasanna Gangadhar Royyuru, Michael Yuhas and Arvind Easwaran, "CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS Demo Track), 2025.</li>
+   			<li class="a">Xinwei Gao, James Arambam Singh, Sai Prasanna Gangadhar Royyuru, Michael Yuhas and Arvind Easwaran, "CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS Demo Track), 2025.(<a href="http://arxiv.org/abs/2503.22248">arXiv</a>)</li>
    			<li class="a">Mohit Prashant, Arvind Easwaran, Suman Das and Michael Yuhas, "Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation", Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</li>
    			<li class="a">Chuanchao Gao, Niraj Kumar and Arvind Easwaran, "Energy-Efficient Real-Time Job Mapping and Resource Management in Mobile-Edge Computing", IEEE Real-Time Systems Symposium (RTSS), 2024.</li>
    			<li class="a">Subrat Panda, Blaise Genest, Arvind Easwaran and Ponnuthurai N. Suganthan, "Vanilla Gradient Descent for Oblique Decision Trees", European Conference on Artificial Intelligence (ECAI), 2024.(<a href="https://arxiv.org/abs/2408.09135">arXiv</a>)</li>
