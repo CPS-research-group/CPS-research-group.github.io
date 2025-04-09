@@ -147,6 +147,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
+		        <li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Programmatic Reinforcement Learning for Trustworthy Microgrid Management",  AI for X Conference (AI4X), 2025.</li>
+		        <li class="a">Yip Jun Kai, Eduardo de Conto and Arvind Easwaran, "Quantifying Uncertainty in Physics-Informed Neural Networks",  AI for X Conference (AI4X), 2025.</li> 
 		        <li class="a">Chuanchao Gao and Arvind Easwaran, "Local Ratio based Real-time Job Offloading and Resource Allocation in Mobile Edge Computing", Real-Time And IntelliGent Edge Computing Workshop (RAGE), 2025.</li>
 				 		<li class="a">Sharath Ram Kumar, Benoit Delinchant, Rémy Rigo-Mariani and Arvind Easwaran, "Action Masking for Safer Model-Free Building Energy Management", ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), Posters and Demos, 2023 (<a href="https://cnrs.hal.science/hal-03851408v1">HAL</a>) (<font color="FF0000"><B>Best Poster Award</B></font>).</li>
 		        <li class="a">Chuanchao Gao and Arvind Easwaran, "Work-in-Progress: Deadline-Constrained Multi-Resource Allocation in Edge-Cloud System", Brief-Presentations Session of IEEE Real-Time Systems Symposium (RTSS), 2022.</li>
