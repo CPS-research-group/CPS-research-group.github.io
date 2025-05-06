@@ -64,6 +64,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Chuanchao Gao and Arvind Easwaran, "Energy-Efficient Joint Offloading and Resource Allocation for Deadline-Constrained Tasks in Multi-Access Edge Computing", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2025.</li>
    			<li class="a">Xiang Fang, Arvind Easwaran and Blaise Genest, "Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection", International Conference on Machine Learning (ICML), 2025 (spotlight paper).</li> 
    			<li class="a">Xinwei Gao, James Arambam Singh, Sai Prasanna Gangadhar Royyuru, Michael Yuhas and Arvind Easwaran, "CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS Demo Track), 2025.(<a href="http://arxiv.org/abs/2503.22248">arXiv</a>)</li>
    			<li class="a">Mohit Prashant, Arvind Easwaran, Suman Das and Michael Yuhas, "Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation", Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</li>
