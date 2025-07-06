@@ -70,6 +70,15 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 
 ******
 
+## INSPIRASI: Charging Optimization for Electric Vehicle Fleets
+
+![image-right](/assets/graphics/inspirasi.png){:height="30%" width="30%"}{: .align-right}
+The transition towards electrified transportation systems presents significant challenges in managing Electric Vehicle (EV) fleet operations within constrained battery, energy, and infrastructure environments. This project proposes the development of hybrid algorithms that integrate machine learning models with mathematical optimization techniques to better optimize EV fleet charging strategies, while accurately modeling and considering battery degradation, grid limitations, and infrastructure availability. In addition, participation of EVs in Vehicle to Grid (V2G) operation will also be considered in making the charging decisions for the fleet. Concurrently, pricing and incentivizing mechanisms tailored for demand-responsive behaviors will be formulated, accommodating dynamic electricity pricing structures and demand response signals. The incorporation of pricing strategies in the proposed models further helps with taking informed decisions on charging during peak pricing hours, which ultimately reduces the overall charging cost. Finally, multi-factor predictive models will be developed to assess the influence of environmental, operational, and vehicular parameters - such as weather patterns, terrain topology, traffic dynamics, vehicle payloads, and battery conditions - on EV energy consumption and range prediction. Collectively, these solutions aim to achieve cost-effective, grid-compliant, and battery health-aware fleet management solutions. The outcomes are expected to substantially contribute to the design of resilient, efficient, and sustainable smart city mobility infrastructures.
+
+*LPDP (Ministry of Education, Culture, Research, and Technology, Indonesia)*
+
+[Read More](/inspirasi){: .btn--primary}
+
 ## Allocation of Edge and Wireless Resources for Time-Sensitive Applications
 
 ![image-right](/assets/graphics/cloud.png){:height="30%" width="30%"}{: .align-right}
