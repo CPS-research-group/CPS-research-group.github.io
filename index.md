@@ -77,7 +77,7 @@ The transition towards electrified transportation systems presents significant c
 
 *LPDP (Ministry of Education, Culture, Research, and Technology, Indonesia)*
 
-[Read More](/inspirasi){: .btn--primary}
+[Read More](/inspirasi){: .btn .btn--primary}
 
 ## Allocation of Edge and Wireless Resources for Time-Sensitive Applications
 
