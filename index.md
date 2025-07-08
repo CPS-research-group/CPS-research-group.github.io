@@ -70,6 +70,15 @@ Primary interests of the CPS Research Group @SCSE,NTU are in the design and anal
 
 ******
 
+## Real-Time Scheduling of Deep Neural Network Workloads with Performance and Data Dependency
+
+![image-right](/assets/graphics/coscheduling.png){:height="30%" width="30%"}{: .align-right}
+In modern CPS, pipelines of models are typically used, some of which can be implemented as deep neural networks (DNNs) while others can be implemented using classical algorithms. These pipelines allow for greater explainability and a more modular architecture that enables simpler DNNs to be trained on specific tasks and replaced as necessary. A pipeline is usually divided into planning, perception, and control stages, with *data dependencies* between the tasks. Additionally, given the result of one task, we may be able to predict the performance of another task; we call this a *performance dependency*. For example, in an autonomous driving application, if many vehicles are present, the performance of lane detection may suffer due to occlusion. This necessitates a scheduling plan that allocates more compute resources to the lane detection task to account for this challenging environment it faces. Thus, as one task makes predictions about the operating environment, the schedule of another performance dependent task may have to be dynamically adapted for efficiency purposes, while still meeting task deadlines.
+
+*Tier-2 Research Grant (Ministry of Education, Singapore)*
+
+[Read More](/coscheduling){: .btn .btn--primary}
+
 ## INSPIRASI: Charging Optimization for Electric Vehicle Fleets
 
 ![image-right](/assets/graphics/inspirasi.png){:height="30%" width="30%"}{: .align-right}
