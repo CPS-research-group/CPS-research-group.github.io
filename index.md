@@ -114,6 +114,10 @@ Within this large program, our research will focus on the "Augmented Hybrid Engi
 
 ******
 
+# Past Projects
+
+******
+
 ## Trust to Train and Train to Trust: Agent Training Programs for Safety-Critical Environments
 
 ![image-right](/assets/graphics/atp.png){:height="20%" width="20%"}{: .align-right}
@@ -143,10 +147,6 @@ Machine learning (ML) techniques are increasingly applied to decision-making and
 *Urban Mobility Grand Challenge (ERI@N, NTU through Land Transport Authority and National Research Foundation, Singapore)*
 
 [Read More](/ml_safety){: .btn .btn--primary}
-
-******
-
-# Past Projects
 
 ******
 
