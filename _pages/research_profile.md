@@ -65,9 +65,11 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Mohit Prashant and Arvind Easwaran, "Improving Reinforcement Learning Sample-Efficiency using Local Approximation", European Conference on Artificial Intelligence (ECAI), 2025.(<a href="https://arxiv.org/pdf/2507.12383">arXiv</a>)</li>
+   			<li class="a">Matthias Stammler, Fabian Lesniak, Niraj Kumar, Arvind Easwaran and J&uuml;rgen Becker, "HM2GP: a Multi-Version Task Scheduler with Extended Precedence Constraints on COTS SoCs", IEEE International System-on-Chip Conference (SOCC), 2025.</li>   
    			<li class="a">Soumya Ranjan Sahoo, Amalinda Gamage, Niraj Kumar and Arvind Easwaran, "LoRaHART: Hardware-Aware Real-Time Scheduling for LoRa", Euromicro Conference on Real-Time Systems (ECRTS), 2025.</li>
    			<li class="a">Chuanchao Gao and Arvind Easwaran, "Energy-Efficient Joint Offloading and Resource Allocation for Deadline-Constrained Tasks in Multi-Access Edge Computing", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2025.</li>
-   			<li class="a">Xiang Fang, Arvind Easwaran and Blaise Genest, "Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection", International Conference on Machine Learning (ICML), 2025 (spotlight paper).</li> 
+   			<li class="a">Xiang Fang, Arvind Easwaran and Blaise Genest, "Adaptive Multi-prompt Contrastive Network for Few-shot Out-of-distribution Detection", International Conference on Machine Learning (ICML), 2025 (spotlight paper).(<a href="https://openreview.net/forum?id=GoGuB1yFko">OpenReview</a>)</li> 
    			<li class="a">Xinwei Gao, James Arambam Singh, Sai Prasanna Gangadhar Royyuru, Michael Yuhas and Arvind Easwaran, "CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS Demo Track), 2025.(<a href="http://arxiv.org/abs/2503.22248">arXiv</a>)</li>
    			<li class="a">Mohit Prashant, Arvind Easwaran, Suman Das and Michael Yuhas, "Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation", Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.</li>
    			<li class="a">Chuanchao Gao, Niraj Kumar and Arvind Easwaran, "Energy-Efficient Real-Time Job Mapping and Resource Management in Mobile-Edge Computing", IEEE Real-Time Systems Symposium (RTSS), 2024.</li>
