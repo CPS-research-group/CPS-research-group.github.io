@@ -65,6 +65,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Eduardo de Conto, Blaise Genest, Arvind Easwaran, Nicholas Ng and Shweta Menon, "DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins", International Conference on Engineering Digital Twins (EDTconf), 2025.</li>
    			<li class="a">Chuanchao Gao and Arvind Easwaran, "Real-Time Service Subscription and Adaptive Offloading Control in Vehicular Edge Computing", IEEE Real-Time Systems Symposium (RTSS), 2025.</li>
    			<li class="a">Mohit Prashant and Arvind Easwaran, "Improving Reinforcement Learning Sample-Efficiency using Local Approximation", European Conference on Artificial Intelligence (ECAI), 2025.(<a href="https://arxiv.org/pdf/2507.12383">arXiv</a>)</li>
    			<li class="a">Matthias Stammler, Fabian Lesniak, Niraj Kumar, Arvind Easwaran and J&uuml;rgen Becker, "HM2GP: a Multi-Version Task Scheduler with Extended Precedence Constraints on COTS SoCs", IEEE International System-on-Chip Conference (SOCC), 2025.</li>   
