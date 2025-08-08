@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol>
-  	  	<li class="a">Michael Yuhas and Arvind Easwaran, "Toward State-Aware Scheduling of Machine-Learning Workloads", Springer Real-Time Systems, to appear.(<a href="https://rdcu.be/eplgR">Springer-SharedIt</a>)</li>
+  	  	<li class="a">Michael Yuhas and Arvind Easwaran, "Toward State-Aware Scheduling of Machine-Learning Workloads", Springer Real-Time Systems, Volume 61, Pages 281-287, June 2025.(<a href="https://rdcu.be/eplgR">Springer-SharedIt</a>)</li>
 		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Adaptive Hierarchical Graph Cut for Multi-granularity Out-of-distribution Detection", IEEE Transactions on Artificial Intelligence (TAI), to appear.</li>   	
 		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Your Data Is Not Perfect: Towards Cross-Domain Out-of-Distribution Detection in Class-Imbalanced Data", Elsevier Expert Systems with Applications (ESWA), Volume 267, April 2025.</li>   	
   		<li class="a">Suman Das, Michael Yuhas, Rachel Koh and Arvind Easwaran, "Interpretable Latent Space for Meteorological Out-of-Distribution Detection via Weak Supervision", ACM Transactions on Cyber-Physical Systems (TCPS), Volume 8, Issue 2, Pages 1-26, May 2024.</li>
@@ -155,6 +155,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
+		        <li class="a">Chuanchao Gao and Arvind Easwaran, "VecSim, a Vehicular Edge Computing Simulator for Real-Time Applications", Demo Session of IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2025.</li>
 		        <li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Improving Demand Response Programs Using Override Signals with Reinforcement Learning", International Workshop on Advanced Deep Reinforcement Learning in Energy Systems (ADELE), 2025.</li>
 		        <li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Programmatic Reinforcement Learning for Trustworthy Microgrid Management",  AI for X Conference (AI4X), 2025.</li>
 		        <li class="a">Yip Jun Kai, Eduardo de Conto and Arvind Easwaran, "Quantifying Uncertainty in Physics-Informed Neural Networks",  AI for X Conference (AI4X), 2025.</li> 
