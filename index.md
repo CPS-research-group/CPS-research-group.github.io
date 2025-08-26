@@ -18,7 +18,7 @@ Yagneshwar Dharmalingam (Engineer)"
 Manoj Kumar Lenka (PhD) \n\n
 Kai Bing Chua (PhD) \n\n 
 Soumya Ranjan Sahoo (PhD) \n\n
-Eduardo de Conto Fernandes (PhD) \n\n
+Eduardo de Conto (PhD) \n\n
 Subrat Prasad Panda (PhD) \n\n
 Sharath Ram Kumar (PhD) \n\n
 Mohit Prashant (PhD) \n\n
