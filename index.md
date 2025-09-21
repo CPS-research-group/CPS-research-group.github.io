@@ -94,6 +94,7 @@ The transition towards electrified transportation systems presents significant c
 Cloud computing has become the default architecture of choice in many domains, primarily driven by the proliferation of compute-intensive Artificial Intelligence technologies. Orthogonally, with the increasing popularity of Internet-of-Things, decentralization of cloud computing in the form of edge and mobile computing is also happening. Although applications with time-critical functions have not yet been deployed on such architectures, this is rapidly changing with the advent of next-generation wireless technology like LoRa and 5G. For example, such applications can be found in manufacturing (real-time robotic controls), driving automation (localization using vehicle-to-infrastructure communication) and energy management (managing energy flexibilities in urban energy systems). In this project, we address the problem of resource (computation and communication) allocations in such architectures, considering a mixed deployment of time-critical as well as non time-critical applications, with the objective to minimize the energy consumption of low power end devices. We aim to solve the problem holistically taking into account all the relevant resources, and focus on decentralized online solutions with analytical performance guarantees.
 
 *Tier-2 Research Grant (Ministry of Education, Singapore)*
+
 Open Source Project: [mecRT](https://github.com/gaochuanchao/mecRT) (Mobile Edge Computing Simulator for Real-Time Applications)
 
 [Read More](/cloud){: .btn .btn--primary}
