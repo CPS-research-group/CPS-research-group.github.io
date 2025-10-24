@@ -157,8 +157,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
+		        <li class="a">Chuanchao Gao and Arvind Easwaran, "Demo: VecSim, a Vehicular Edge Computing Simulator for Real-Time Applications", Brief Presentations Session of IEEE Real-Time Systems Symposium (RTSS), 2025.</li>
 		        <li class="a">Xiaotao Liu, Prashant Mohit and Arvind Easwaran, "CAPO: A Unified Policy Gradient Approach for Reward and Cost Optimization in Safe Reinforcement Learning", (AAAI), 2025.</li>
-
 		        <li class="a">Chuanchao Gao and Arvind Easwaran, "VecSim, a Vehicular Edge Computing Simulator for Real-Time Applications", Demo Session of IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2025.</li>
 		        <li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Improving Demand Response Programs Using Override Signals with Reinforcement Learning", International Workshop on Advanced Deep Reinforcement Learning in Energy Systems (ADELE), 2025.</li>
 		        <li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Programmatic Reinforcement Learning for Trustworthy Microgrid Management",  AI for X Conference (AI4X), 2025.</li>
