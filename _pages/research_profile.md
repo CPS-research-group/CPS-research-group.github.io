@@ -22,7 +22,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 </style>
 ******
 ## Journals
-  <ol>
+  <ol> 
+  	  	<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant, Remy Rigo-Mariani, "Deep Reinforcement Learning for Coordinated Air-Conditioner Control in Groups of Buildings Using Smart Meter Data", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear.</li>
   	  	<li class="a">Benoit Delinchant, Rajesh K. Ahir and Arvind Easwaran, "Time-Series Clustering: A Benchmark Study on Energy Data with Insights into Demand Response", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear.</li>
   	  	<li class="a">Michael Yuhas and Arvind Easwaran, "Toward State-Aware Scheduling of Machine-Learning Workloads", Springer Real-Time Systems, Volume 61, Pages 281-287, June 2025.(<a href="https://rdcu.be/eplgR">Springer-SharedIt</a>)</li>
 		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Adaptive Hierarchical Graph Cut for Multi-granularity Out-of-distribution Detection", IEEE Transactions on Artificial Intelligence (TAI), to appear.(<a href="https://arxiv.org/abs/2412.15668">arXiv</a>)</li>   	
