@@ -67,6 +67,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Mohit Prashant and Arvind Easwaran, "Scenario Generation for Risk-Aware Reinforcement Learning", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) -- Extended Abstract, 2025.</li>
    			<li class="a">Matthias Stammler, Henrik Scheidt, Tanja Harbaum, Juergen Becker, Konstantin Dudzik, Victor Pazmino, Federico Gavioli, Paolo Burgio, Arvind Easwaran and Andreas Eckel, "Multi-Partner Project: Scheduling-Deployment Workflow for Autonomous RoboRacer Driving Stacks in the HAL4SDV Project", Design Automation and Test in Europe (DATE), 2026.</li>
    			<li class="a">Michael Yuhas, Rajesh K. Ahir, Laksamana Vixell Tanjaya Hartono, Muhammad Dzaki Dwi Putranto, Arvind Easwaran and Suhono Harso Supangkat, "Managing Charging Induced Grid Stress and Battery Degradation in Electric Taxi Fleets", IEEE PES Conference on Innovative Smart Grid Technologies - Asia (ISGT Asia), 2025.(<font color="FF0000"><B>Best Application Paper Award</B></font>)</li>
    			<li class="a">Eduardo de Conto, Blaise Genest, Arvind Easwaran, Nicholas Ng and Shweta Menon, "DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins", International Conference on Engineering Digital Twins (EDTconf), 2025.</li>
