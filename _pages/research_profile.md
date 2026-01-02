@@ -23,7 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol> 
-  	  	<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant, Remy Rigo-Mariani, "Deep Reinforcement Learning for Coordinated Air-Conditioner Control in Groups of Buildings Using Smart Meter Data", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear.</li>
+  	  	<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant, Remy Rigo-Mariani, "Deep Reinforcement Learning for Coordinated Air-Conditioner Control in Groups of Buildings Using Smart Meter Data", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear. (<a href="https://doi.org/10.1016/j.engappai.2025.113536">Open Access</a>).</li>
   	  	<li class="a">Benoit Delinchant, Rajesh K. Ahir and Arvind Easwaran, "Time-Series Clustering: A Benchmark Study on Energy Data with Insights into Demand Response", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear.</li>
   	  	<li class="a">Michael Yuhas and Arvind Easwaran, "Toward State-Aware Scheduling of Machine-Learning Workloads", Springer Real-Time Systems, Volume 61, Pages 281-287, June 2025.(<a href="https://rdcu.be/eplgR">Springer-SharedIt</a>)</li>
 		<li class="a">Xiang Fang, Arvind Easwaran, Blaise Genest and Ponnuthurai N. Suganthan, "Adaptive Hierarchical Graph Cut for Multi-granularity Out-of-distribution Detection", IEEE Transactions on Artificial Intelligence (TAI), to appear.(<a href="https://arxiv.org/abs/2412.15668">arXiv</a>)</li>   	
@@ -67,7 +67,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
-   			<li class="a">Mohit Prashant and Arvind Easwaran, "Scenario Generation for Risk-Aware Reinforcement Learning", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) -- Extended Abstract, 2025.</li>
+   			<li class="a">Mohit Prashant and Arvind Easwaran, "Scenario Generation for Risk-Aware Reinforcement Learning", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) - Extended Abstract, 2025.</li>
    			<li class="a">Matthias Stammler, Henrik Scheidt, Tanja Harbaum, Juergen Becker, Konstantin Dudzik, Victor Pazmino, Federico Gavioli, Paolo Burgio, Arvind Easwaran and Andreas Eckel, "Multi-Partner Project: Scheduling-Deployment Workflow for Autonomous RoboRacer Driving Stacks in the HAL4SDV Project", Design Automation and Test in Europe (DATE), 2026.</li>
    			<li class="a">Michael Yuhas, Rajesh K. Ahir, Laksamana Vixell Tanjaya Hartono, Muhammad Dzaki Dwi Putranto, Arvind Easwaran and Suhono Harso Supangkat, "Managing Charging Induced Grid Stress and Battery Degradation in Electric Taxi Fleets", IEEE PES Conference on Innovative Smart Grid Technologies - Asia (ISGT Asia), 2025.(<font color="FF0000"><B>Best Application Paper Award</B></font>)</li>
    			<li class="a">Eduardo de Conto, Blaise Genest, Arvind Easwaran, Nicholas Ng and Shweta Menon, "DesCartes Builder: A Tool to Develop Machine-Learning Based Digital Twins", International Conference on Engineering Digital Twins (EDTconf), 2025.</li>

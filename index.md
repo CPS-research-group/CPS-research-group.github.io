@@ -57,7 +57,7 @@ Arpita Bhattacharjee (Veoneer, India)"
 # Overview
 Cyber-Physical Systems (CPS) encompass systems in which the cyber world of computation and communication closely interacts with the physical world of sensors and actuators. These are highly networked and deeply embedded systems such as those found in modern day aircrafts, automotives, factories, medical devices, smart phones, electric grids, etc. From driver-less cars and air traffic management using sense and avoid, to plug-and-play operating rooms and smart electric grids that integrate traditional and renewable energy sources, intelligent automation of an enormous scale is finding its way into many of these systems.
 
-Primary interests of the CPS Research Group @SCSE,NTU are in the design and analysis of safety-critical and time-critical CPS, with a particular focus on cyber-resource management and safety assurance. The current research themes can be broadly classified as follows:
+Primary interests of the CPS Research Group @CCDS,NTU are in the design and analysis of safety-critical and time-critical CPS, with a particular focus on cyber-resource management and safety assurance. The current research themes can be broadly classified as follows:
 
 <ol>
 <li>Resource Management and Scheduling</li>
