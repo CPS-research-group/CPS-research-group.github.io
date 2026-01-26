@@ -235,7 +235,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 		<li class="a"> Sriram Vasudevan and Arvind Easwaran, "Techniques for Achieving Time-Predictability in Multicores-A Survey", NTU, Technical Report, 2015.</li>
 		<li class="a"> Arvind Easwaran, Brendan Hall and Kevin Schweiker, "Model-Driven Test Generation of Distributed Systems", NASA Langley Research Center, Technical Report, NASA/CR-2012-217764, 2012.</li>
 		<li class="a">Arvind Easwaran, "Inferring Automata and its Application to Compositional Verification", PhD Qualifying Exam (Written Preliminary Exam II), January 2006.</li>
-		<li class="a">Arvind Easwaran, Insik Shin, Insup Lee, and Oleg Sokolsky, "Bounding Preemptions under EDF and RM schedulers", University of Pennsylvania, Technical Report, MS-CIS-06-06, 2006.</li>
+		<li class="a">Arvind Easwaran, Insik Shin, Insup Lee, and Oleg Sokolsky, "Bounding Preemptions under EDF and RM schedulers", University of Pennsylvania, Technical Report, MS-CIS-06-07, 2006.</li>
  		<li class="a">Arvind Easwaran, Sampath Kannan, and Insup Lee, "Optimal Control of Software ensuring Safety and Functionality", University of Pennsylvania, Technical Report, MS-CIS-05-20, 2005.</li>
 		<li class="a">David Arney, Arvind Easwaran, Nikhil Dinesh, and Insup Lee, "Verification and Testing of Natural Language Policy Documents", University of Pennsylvania, Technical Report, MS-CIS-05-25, 2005.</li> 			
 		</ol>
