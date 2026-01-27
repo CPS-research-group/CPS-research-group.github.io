@@ -200,7 +200,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
  			<li class="a">Arvind Easwaran and Bj&ouml;rn Andersson, "Scheduling Sporadic Tasks on Multiprocessors with Mutual Exclusion Constraints", Workshop on Real-Time Systems on Multicore Platforms: Theory and Practice (co-located with ICPP), 2009.</li>
  			<li class="a">Arvind Easwaran and Insup Lee, "Compositional Schedulability Analysis for Cyber-Physical Systems", ACM SIGBED Review, Volume 5, Number 1, January 2008: Special Issue on the RTSS 2007 Forum on Deeply Embedded Real-Time Computing (<font color="FF0000"><B>Most Viable Solution Award</B></font>).</li>
  			<li class="a">Arvind Easwaran, Insik Shin and Insup Lee, "Towards Optimal Multiprocessor Scheduling for Arbitrary Deadline Tasks", Work-in-Progress Session of Real-Time Systems Symposium (RTSS), 2008.</li>
- 			<li class="a">Arvind Easwaran, Madhukar Anand, Insup Lee and Oleg Sokolsky, "On the Complexity of Generating Optimal Interfaces for Hierarchical Systems", Workshop on Compositional Theory and Technology for Real-Time Embedded Systems (CRTS), 2008.</li>
+ 			<li class="a">Arvind Easwaran, Madhukar Anand, Insup Lee and Oleg Sokolsky, <a class="a" href="/assets/documents/crts08.pdf">"On the Complexity of Generating Optimal Interfaces for Hierarchical Systems"</a>, Workshop on Compositional Theory and Technology for Real-Time Embedded Systems (CRTS), 2008.</li>
  			<li class="a">Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Interface Algebra for Analysis of Hierarchical Real-Time Systems", International Workshop on Foundations in Interface Technologies (FIT), 2008.</li>
  			<li class="a">Arvind Easwaran, Sampath Kannan and Oleg Sokolsky, "Steering of Discrete Event Systems: Control Theory Approach", Electronic Notes in Theoretical Computer Science, Volume 144, Number 4, Pages 21-39, 2006: Publication of International Workshop on Runtime Verification (RV), 2005.</li>
  			<li class="a">Usa Sammapun, Arvind Easwaran, Insup Lee and Oleg Sokolsky, "Simulation of Simultaneous Events in Regular Expressions", Electronic Notes in Theoretical Computer Science, Volume 113, Pages 123-143, 2005: Publication of International Workshop on Runtime Verification (RV), 2004.</li>
@@ -215,7 +215,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Patents
 
 <ol>
-			      <li class="a">Mainak Dan, Jose Peeterson Emerson Raja, Arvind Easwaran and Avalpreet Singh Brar, "A System and Method for Determining a Charging Schedule for a Plurality of Vehicles", Patent application filed through NTU and Continental, Singapore.</li>
+			<li class="a">Mainak Dan, Jose Peeterson Emerson Raja, Arvind Easwaran and Avalpreet Singh Brar, "A System and Method for Determining a Charging Schedule for a Plurality of Vehicles", Patent application filed through NTU and Continental, Singapore.</li>
 		        <li class="a">Heejong Park, Gao Chuanchao, Arvind Easwaran and Cheng Chia Loon, "Digital Twin Driven Automated Mobile SMT Material Transfer System", Patent application filed through NTU and Delta Research Center, Singapore.</li>
 		        <li class="a">Zhiheng Xu, Jun Xian Daniel Ng, Omar Bataineh, Arvind Easwaran, Sidharta Andalam and Jeffrey Soon, "Decentralized Cyber-Physical System", US Patent Number: 11307917, Issued: 19-Apr-2022.</li>
 		        <li class="a">Arvind Easwaran and Srivatsan Varadarajan, "Systems and methods generating inter-group and intra-group execution schedules for instruction entity allocation and scheduling on multi-processors", US Patent Number: 9612868, Issued: 04-Apr-2017.</li>
@@ -232,10 +232,10 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Technical Reports
 
 <ol>
-		<li class="a"> Sriram Vasudevan and Arvind Easwaran, "Techniques for Achieving Time-Predictability in Multicores-A Survey", NTU, Technical Report, 2015.</li>
+		<li class="a"> Sriram Vasudevan and Arvind Easwaran, <a class="a" href="/assets/documents/multi_core_survey.pdf">"Techniques for Achieving Time-Predictability in Multicores-A Survey"</a>, NTU, Technical Report, 2015.</li>
 		<li class="a"> Arvind Easwaran, Brendan Hall and Kevin Schweiker, "Model-Driven Test Generation of Distributed Systems", NASA Langley Research Center, Technical Report, NASA/CR-2012-217764, 2012.</li>
-		<li class="a">Arvind Easwaran, "Inferring Automata and its Application to Compositional Verification", PhD Qualifying Exam (Written Preliminary Exam II), January 2006.</li>
-		<li class="a">Arvind Easwaran, Insik Shin, Insup Lee, and Oleg Sokolsky, "Bounding Preemptions under EDF and RM schedulers", University of Pennsylvania, Technical Report, MS-CIS-06-07, 2006.</li>
+		<li class="a">Arvind Easwaran, <a class="a" href="/assets/documents/wpeII.pdf">"Inferring Automata and its Application to Compositional Verification"</a>, PhD Qualifying Exam (Written Preliminary Exam II), January 2006.</li>
+		<li class="a">Arvind Easwaran, Insik Shin, Insup Lee, and Oleg Sokolsky, <a class="a" href="/assets/documents/MS-CIS-06-07.pdf">"Bounding Preemptions under EDF and RM schedulers"</a>, University of Pennsylvania, Technical Report, MS-CIS-06-07, 2006.</li>
  		<li class="a">Arvind Easwaran, Sampath Kannan, and Insup Lee, "Optimal Control of Software ensuring Safety and Functionality", University of Pennsylvania, Technical Report, MS-CIS-05-20, 2005.</li>
 		<li class="a">David Arney, Arvind Easwaran, Nikhil Dinesh, and Insup Lee, "Verification and Testing of Natural Language Policy Documents", University of Pennsylvania, Technical Report, MS-CIS-05-25, 2005.</li> 			
 		</ol>
