@@ -67,6 +67,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Taoran Wu, Yiling Xue, Jingduo Pan, Dejin Ren, Arvind Easwaran and Bai Xue, "Convex Computations for Controlled Safety Invariant Sets of Black-box Discrete-time Dynamical Systems", IFAC World Congress (IFAC WC), 2026.</li>
    			<li class="a">Chuanchao Gao, Yiyang Gao, Michael Yuhas and Arvind Easwaran, "Fault-Tolerant Offloading Framework for Real-Time Applications in Mobile Edge Computing", IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2026.</li>
    			<li class="a">Mohit Prashant and Arvind Easwaran, "Scenario Generation for Risk-Aware Reinforcement Learning", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) - Extended Abstract, 2026.</li>
    			<li class="a">Matthias Stammler, Henrik Scheidt, Tanja Harbaum, Juergen Becker, Konstantin Dudzik, Victor Pazmino, Federico Gavioli, Paolo Burgio, Arvind Easwaran and Andreas Eckel, "Multi-Partner Project: Scheduling-Deployment Workflow for Autonomous RoboRacer Driving Stacks in the HAL4SDV Project", Design Automation and Test in Europe (DATE), 2026.</li>
