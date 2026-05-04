@@ -23,6 +23,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ******
 ## Journals
   <ol> 
+  		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, "Approximation-Free Differentiable Oblique Decision Trees", Journal of Machine Learning Research (JMLR), to appear.</li>
   	  	<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant, Remy Rigo-Mariani, "Deep Reinforcement Learning for Coordinated Air-Conditioner Control in Groups of Buildings Using Smart Meter Data", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear. (<a href="https://doi.org/10.1016/j.engappai.2025.113536">Open Access</a>).</li>
   	  	<li class="a">Rajesh K. Ahir, Benoit Delinchant and Arvind Easwaran, "Time-Series Clustering: A Benchmark Study on Energy Data with Insights into Demand Response", Elsevier Engineering Applications of Artificial Intelligence (EAAI), to appear.</li>
   	  	<li class="a">Michael Yuhas and Arvind Easwaran, "Toward State-Aware Scheduling of Machine-Learning Workloads", Springer Real-Time Systems, Volume 61, Pages 281-287, June 2025.(<a href="https://rdcu.be/eplgR">Springer-SharedIt</a>)</li>
