@@ -68,8 +68,9 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery and Databases (ECML-PKDD), 2026.</li>
  			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Building Thermal Modeling from Operational Data using Deep Learning and Grey-Box Models", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li>
- 			<li class="a">Raditya Chema Hafizh Pradigta, Sharath Ram Kumar and Arvind Easwaran, "Co-Simulation of Vehicle-to-Building (V2B) and Thermal Loads: A Scalable Testbed for Integrated Demand Response in Commercial Facilities", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li> 
+ 			<li class="a">Raditya Chema Hafizh Pradigta, Sharath Ram Kumar, Rajesh K. Ahir and Arvind Easwaran, "Co-Simulation of Vehicle-to-Building (V2B) and Thermal Loads: A Scalable Testbed for Integrated Demand Response in Commercial Facilities", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li> 
    			<li class="a">Taoran Wu, Yiling Xue, Jingduo Pan, Dejin Ren, Arvind Easwaran and Bai Xue, "Convex Computations for Controlled Safety Invariant Sets of Black-box Discrete-time Dynamical Systems", IFAC World Congress (IFAC WC), 2026.</li>
    			<li class="a">Chuanchao Gao, Yiyang Gao, Michael Yuhas and Arvind Easwaran, "Fault-Tolerant Offloading Framework for Real-Time Applications in Mobile Edge Computing", IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2026.</li>
    			<li class="a">Mohit Prashant and Arvind Easwaran, "Scenario Generation for Risk-Aware Reinforcement Learning", International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) - Extended Abstract, 2026.</li>
