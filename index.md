@@ -8,25 +8,28 @@ sidebar:
 
   - title: "Research Staff"
     text: "
-Rajesh Ahir (Postdoc)\n\n
-Michael Yuhas (Engineer)\n\n
-Xinwei Gao (Engineer)\n\n
-Yagneshwar Dharmalingam (Engineer)"
+Ipsita Koley (Postdoc)\n\n
+Zexin Li (Postdoc)"
 
   - title: "Research Students"
     text: "
+Xinwei Gao (PhD)\n\n
+Raditya Chema Hafizh Pradigta (PhD) \n\n
+Yiyang Gao (PhD) \n\n
 Manoj Kumar Lenka (PhD) \n\n
-Kai Bing Chua (PhD) \n\n 
-Soumya Ranjan Sahoo (PhD) \n\n
+Kai Bing Chua (PhD) \n\n
 Eduardo de Conto (PhD) \n\n
-Subrat Prasad Panda (PhD) \n\n
-Sharath Ram Kumar (PhD) \n\n
-Mohit Prashant (PhD) \n\n
-Xiang Fang (PhD) \n\n
-Gao Chuanchao (PhD)"
+Subrat Prasad Panda (PhD)
+"
 
   - title: "Former Staff/Students"
     text: "
+Rajeshkumar Ahir (NTU, Singapore)
+Sharath Ram Kumar (Cosmos Innovation, Singapore) \n\n
+Mohit Prashant \n\n
+Fang Xiang \n\n
+Michael Yuhas (St. Mary's University, Texas, USA)\n\n
+Gao Chuanchao (Uppsala University, Sweden) \n\n
 Mainak Dan (Univ. of Grenoble, France) \n\n
 Amalinda Jathun (NUS, Singapore) \n\n
 James Singh (IIT-Delhi, India) \n\n
