@@ -22,7 +22,8 @@ a.a:active {color:#0000FF; text-decoration:none;}
 </style>
 ******
 ## Journals
-  <ol> 
+  <ol>
+  		<li class="a">Taoran Wu, Yiling Xue, Dejin Ren, Arvind Easwaran, Martin Fr&auml;nzle and Bai Xue, "Controlled Reach-avoid Set Computation for Discrete-time Polynomial Systems via Convex Optimization", IEEE Transactions on Automatic Control - Technical Note (TAC), to appear.</li>  
   		<li class="a">Eduardo de Conto Fernandes, Blaise Genest, Arvind Easwaran, Nicholas Ng and Shweta Menon, "Building Real-Time Digital Twin Instances with Function+Data Flow: User Evaluation and Extension for Iterative Pipelines", Springer International Journal on Software and Systems Modeling (SoSym), to appear.</li>
   		<li class="a">Subrat Prasad Panda, Blaise Genest, Arvind Easwaran, "Approximation-Free Differentiable Oblique Decision Trees", Journal of Machine Learning Research (JMLR), to appear (<a href="http://jmlr.org/papers/v27/25-2047.html">Open Access</a>).</li>
   	  	<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Remy Rigo-Mariani, "Deep Reinforcement Learning for Coordinated Air-Conditioner Control in Groups of Buildings Using Smart Meter Data", Elsevier Engineering Applications of Artificial Intelligence (EAAI), Volume 166, Part B, February 2026 (<a href="https://doi.org/10.1016/j.engappai.2025.113536">Open Access</a>).</li>
@@ -69,6 +70,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+   			<li class="a">Manoj Kumar Lenka, Chuanchao Gao and Arvind Easwaran, "Beamforming in Multi-User Wireless Systems with Data Rate Guarantees", International Conference on Real-Time Networks and Systems (RTNS), 2026.</li>   
    			<li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery and Databases (ECML-PKDD), 2026.</li>
  			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Building Thermal Modeling from Operational Data using Deep Learning and Grey-Box Models", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li>
  			<li class="a">Raditya Chema Hafizh Pradigta, Sharath Ram Kumar, Rajesh K. Ahir and Arvind Easwaran, "Co-Simulation of Vehicle-to-Building (V2B) and Thermal Loads: A Scalable Testbed for Integrated Demand Response in Commercial Facilities", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li> 
