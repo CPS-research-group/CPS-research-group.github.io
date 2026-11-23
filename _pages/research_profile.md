@@ -70,6 +70,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 
 ## Conferences
    <ol>
+ 			<li class="a">Raditya Chema Hafizh Pradigta, Remy Rigo-Mariani and Arvind Easwaran, "Demand-Fulfillment Trade-offs in a Joint Routing and Vehicle-to-Building Peak-Shaving Model", IEEE Power and Energy Society International Meeting (PES-IM), 2027.</li> 
    			<li class="a">Manoj Kumar Lenka, Chuanchao Gao and Arvind Easwaran, "Beamforming in Multi-User Wireless Systems with Data Rate Guarantees", International Conference on Real-Time Networks and Systems (RTNS), 2026.</li>   
    			<li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning", European Conference on Machine Learning and Principles and Practice of Knowledge Discovery and Databases (ECML-PKDD), 2026.</li>
  			<li class="a">Sharath Ram Kumar, Arvind Easwaran, Benoit Delinchant and Rémy Rigo-Mariani, "Building Thermal Modeling from Operational Data using Deep Learning and Grey-Box Models", Asian Conference of the International Building Performance Simulation Association (ASim) - Short-Paper, 2026.</li>
@@ -169,6 +170,7 @@ a.a:active {color:#0000FF; text-decoration:none;}
 ## Workshops
  
  <ol>
+		        <li class="a">Subrat Panda, Blaise Genest and Arvind Easwaran, "Neurosymbolic Learning of Interpretable Abstraction in Reinforcement Learning", Annual AAAI Conference on Artificial Intelligence -- Student Abstract and Poster Program (AAAI-SA), 2027.</li>
 		        <li class="a">Chuanchao Gao and Arvind Easwaran, "Demo: VecSim, a Vehicular Edge Computing Simulator for Real-Time Applications", Brief Presentations Session of IEEE Real-Time Systems Symposium (RTSS), 2025.</li>
 		        <li class="a">Xiaotao Liu, Prashant Mohit and Arvind Easwaran, "CAPO: A Unified Policy Gradient Approach for Reward and Cost Optimization in Safe Reinforcement Learning", Student Paper in Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.</li>
 		        <li class="a">Chuanchao Gao and Arvind Easwaran, "VecSim, a Vehicular Edge Computing Simulator for Real-Time Applications", Demo Session of IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2025.</li>
